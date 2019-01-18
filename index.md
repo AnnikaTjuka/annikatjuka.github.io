@@ -60,17 +60,17 @@ Group head: Dr. Gesa Hartwigsen
 
 **2018** 
 
-November. [The belly of the cabbage - Body-part metaphors as a window into the mind.](colloquium_syntaxandsemantic_tjuka.pdf) Colloquium Syntax and Semantic. Humboldt-Universität zu Berlin.
+November. [The belly of the cabbage - Body-part metaphors as a window into the mind.](/slides/presi_colloquium_tjuka.pdf) Colloquium Syntax and Semantic. Humboldt-Universität zu Berlin.
 
-October. [Elicitation in linguistic fieldwork - or how to capture a speaker's view of the world.](Presi_RUB_tjuka.pdf) 3<sup>rd</sup>  student conference 'Research and teaching in student hands'. Bochum, DE.
+October. [Elicitation in linguistic fieldwork - or how to capture a speaker's view of the world.](/slides/presi_RUB_tjuka.pdf) 3<sup>rd</sup>  student conference 'Research and teaching in student hands'. Bochum, DE.
 
-August. [Can typological studies show us how the brain processes language?](presi_lingmeet_tjuka.pdf) 5<sup>th</sup> Linguistik Meetup Berlin-Potsdam. Potsdam, DE.
+August. [Can typological studies show us how the brain processes language?](/slides/presi_lingmeet_tjuka.pdf) 5<sup>th</sup> Linguistik Meetup Berlin-Potsdam. Potsdam, DE.
 
 July. (invited talk) _Including linguistic variation to understand the processing of language._ Universität des Saarlandes. Saarbrücken, DE. 
 
-May. [Don't judge from the outside: A deeper look into the Vietnamese tense system.](Presi_Stuts_tjuka.pdf) 63<sup>rd</sup>  Student Conference Linguistics (StuTS). Kiel, DE.
+May. [Don't judge from the outside: A deeper look into the Vietnamese tense system.](/slides/presi_Stuts_tjuka.pdf) 63<sup>rd</sup>  Student Conference Linguistics (StuTS). Kiel, DE.
 
-April. [Time and perspective in a supposedly tenseless language.](presi_twist_tjuka.pdf) 12<sup>th</sup> T.W.I.S.T. Student Conference for Linguistics, Leiden, NL.
+April. [Time and perspective in a supposedly tenseless language.](/slides/presi_twist_tjuka.pdf) 12<sup>th</sup> T.W.I.S.T. Student Conference for Linguistics, Leiden, NL.
 
 ## Contact
 
