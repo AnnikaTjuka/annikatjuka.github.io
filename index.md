@@ -1,24 +1,26 @@
 
 ![Image](me.JPG)
 
-# Annika Tjuka 
-## Linguist
+# Annika Tjuka, Linguist 
 
-I have a Bachelor of Arts degree in German Linguistic and now I am working on my Masters thesis in Typology combined with Cognitive Linguistics. My thesis looks at body part metaphors as a window to cognition. I am using a targeted elicitation to conduct a cross-linguistic study.
+## About me
 
-In addition, I am a student research assistant in two different projects. The first is located in Experimental Pragmatics. In this project we investigate how humans process meaning that goes beyond the individual words in an utterance, concentrating on the processing of focus alternatives. The second one connects Typology and Semantics. It is concerned with corpus-based research on TAM and polarity expressions in Oceanic languages of Melanesia.
+I have a Bachelor of Arts degree in German Linguistic and now work on my Masters thesis in Typology combined with Cognitive Linguistics. My thesis looks at body-part metaphors as a window to cognition. I used a targeted elicitation to conduct a cross-linguistic study.
 
+In addition, I am a student research assistant in two different projects. The first is inthe field of experimental pragmatics. In this project we investigate how humans process meaning that goes beyond the individual words in an utterance, concentrating on the processing of focus alternatives. The second one connects typology and semantics. It is concerned with corpus-based research on TAM and polarity expressions in Oceanic languages of Melanesia.
 
-## Academic Education
+## CV
+
+### Academic Education
 
 2016 - 2019 **Master of Arts in Linguistics** at Humboldt-Universität zu Berlin
 
 2013 - 2016 **Bachelor of Arts in German Linguistics and Scandinavian Studies** at Humboldt-Universität zu Berlin
 
 
-## Masters Thesis
+### Masters Thesis
 
-**Body part metaphors as a window to cognition: A cross-linguistic study of object and landscape terms**
+**Body-part metaphors as a window to cognition: A cross-linguistic study of object and landscape terms**
 
 Supervisors: Prof. Dr. Elisabeth Verhoeven and Dr. Kilu von Prince
 
@@ -29,7 +31,7 @@ Description: I conducted the first systematic typological study of body-part met
 [Revised list of body-part metaphors](https://doi.org/10.6084/m9.figshare.7613189.v1)
 
 
-## Bachelors Thesis
+### Bachelors Thesis
 
 **Emotionalisierung durch Texte**
 
@@ -38,7 +40,7 @@ Supervisors: Prof. Dr. Katharina Spalek and Prof. Dr. Manfred Krifka
 Description: I collaborated with a software engineer to search my text corpora for emotional words. For this, we created a tool which utilized the Natural Language Processing Kit in Python, so that it could analyze the text corpora and compare them with a list of 3000 words. Afterwards, I analyzed the frequency and psycholinguistic measures of the matching words. (Grade: 1.5)
 
 
-## Work experience in Academia 
+### Work experience in Academia 
 
 2017 - Present **Student research assistant** in the [MelaTAMP](https://www.projekte.hu-berlin.de/en/melatamp/project%20description?set_language=en) project, funded by the German Research Foundation (DFG): A corpus- based research on TAM and polarity expressions in Oceanic languages of Melanesia.
 Principal investigators: Dr. Kilu von Prince, Prof. Dr. M. Krifka
@@ -53,14 +55,14 @@ Group head: Dr. Gesa Hartwigsen
 [full CV](https://www.overleaf.com/read/gvpkbfrsqsxm)
 
 
-## Posters
+### Posters
 
 **2019**
 
 (accepted) March. _The heel of the bread and the tongue of the sea - Body-part metaphors in object and landscape terms._ The Creative Power of Metaphor. Worcester College, Oxford, UK.
 
 
-## Talks
+### Talks
 
 **2018** 
 
@@ -80,5 +82,5 @@ April. [Time and perspective in a supposedly tenseless language.](/slides/presi_
 
 <annika.tjuka@hu-berlin.de>
 
-[Researchgate](https://www.researchgate.net/profile/Annika_Tjuka)
+[ResearchGate](https://www.researchgate.net/profile/Annika_Tjuka)
 
