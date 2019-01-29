@@ -1,4 +1,3 @@
-# annikatjuka.github.io
 
 This repository creates and publishes my personal website with GitHub Pages using the Jekyll Theme Chooser.
 
