@@ -26,6 +26,8 @@ Supervisors: Prof. Dr. Elisabeth Verhoeven and Dr. Kilu von Prince
 
 Description: I conducted the first systematic typological study of body-part metaphors in object and landscape terms. The study consisted of 53 pictures illustrating object and landscape parts which were based on 93 body-part metaphors. The analysis showed that some metaphors are far more consistent across languages than others. For example, 'leg of the chair/table' is present throughout the whole language sample.
 
+[MA thesis](/slides/masterthesis_tjuka_120219.pdf) 
+
 [Elicitation material](https://doi.org/10.6084/m9.figshare.7613120.v1)
 
 [Revised list of body-part metaphors](https://doi.org/10.6084/m9.figshare.7613189.v1)
