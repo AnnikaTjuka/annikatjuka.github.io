@@ -72,7 +72,7 @@ March. _The heel of the bread and the tongue of the sea - Body-part metaphors in
 
 **2019**
 
-March. (invited talk) _'The cognitive foundation of body-part metaphors.'_ Max Planck Institute for Psycholinguistics, Nijmegen, NL.
+March. (invited talk) _The cognitive foundation of body-part metaphors._ Max Planck Institute for Psycholinguistics, Nijmegen, NL.
 
 **2018** 
 
