@@ -74,6 +74,8 @@ March. _The heel of the bread and the tongue of the sea - Body-part metaphors in
 
 (accepted) May. _'The heart of the apple' - The cognitive foundation of body-part metaphors._ Researching Metaphor: Cognitive and Other, Genoa, Italy.
 
+March. (invited talk) _'The cognitive foundation of body-part metaphors.'_ Max Planck Institute for Psycholinguistics, Nijmegen, NL.
+
 **2018** 
 
 November. [The belly of the cabbage - Body-part metaphors as a window into the mind.](/slides/presi_colloquium_tjuka.pdf) Colloquium Syntax and Semantic. Humboldt-Universität zu Berlin.
