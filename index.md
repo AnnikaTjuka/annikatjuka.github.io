@@ -9,7 +9,7 @@ I have a Bachelor of Arts degree in German Linguistic and now work on my Masters
 
 In addition, I am a student research assistant in two different projects. The first is inthe field of experimental pragmatics. In this project we investigate how humans process meaning that goes beyond the individual words in an utterance, concentrating on the processing of focus alternatives. The second one connects typology and semantics. It is concerned with corpus-based research on TAM and polarity expressions in Oceanic languages of Melanesia.
 
-## CV
+## Curriculum Vitae
 
 ### Academic Education
 
@@ -26,7 +26,7 @@ Supervisors: Prof. Dr. Elisabeth Verhoeven and Dr. Kilu von Prince
 
 Description: I conducted the first systematic typological study of body-part metaphors in object and landscape terms. The study consisted of 53 pictures illustrating object and landscape parts which were based on 93 body-part metaphors. The analysis showed that some metaphors are far more consistent across languages than others. For example, 'leg of the chair/table' is present throughout the whole language sample.
 
-[MA thesis](/slides/masterthesis_tjuka_120219.pdf) 
+[Thesis pdf](/slides/masterthesis_tjuka_120219.pdf) 
 
 [Elicitation material](https://doi.org/10.6084/m9.figshare.7613120.v1)
 
@@ -42,13 +42,15 @@ Supervisors: Prof. Dr. Katharina Spalek and Prof. Dr. Manfred Krifka
 Description: I collaborated with a software engineer to search my text corpora for emotional words. For this, we created a tool which utilized the Natural Language Processing Kit in Python, so that it could analyze the text corpora and compare them with a list of 3000 words. Afterwards, I analyzed the frequency and psycholinguistic measures of the matching words. (Grade: 1.5)
 
 
-### Work experience in Academia 
+### Work experience (in Academia)
 
-2017 - Present **Student research assistant** in the [MelaTAMP](https://www.projekte.hu-berlin.de/en/melatamp/project%20description?set_language=en) project, funded by the German Research Foundation (DFG): A corpus- based research on TAM and polarity expressions in Oceanic languages of Melanesia.
+2019 **Reseach Associate** in the [FAHMRRR](https://www.projekte.hu-berlin.de/en/fahmrrr/index.html?set_language=en) project, funded by the European Research Council (ERC): An investigation of how humans process meaning in utterances, concentrating on focus alternatives. In my project, I investigate the recall of focus alternatives among Vietnamese speakers.
+Principal investigator: Prof. Dr. Katharina Spalek
+
+2017 - 2019 **Student research assistant** in the [MelaTAMP](https://www.projekte.hu-berlin.de/en/melatamp/project%20description?set_language=en) project, funded by the German Research Foundation (DFG): A corpus- based research on TAM and polarity expressions in Oceanic languages of Melanesia.
 Principal investigators: Dr. Kilu von Prince, Prof. Dr. M. Krifka
 
-2016 - Present **Student research assistant** in the [FAHMRRR](https://www.projekte.hu-berlin.de/en/fahmrrr/index.html?set_language=en) project, funded by the European Research Council (ERC): An investigation of how humans process meaning in utterances, concentrating on focus alternatives.
-
+2016 - 2019 **Student research assistant** in the [FAHMRRR](https://www.projekte.hu-berlin.de/en/fahmrrr/index.html?set_language=en) project, funded by the European Research Council (ERC): An investigation of how humans process meaning in utterances, concentrating on focus alternatives.
 Principal investigator: Prof. Dr. Katharina Spalek
 
 2018 **Internship and student research assistant** in the group 'Modulation of Language Networks' at the Max Planck Institute for Human Cognitive and Brain Sciences.
@@ -63,7 +65,7 @@ Group head: Dr. Gesa Hartwigsen
 
 (accepted) July. _'The leg of the table' – Universal patterns of mapping body-part terms to object and landscape properties._ Concepts of Humans and Nature between Specificity and Universality. Johannes Gutenberg-Universität, Mainz, Germany.
 
-(accepted) March. _The heel of the bread and the tongue of the sea - Body-part metaphors in object and landscape terms._ The Creative Power of Metaphor. Worcester College, Oxford, United Kingdom.
+March. _The heel of the bread and the tongue of the sea - Body-part metaphors in object and landscape terms._ The Creative Power of Metaphor. Worcester College, Oxford, United Kingdom.
 
 
 ### Talks
