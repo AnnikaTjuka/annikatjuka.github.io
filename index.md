@@ -67,7 +67,7 @@ Group head: Dr. Gesa Hartwigsen
 
 (accepted) July. _'The leg of the table' – Universal patterns of mapping body-part terms to object and landscape properties._ Concepts of Humans and Nature between Specificity and Universality. Johannes Gutenberg-Universität, Mainz, Germany.
 
-March. _The heel of the bread and the tongue of the sea - Body-part metaphors in object and landscape terms._ The Creative Power of Metaphor. Worcester College, Oxford, United Kingdom.
+March. [The heel of the bread and the tongue of the sea - Body-part metaphors in object and landscape terms.](/posters/poster_metaphor_oxford.pdf) The Creative Power of Metaphor. Worcester College, Oxford, United Kingdom.
 
 
 ### Talks
