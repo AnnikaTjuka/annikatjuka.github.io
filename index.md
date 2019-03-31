@@ -63,6 +63,8 @@ Group head: Dr. Gesa Hartwigsen
 
 **2019**
 
+(accepted) August. _Revealing cognitive patterns: A cross-linguistic study of body-part metaphors_ 52th Annual Meeting of the Societas Linguistica Europaea. Leipzig University, Germany.
+
 (accepted) July. _'The leg of the table' – Universal patterns of mapping body-part terms to object and landscape properties._ Concepts of Humans and Nature between Specificity and Universality. Johannes Gutenberg-Universität, Mainz, Germany.
 
 March. _The heel of the bread and the tongue of the sea - Body-part metaphors in object and landscape terms._ The Creative Power of Metaphor. Worcester College, Oxford, United Kingdom.
@@ -90,7 +92,7 @@ April. [Time and perspective in a supposedly tenseless language.](/slides/presi_
 
 ## Contact
 
-<annika.tjuka@hu-berlin.de>
+<tjukanni@hu-berlin.de>
 
 [ResearchGate](https://www.researchgate.net/profile/Annika_Tjuka)
 
