@@ -74,7 +74,7 @@ March. [The heel of the bread and the tongue of the sea - Body-part metaphors in
 
 **2019**
 
-September. (accepted) _Revealing cognitive patterns: A cross-linguistic study of body-part metaphors._ 13th International Conference of the Association for Linguistic Typology, Pavia, Italy.
+(accepted) September. _Revealing cognitive patterns: A cross-linguistic study of body-part metaphors._ 13th International Conference of the Association for Linguistic Typology, Pavia, Italy.
 
 March. (invited talk) _The cognitive foundation of body-part metaphors._ Max Planck Institute for Psycholinguistics, Nijmegen, NL.
 
