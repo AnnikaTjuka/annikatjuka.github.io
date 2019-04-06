@@ -63,7 +63,7 @@ Group head: Dr. Gesa Hartwigsen
 
 **2019**
 
-(accepted) August. _Revealing cognitive patterns: A cross-linguistic study of body-part metaphors_ 52th Annual Meeting of the Societas Linguistica Europaea. Leipzig University, Germany.
+(accepted) August. _Revealing cognitive patterns: A cross-linguistic study of body-part metaphors._ 52th Annual Meeting of the Societas Linguistica Europaea. Leipzig University, Germany.
 
 (accepted) July. _'The leg of the table' – Universal patterns of mapping body-part terms to object and landscape properties._ Concepts of Humans and Nature between Specificity and Universality. Johannes Gutenberg-Universität, Mainz, Germany.
 
@@ -73,6 +73,8 @@ March. [The heel of the bread and the tongue of the sea - Body-part metaphors in
 ### Talks
 
 **2019**
+
+September. (accepted) _Revealing cognitive patterns: A cross-linguistic study of body-part metaphors._ 13th International Conference of the Association for Linguistic Typology, Pavia, Italy.
 
 March. (invited talk) _The cognitive foundation of body-part metaphors._ Max Planck Institute for Psycholinguistics, Nijmegen, NL.
 
