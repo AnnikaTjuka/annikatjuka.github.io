@@ -5,17 +5,17 @@
 
 ## About me
 
-I have a Bachelor of Arts degree in German Linguistic and now work on my Masters thesis in Typology combined with Cognitive Linguistics. My thesis looks at body-part metaphors as a window to cognition. I used a targeted elicitation to conduct a cross-linguistic study.
+I have a Master of Arts degree in Linguistics from the Humboldt-Universität zu Berlin. In my Master's thesis, I conducted the first systematic typological study of body-part metaphors in object and landscape terms. 
 
-In addition, I am a student research assistant in two different projects. The first is inthe field of experimental pragmatics. In this project we investigate how humans process meaning that goes beyond the individual words in an utterance, concentrating on the processing of focus alternatives. The second one connects typology and semantics. It is concerned with corpus-based research on TAM and polarity expressions in Oceanic languages of Melanesia.
+I am a research associate in the [FAHMRRR](https://www.projekte.hu-berlin.de/en/fahmrrr/index.html?set_language=en) project, led by Katharina Spalek. We investigate how humans process meaning that goes beyond the individual words in an utterance, concentrating on the processing of focus alternatives. In this project, I am conducting a study which investigates the recall of focus alternatives in Vietnamese.
 
 ## Curriculum Vitae
 
-### Academic Education
+### Academic Degrees
 
-2016 - 2019 **Master of Arts in Linguistics** at Humboldt-Universität zu Berlin
+2019 **Master of Arts in Linguistics** at Humboldt-Universität zu Berlin
 
-2013 - 2016 **Bachelor of Arts in German Linguistics and Scandinavian Studies** at Humboldt-Universität zu Berlin
+2016 **Bachelor of Arts in German Linguistics and Scandinavian Studies** at Humboldt-Universität zu Berlin
 
 
 ### Masters Thesis
