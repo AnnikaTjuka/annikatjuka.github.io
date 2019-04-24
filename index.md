@@ -58,6 +58,9 @@ Group head: Dr. Gesa Hartwigsen
 
 [full CV](https://www.overleaf.com/read/gvpkbfrsqsxm)
 
+### Publications
+
+Tjuka, Annika, Lena Weißmann and Kilu von Prince (accepted). "Habitual aspect as a property of text spans".  In _Proceedings of 9th Language & Technology Conference_. Adam Mickiewicz University, Poznań, Poland.
 
 ### Posters
 
