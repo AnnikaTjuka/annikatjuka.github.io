@@ -79,7 +79,7 @@ March. [The heel of the bread and the tongue of the sea - Body-part metaphors in
 
 (accepted) September. _Revealing cognitive patterns: A cross-linguistic study of body-part metaphors._ 13th International Conference of the Association for Linguistic Typology, Pavia, Italy.
 
-March. (invited talk) _The cognitive foundation of body-part metaphors._ Max Planck Institute for Psycholinguistics, Nijmegen, NL.
+March. (invited speaker) _The cognitive foundation of body-part metaphors._ Max Planck Institute for Psycholinguistics, Nijmegen, NL.
 
 **2018** 
 
@@ -89,7 +89,7 @@ October. [Elicitation in linguistic fieldwork - or how to capture a speaker's vi
 
 August. [Can typological studies show us how the brain processes language?](/slides/presi_lingmeet_tjuka.pdf) 5<sup>th</sup> Linguistik Meetup Berlin-Potsdam. Potsdam, DE.
 
-July. (invited talk) _Including linguistic variation to understand the processing of language._ Universität des Saarlandes. Saarbrücken, DE. 
+July. (invited spaker) _Including linguistic variation to understand the processing of language._ Universität des Saarlandes. Saarbrücken, DE. 
 
 May. [Don't judge from the outside: A deeper look into the Vietnamese tense system.](/slides/presi_Stuts_tjuka.pdf) 63<sup>rd</sup>  Student Conference Linguistics (StuTS). Kiel, DE.
 
