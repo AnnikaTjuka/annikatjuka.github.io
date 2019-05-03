@@ -56,7 +56,7 @@ Principal investigator: Prof. Dr. Katharina Spalek
 2018 **Internship and student research assistant** in the group 'Modulation of Language Networks' at the Max Planck Institute for Human Cognitive and Brain Sciences.
 Group head: Dr. Gesa Hartwigsen
 
-[full CV](https://www.overleaf.com/read/gvpkbfrsqsxm)
+[full CV](CV_tjuka.pdf)
 
 ### Publications
 
