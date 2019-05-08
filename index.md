@@ -83,6 +83,8 @@ March. [The heel of the bread and the tongue of the sea - Body-part metaphors in
 
 (accepted) August. _Cross-linguistic patterns of body-part metaphors._ Metaphor Festival 2019 conference, Amsterdam, NL.
 
+Mai. (invited speaker) _Finding patterns - How to discover part-whole relations in cross-linguistic data_ Max Planck Institute for the Science of Human History, Jena, DE.
+
 March. (invited speaker) _The cognitive foundation of body-part metaphors._ Max Planck Institute for Psycholinguistics, Nijmegen, NL.
 
 **2018** 
