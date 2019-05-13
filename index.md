@@ -39,7 +39,7 @@ Description: I conducted the first systematic typological study of body-part met
 
 Supervisors: Prof. Dr. Katharina Spalek and Prof. Dr. Manfred Krifka
 
-Description: I collaborated with a software engineer to search my text corpora for emotional words. For this, we created a tool which utilized the Natural Language Processing Kit in Python, so that it could analyze the text corpora and compare them with a list of 3000 words. Afterwards, I analyzed the frequency and psycholinguistic measures of the matching words. (Grade: 1.5)
+Description: I collaborated with a software engineer to search my text corpora for emotional words. For this, we created a tool which utilized the Natural Language Processing Kit in Python, so that it could analyze the text corpora and compare them with a list of 3000 words. Afterwards, I analyzed the frequency and psycholinguistic measures of the matching words.
 
 
 ### Work experience (in Academia)
@@ -48,7 +48,7 @@ Description: I collaborated with a software engineer to search my text corpora f
 Principal investigator: Prof. Dr. Katharina Spalek
 
 2017 - 2019 **Student research assistant** in the [MelaTAMP](https://www.projekte.hu-berlin.de/en/melatamp/project%20description?set_language=en) project, funded by the German Research Foundation (DFG): A corpus- based research on TAM and polarity expressions in Oceanic languages of Melanesia.
-Principal investigators: Dr. Kilu von Prince, Prof. Dr. M. Krifka
+Principal investigators: Dr. Kilu von Prince, Prof. Dr. Manfred Krifka
 
 2016 - 2019 **Student research assistant** in the [FAHMRRR](https://www.projekte.hu-berlin.de/en/fahmrrr/index.html?set_language=en) project, funded by the European Research Council (ERC): An investigation of how humans process meaning in utterances, concentrating on focus alternatives.
 Principal investigator: Prof. Dr. Katharina Spalek
@@ -60,7 +60,7 @@ Group head: Dr. Gesa Hartwigsen
 
 ### Publications
 
-Tjuka, Annika, Lena Weißmann and Kilu von Prince (accepted). "Habitual aspect as a property of text spans".  In _Proceedings of 9th Language & Technology Conference_. Adam Mickiewicz University, Poznań, Poland.
+Tjuka, Annika, Lena Weißmann, and Kilu von Prince (accepted). "Habitual aspect as a property of text spans."  In _Proceedings of 9th Language & Technology Conference_. Adam Mickiewicz University, Poznań, Poland.
 
 ### Posters
 
@@ -70,7 +70,7 @@ Tjuka, Annika, Lena Weißmann and Kilu von Prince (accepted). "Habitual aspect a
 
 (accepted) July. _'The leg of the table' – Universal patterns of mapping body-part terms to object and landscape properties._ Concepts of Humans and Nature between Specificity and Universality. Johannes Gutenberg-Universität, Mainz, Germany.
 
-March. [The heel of the bread and the tongue of the sea - Body-part metaphors in object and landscape terms.](/posters/poster_metaphor_oxford.pdf) The Creative Power of Metaphor. Worcester College, Oxford, United Kingdom.
+March. _[The heel of the bread and the tongue of the sea - Body-part metaphors in object and landscape terms.](/posters/poster_metaphor_oxford.pdf)_ The Creative Power of Metaphor. Worcester College, Oxford, United Kingdom.
 
 
 ### Talks
@@ -89,17 +89,17 @@ March. (invited speaker) _The cognitive foundation of body-part metaphors._ Max 
 
 **2018** 
 
-November. [The belly of the cabbage - Body-part metaphors as a window into the mind.](/slides/presi_colloquium_tjuka.pdf) Colloquium Syntax and Semantic. Humboldt-Universität zu Berlin.
+November. _[The belly of the cabbage - Body-part metaphors as a window into the mind.](/slides/presi_colloquium_tjuka.pdf)_ Colloquium Syntax and Semantic. Humboldt-Universität zu Berlin, DE.
 
-October. [Elicitation in linguistic fieldwork - or how to capture a speaker's view of the world.](/slides/presi_RUB_tjuka.pdf) 3<sup>rd</sup>  student conference 'Research and teaching in student hands'. Bochum, DE.
+October. _[Elicitation in linguistic fieldwork - or how to capture a speaker's view of the world.](/slides/presi_RUB_tjuka.pdf)_ 3<sup>rd</sup>  student conference 'Research and teaching in student hands'. Bochum, DE.
 
-August. [Can typological studies show us how the brain processes language?](/slides/presi_lingmeet_tjuka.pdf) 5<sup>th</sup> Linguistik Meetup Berlin-Potsdam. Potsdam, DE.
+August. _[Can typological studies show us how the brain processes language?](/slides/presi_lingmeet_tjuka.pdf)_ 5<sup>th</sup> Linguistik Meetup Berlin-Potsdam. Potsdam, DE.
 
 July. (invited spaker) _Including linguistic variation to understand the processing of language._ Universität des Saarlandes. Saarbrücken, DE. 
 
-May. [Don't judge from the outside: A deeper look into the Vietnamese tense system.](/slides/presi_Stuts_tjuka.pdf) 63<sup>rd</sup>  Student Conference Linguistics (StuTS). Kiel, DE.
+May. _[Don't judge from the outside: A deeper look into the Vietnamese tense system.](/slides/presi_Stuts_tjuka.pdf)_ 63<sup>rd</sup>  Student Conference Linguistics (StuTS). Kiel, DE.
 
-April. [Time and perspective in a supposedly tenseless language.](/slides/presi_twist_tjuka.pdf) 12<sup>th</sup> T.W.I.S.T. Student Conference for Linguistics, Leiden, NL.
+April. _[Time and perspective in a supposedly tenseless language.](/slides/presi_twist_tjuka.pdf)_ 12<sup>th</sup> T.W.I.S.T. Student Conference for Linguistics, Leiden, NL.
 
 ## Contact
 
