@@ -62,7 +62,7 @@ Group head: Dr. Gesa Hartwigsen
 
 Tjuka, Annika, Lena Weißmann, and Kilu von Prince (accepted). "Tagging modality in Oceanic languages of Melanesia."  In _Proceedings of 13<sup>th</sup> Linguistic Annotation Workshop._ ACL Special Interest Group on Annotation.
 
-Tjuka, Annika, Lena Weißmann, and Kilu von Prince (2019). "Habitual aspect as a property of text spans."  In _Proceedings of 9<sup>th</sup> Language & Technology Conference._ Adam Mickiewicz University, Poznań, Poland.
+Tjuka, Annika, Lena Weißmann, and Kilu von Prince (2019). "[Habitual aspect as a property of text spans.](/papers/tjuka2019_LTC_habitual_aspect.pdf)"  In _Proceedings of 9<sup>th</sup> Language & Technology Conference._ Adam Mickiewicz University, Poznań, Poland.
 
 ### Posters
 
