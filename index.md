@@ -85,7 +85,7 @@ March. _[The heel of the bread and the tongue of the sea - Body-part metaphors i
 
 (accepted) August. _Tagging modality in Oceanic languages of Melanesia._ The 13<sup>th</sup> Linguistic Annotation Workshop, Florence, IT.
 
-May. _Habitual aspect as a property of text spans._ 9th Language & Technology Conference, Poznań, Poland.
+May. _[Habitual aspect as a property of text spans.](/slides/presi_LTC_tjuka.pdf)_ 9th Language & Technology Conference, Poznań, Poland.
 
 May. (invited speaker) _Finding patterns - How to discover part-whole relations in cross-linguistic data_ Max Planck Institute for the Science of Human History, Jena, DE.
 
