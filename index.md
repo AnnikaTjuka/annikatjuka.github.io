@@ -60,7 +60,9 @@ Group head: Dr. Gesa Hartwigsen
 
 ### Publications
 
-Tjuka, Annika, Lena Weißmann, and Kilu von Prince (accepted). "Habitual aspect as a property of text spans."  In _Proceedings of 9th Language & Technology Conference_. Adam Mickiewicz University, Poznań, Poland.
+Tjuka, Annika, Lena Weißmann, and Kilu von Prince (accepted). "Tagging modality in Oceanic languages of Melanesia."  In _Proceedings of 13<sup>th</sup> Linguistic Annotation Workshop._ ACL Special Interest Group on Annotation.
+
+Tjuka, Annika, Lena Weißmann, and Kilu von Prince (2019). "Habitual aspect as a property of text spans."  In _Proceedings of 9<sup>th</sup> Language & Technology Conference._ Adam Mickiewicz University, Poznań, Poland.
 
 ### Posters
 
@@ -77,11 +79,13 @@ March. _[The heel of the bread and the tongue of the sea - Body-part metaphors i
 
 **2019**
 
-(accepted) September. _Revealing cognitive patterns: A cross-linguistic study of body-part metaphors._ 13th International Conference of the Association for Linguistic Typology, Pavia, IT.
+(accepted) September. _Revealing cognitive patterns: A cross-linguistic study of body-part metaphors._ 13<sup>th</sup> International Conference of the Association for Linguistic Typology, Pavia, IT.
 
 (accepted) August. _Cross-linguistic patterns of body-part metaphors._ Metaphor Festival 2019 conference, Amsterdam, NL.
 
-(accepted) May. _Habitual aspect as a property of text spans._ 9th Language & Technology Conference, Poznań, Poland.
+(accepted) August. _Tagging modality in Oceanic languages of Melanesia._ The 13<sup>th</sup> Linguistic Annotation Workshop, Florence, IT.
+
+May. _Habitual aspect as a property of text spans._ 9th Language & Technology Conference, Poznań, Poland.
 
 May. (invited speaker) _Finding patterns - How to discover part-whole relations in cross-linguistic data_ Max Planck Institute for the Science of Human History, Jena, DE.
 
