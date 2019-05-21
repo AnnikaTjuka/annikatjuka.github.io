@@ -72,6 +72,8 @@ Tjuka, Annika, Lena Weißmann, and Kilu von Prince (2019). "[Habitual aspect as 
 
 (accepted) July. _'The leg of the table' – Universal patterns of mapping body-part terms to object and landscape properties._ Concepts of Humans and Nature between Specificity and Universality. Johannes Gutenberg-Universität, Mainz, Germany.
 
+(accepted) July. _Shirts, scarves, or socks – Remembering focus alternatives in Vietnamese._ Summer Neurolinguistics School 2019. SNational Research University Higher School of Economics, Center for Language and Brain, Moskow, Russia.
+
 March. _[The heel of the bread and the tongue of the sea - Body-part metaphors in object and landscape terms.](/posters/poster_metaphor_oxford.pdf)_ The Creative Power of Metaphor. Worcester College, Oxford, United Kingdom.
 
 
@@ -87,7 +89,7 @@ March. _[The heel of the bread and the tongue of the sea - Body-part metaphors i
 
 May. _[Habitual aspect as a property of text spans.](/slides/presi_LTC_tjuka.pdf)_ 9th Language & Technology Conference, Poznań, Poland.
 
-May. (invited speaker) _Finding patterns - How to discover part-whole relations in cross-linguistic data_ Max Planck Institute for the Science of Human History, Jena, DE.
+May. (invited speaker) _Finding patterns - How to discover part-whole relations in cross-linguistic data._ Max Planck Institute for the Science of Human History, Jena, DE.
 
 March. (invited speaker) _The cognitive foundation of body-part metaphors._ Max Planck Institute for Psycholinguistics, Nijmegen, NL.
 
