@@ -68,7 +68,7 @@ Tjuka, Annika, Lena Weißmann, and Kilu von Prince (2019). "[Habitual aspect as 
 
 **2019**
 
-(accepted) August. _Revealing cognitive patterns: A cross-linguistic study of body-part metaphors._ 52th Annual Meeting of the Societas Linguistica Europaea. Leipzig University, Germany.
+(accepted) August. _A cross-linguistic study of body-part metaphors and their cognitive basis._ 52th Annual Meeting of the Societas Linguistica Europaea. Leipzig University, Germany.
 
 (accepted) July. _'The leg of the table' – Universal patterns of mapping body-part terms to object and landscape properties._ Concepts of Humans and Nature between Specificity and Universality. Johannes Gutenberg-Universität, Mainz, Germany.
 
