@@ -58,6 +58,14 @@ Group head: Dr. Gesa Hartwigsen
 
 [full CV](CV_tjuka.pdf)
 
+
+### Participation (Summer Schools)
+
+**2019**
+
+Summer Neurolinguistics School at the National Research University Higher School of Economics, Center for Language and Brain, Moscow, Russia.
+
+
 ### Publications
 
 Tjuka, Annika, Lena Weißmann, and Kilu von Prince (accepted). "Tagging modality in Oceanic languages of Melanesia."  In _Proceedings of 13<sup>th</sup> Linguistic Annotation Workshop._ ACL Special Interest Group on Annotation.
