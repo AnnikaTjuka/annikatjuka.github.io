@@ -28,6 +28,8 @@ Description: I conducted the first systematic typological study of body-part met
 
 [Thesis pdf](/slides/masterthesis_tjuka_120219.pdf) 
 
+[Video](https://youtu.be/7MWorOQrRnY)
+
 [Elicitation material](https://doi.org/10.6084/m9.figshare.7613120.v1)
 
 [Revised list of body-part metaphors](https://doi.org/10.6084/m9.figshare.7613189.v1)
