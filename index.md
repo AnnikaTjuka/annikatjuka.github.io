@@ -37,7 +37,7 @@ Description: I conducted the first systematic typological study of body-part met
 
 ### Bachelors Thesis
 
-**Emotionalisierung durch Texte**
+**Emotionalisation through texts**
 
 Supervisors: Prof. Dr. Katharina Spalek and Prof. Dr. Manfred Krifka
 
