@@ -70,6 +70,8 @@ Summer Neurolinguistics School at the National Research University Higher School
 
 ### Publications
 
+Tjuka, Annika, Huong Thi Thu Nguyen, and Katharina Spalek (in preparation). "Foxes, deer, or hedgehogs - The recall of focus alternatives in Vietnamese."  In _Laboratory Phonology, Special Issue "Prosody and Speech Processing across Languages and Varieties"._
+
 Tjuka, Annika, Lena Weißmann, and Kilu von Prince (accepted). "Tagging modality in Oceanic languages of Melanesia."  In _Proceedings of 13<sup>th</sup> Linguistic Annotation Workshop._ ACL Special Interest Group on Annotation.
 
 Tjuka, Annika, Lena Weißmann, and Kilu von Prince (2019). "[Habitual aspect as a property of text spans.](/papers/tjuka2019_LTC_habitual_aspect.pdf)"  In _Proceedings of 9<sup>th</sup> Language & Technology Conference._ Adam Mickiewicz University, Poznań, Poland.
@@ -80,7 +82,7 @@ Tjuka, Annika, Lena Weißmann, and Kilu von Prince (2019). "[Habitual aspect as 
 
 (accepted) August. _A cross-linguistic study of body-part metaphors and their cognitive basis._ 52th Annual Meeting of the Societas Linguistica Europaea. Leipzig University, Germany.
 
-(accepted) July. _'The leg of the table' – Universal patterns of mapping body-part terms to object and landscape properties._ Concepts of Humans and Nature between Specificity and Universality. Johannes Gutenberg-Universität, Mainz, Germany.
+(accepted) July. _'The leg of the table' - Universal patterns of mapping body-part terms to object and landscape properties._ Concepts of Humans and Nature between Specificity and Universality. Johannes Gutenberg-Universität, Mainz, Germany.
 
 (accepted) July. With  Huong Thi Thu Nguyen and Katharina Spalek. _Shirts, scarves, or socks – Remembering focus alternatives in Vietnamese._ Summer Neurolinguistics School 2019. National Research University Higher School of Economics, Center for Language and Brain, Moskow, Russia.
 
@@ -122,4 +124,6 @@ April. _[Time and perspective in a supposedly tenseless language.](/slides/presi
 <tjukanni@hu-berlin.de>
 
 [ResearchGate](https://www.researchgate.net/profile/Annika_Tjuka)
+
+[Instagram](https://www.instagram.com/everyday_linguist/?hl=de)
 
