@@ -1,4 +1,3 @@
-
 ![Image](me.JPG)
 
 # Annika Tjuka, Linguist 
@@ -76,26 +75,12 @@ Tjuka, Annika, Lena Weißmann, and Kilu von Prince (accepted). "Tagging modality
 
 Tjuka, Annika, Lena Weißmann, and Kilu von Prince (2019). "[Habitual aspect as a property of text spans.](/papers/tjuka2019_LTC_habitual_aspect.pdf)"  In _Proceedings of 9<sup>th</sup> Language & Technology Conference._ Adam Mickiewicz University, Poznań, Poland.
 
-### Posters
-
-**2019**
-
-(accepted) August. _A cross-linguistic study of body-part metaphors and their cognitive basis._ 52th Annual Meeting of the Societas Linguistica Europaea. Leipzig University, Germany.
-
-(accepted) July. _'The leg of the table' - Universal patterns of mapping body-part terms to object and landscape properties._ Concepts of Humans and Nature between Specificity and Universality. Johannes Gutenberg-Universität, Mainz, Germany.
-
-(accepted) July. With  Huong Thi Thu Nguyen and Katharina Spalek. _Shirts, scarves, or socks – Remembering focus alternatives in Vietnamese._ Summer Neurolinguistics School 2019. National Research University Higher School of Economics, Center for Language and Brain, Moskow, Russia.
-
-March. _[The heel of the bread and the tongue of the sea - Body-part metaphors in object and landscape terms.](/posters/poster_metaphor_oxford.pdf)_ The Creative Power of Metaphor. Worcester College, Oxford, United Kingdom.
-
 
 ### Talks
 
 **2019**
 
 (accepted) September. _Revealing cognitive patterns: A cross-linguistic study of body-part metaphors._ 13<sup>th</sup> International Conference of the Association for Linguistic Typology, Pavia, IT.
-
-(accepted) August. _Cross-linguistic patterns of body-part metaphors._ Metaphor Festival 2019 conference, Amsterdam, NL.
 
 (accepted) August. With Lena Weißmann and Kilu von Prince. _Tagging modality in Oceanic languages of Melanesia._ The 13<sup>th</sup> Linguistic Annotation Workshop, Florence, IT.
 
@@ -118,6 +103,19 @@ July. (invited spaker) _Including linguistic variation to understand the process
 May. _[Don't judge from the outside: A deeper look into the Vietnamese tense system.](/slides/presi_Stuts_tjuka.pdf)_ 63<sup>rd</sup>  Student Conference Linguistics (StuTS). Kiel, DE.
 
 April. _[Time and perspective in a supposedly tenseless language.](/slides/presi_twist_tjuka.pdf)_ 12<sup>th</sup> T.W.I.S.T. Student Conference for Linguistics, Leiden, NL.
+
+
+### Posters
+
+**2019**
+
+(accepted) August. _A cross-linguistic study of body-part metaphors and their cognitive basis._ 52th Annual Meeting of the Societas Linguistica Europaea. Leipzig University, Germany.
+
+(accepted) July. _'The leg of the table' - Universal patterns of mapping body-part terms to object and landscape properties._ Concepts of Humans and Nature between Specificity and Universality. Johannes Gutenberg-Universität, Mainz, Germany.
+
+(accepted) July. With  Huong Thi Thu Nguyen and Katharina Spalek. _Shirts, scarves, or socks – Remembering focus alternatives in Vietnamese._ Summer Neurolinguistics School 2019. National Research University Higher School of Economics, Center for Language and Brain, Moskow, Russia.
+
+March. _[The heel of the bread and the tongue of the sea - Body-part metaphors in object and landscape terms.](/posters/poster_metaphor_oxford.pdf)_ The Creative Power of Metaphor. Worcester College, Oxford, United Kingdom.
 
 ## Contact
 
