@@ -111,7 +111,7 @@ April. _[Time and perspective in a supposedly tenseless language.](/slides/tjuka
 
 (accepted) August. _A cross-linguistic study of body-part metaphors and their cognitive basis._ 52th Annual Meeting of the Societas Linguistica Europaea. Leipzig University, Germany.
 
-(accepted) July. _['The leg of the table' - Universal patterns of mapping body-part terms to object and landscape properties.](/slides/tjuka2019_bodypart_metaphors_conceptsofhumansandnature.pdf)_ Concepts of Humans and Nature between Specificity and Universality. Johannes Gutenberg-Universität, Mainz, Germany.
+(accepted) July. _['The leg of the table' - Universal patterns of mapping body-part terms to object and landscape properties.](/posters/tjuka2019_bodypart_metaphors_conceptsofhumansandnature.pdf)_ Concepts of Humans and Nature between Specificity and Universality. Johannes Gutenberg-Universität, Mainz, Germany.
 
 July. With  Huong Thi Thu Nguyen and Katharina Spalek. _[Shirts, scarves, or socks – Remembering focus alternatives in Vietnamese.](/posters/tjuka2019_vietnamese_focusalternatives_neurolinguisticsschool.pdf)_ Summer Neurolinguistics School 2019. National Research University Higher School of Economics, Center for Language and Brain, Moskow, Russia.
 
