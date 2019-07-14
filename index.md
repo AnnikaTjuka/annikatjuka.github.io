@@ -45,7 +45,7 @@ Description: I collaborated with a software engineer to search my text corpora f
 
 ### Work experience (in Academia)
 
-2019 **Reseach Associate** in the [FAHMRRR](https://www.projekte.hu-berlin.de/en/fahmrrr/index.html?set_language=en) project, funded by the European Research Council (ERC): An investigation of how humans process meaning in utterances, concentrating on focus alternatives. In my project, I investigate the recall of focus alternatives among Vietnamese speakers.
+2019 - Present **Reseach Associate** in the [FAHMRRR](https://www.projekte.hu-berlin.de/en/fahmrrr/index.html?set_language=en) project, funded by the European Research Council (ERC): An investigation of how humans process meaning in utterances, concentrating on focus alternatives. In my project, I investigate the recall of focus alternatives among Vietnamese speakers.
 Principal investigator: Prof. Dr. Katharina Spalek
 
 2017 - 2019 **Student research assistant** in the [MelaTAMP](https://www.projekte.hu-berlin.de/en/melatamp/project%20description?set_language=en) project, funded by the German Research Foundation (DFG): A corpus- based research on TAM and polarity expressions in Oceanic languages of Melanesia.
@@ -111,7 +111,7 @@ April. _[Time and perspective in a supposedly tenseless language.](/slides/tjuka
 
 (accepted) August. _A cross-linguistic study of body-part metaphors and their cognitive basis._ 52th Annual Meeting of the Societas Linguistica Europaea. Leipzig University, Germany.
 
-(accepted) July. _['The leg of the table' - Universal patterns of mapping body-part terms to object and landscape properties.](/posters/tjuka2019_bodypart_metaphors_conceptsofhumansandnature.pdf)_ Concepts of Humans and Nature between Specificity and Universality. Johannes Gutenberg-Universität, Mainz, Germany.
+July. _['The leg of the table' – Universal patterns of mapping body-part terms to object and landscape properties.](/posters/tjuka2019_bodypart_metaphors_conceptsofhumansandnature.pdf)_ Concepts of Humans and Nature between Specificity and Universality. Johannes Gutenberg-Universität, Mainz, Germany.
 
 July. With  Huong Thi Thu Nguyen and Katharina Spalek. _[Shirts, scarves, or socks – Remembering focus alternatives in Vietnamese.](/posters/tjuka2019_vietnamese_focusalternatives_neurolinguisticsschool.pdf)_ Summer Neurolinguistics School 2019. National Research University Higher School of Economics, Center for Language and Brain, Moskow, Russia.
 
