@@ -109,7 +109,7 @@ April. _[Time and perspective in a supposedly tenseless language.](/slides/tjuka
 
 **2019**
 
-(accepted) August. _A cross-linguistic study of body-part metaphors and their cognitive basis._ 52th Annual Meeting of the Societas Linguistica Europaea. Leipzig University, Germany.
+(accepted) August. _[A cross-linguistic study of body-part metaphors and their cognitive basis](/posters/tjuka2019_bodypart_metaphors_SLE.pdf)_ 52<sup>nd</sup> Annual Meeting of the Societas Linguistica Europaea. Leipzig University, Germany.
 
 July. _['The leg of the table' – Universal patterns of mapping body-part terms to object and landscape properties.](/posters/tjuka2019_bodypart_metaphors_conceptsofhumansandnature.pdf)_ Concepts of Humans and Nature between Specificity and Universality. Johannes Gutenberg-Universität, Mainz, Germany.
 
