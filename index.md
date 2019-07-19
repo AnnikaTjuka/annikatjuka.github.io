@@ -119,7 +119,7 @@ March. _[The heel of the bread and the tongue of the sea - Body-part metaphors i
 
 ## Contact
 
-<tjukanni@hu-berlin.de>
+<mail@annikatjuka.com>
 
 [ResearchGate](https://www.researchgate.net/profile/Annika_Tjuka)
 
