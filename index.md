@@ -1,4 +1,4 @@
-![Image](me.JPG)
+![Image](me.jpg)
 
 # Annika Tjuka, Linguist 
 
