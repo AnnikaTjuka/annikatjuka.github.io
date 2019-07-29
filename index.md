@@ -59,8 +59,7 @@ Group head: Dr. Gesa Hartwigsen
 
 [full CV](CV_tjuka.pdf)
 
-
-## Participation (Summer/Winter Schools)
+### Participation (Summer/Winter Schools)
 
 **2019**
 
