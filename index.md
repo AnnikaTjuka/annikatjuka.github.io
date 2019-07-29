@@ -8,16 +8,13 @@ I have a Master of Arts degree in Linguistics from the Humboldt-Universität zu 
 
 I am a research associate in the [FAHMRRR](https://www.projekte.hu-berlin.de/en/fahmrrr/index.html?set_language=en) project, led by Katharina Spalek. We investigate how humans process meaning that goes beyond the individual words in an utterance, concentrating on the processing of focus alternatives. In this project, I am conducting a study which investigates the recall of focus alternatives in Vietnamese.
 
-## Curriculum Vitae
+---
 
-### Academic Education
+&NewLine;
 
-2019 **Master of Arts in Linguistics** at Humboldt-Universität zu Berlin
+</br>
 
-2016 **Bachelor of Arts in German Linguistics and Scandinavian Studies** at Humboldt-Universität zu Berlin
-
-
-### Masters Thesis
+## Masters Thesis
 
 **Body-part metaphors as a window to cognition: A cross-linguistic study of object and landscape terms**
 
@@ -34,7 +31,7 @@ Description: I conducted the first systematic typological study of body-part met
 [Revised list of body-part metaphors](https://doi.org/10.6084/m9.figshare.7613189.v1)
 
 
-### Bachelors Thesis
+## Bachelors Thesis
 
 **Emotionalisation through texts**
 
@@ -42,6 +39,19 @@ Supervisors: Prof. Dr. Katharina Spalek and Prof. Dr. Manfred Krifka
 
 Description: I collaborated with a software engineer to search my text corpora for emotional words. For this, we created a tool which utilized the Natural Language Processing Kit in Python, so that it could analyze the text corpora and compare them with a list of 3000 words. Afterwards, I analyzed the frequency and psycholinguistic measures of the matching words. The results of my study show that there are more emotional words in donation letters than in stock market letters.
 
+---
+
+&NewLine;
+
+</br>
+
+## Curriculum Vitae
+
+### Academic Education
+
+2019 **Master of Arts in Linguistics** at Humboldt-Universität zu Berlin
+
+2016 **Bachelor of Arts in German Linguistics and Scandinavian Studies** at Humboldt-Universität zu Berlin
 
 ### Work experience (in Academia)
 
@@ -59,24 +69,39 @@ Group head: Dr. Gesa Hartwigsen
 
 [full CV](CV_tjuka.pdf)
 
+---
 
-### Participation (Summer Schools)
+&NewLine;
+
+</br>
+
+## Participation (Summer/Winter Schools)
 
 **2019**
 
 Summer Neurolinguistics School at the National Research University Higher School of Economics, Center for Language and Brain, Moscow, Russia.
 
+---
 
-### Publications
+&NewLine;
+
+</br>
+
+## Publications
 
 Tjuka, Annika, Huong Thi Thu Nguyen, and Katharina Spalek (in preparation). "Foxes, deer, or hedgehogs - The recall of focus alternatives in Vietnamese."  In _Laboratory Phonology, Special Issue "Prosody and Speech Processing across Languages and Varieties"._
 
-Tjuka, Annika, Lena Weißmann, and Kilu von Prince (accepted). "Tagging modality in Oceanic languages of Melanesia."  In _Proceedings of 13<sup>th</sup> Linguistic Annotation Workshop._ ACL Special Interest Group on Annotation.
+Tjuka, Annika, Lena Weißmann, and Kilu von Prince (2019). "[Tagging modality in Oceanic languages of Melanesia.](/papers/tjuka2019_tagging_modality_oceanic_LAW.pdf)" In _Proceedings of 13<sup>th</sup> Linguistic Annotation Workshop._ ACL Special Interest Group on Annotation.
 
 Tjuka, Annika, Lena Weißmann, and Kilu von Prince (2019). "[Habitual aspect as a property of text spans.](/papers/tjuka2019_LTC_habitual_aspect.pdf)"  In Zygmunt Vetulani and Patrick Paroubek (eds.) _Human language technologies as a challenge for computer science and linguistics. Proceedings of 9<sup>th</sup> Language & Technology Conference._ Poznań: Wydawnictwo Nauka i Innowacje, 195-199.
 
+---
 
-### Talks
+&NewLine;
+
+</br>
+
+## Talks
 
 **2019**
 
@@ -104,18 +129,29 @@ May. _[Don't judge from the outside: A deeper look into the Vietnamese tense sys
 
 April. _[Time and perspective in a supposedly tenseless language.](/slides/tjuka2018_vietnamese_tenslessnes_twistconf.pdf)_ 12<sup>th</sup> T.W.I.S.T. Student Conference for Linguistics, Leiden, NL.
 
+---
 
-### Posters
+&NewLine;
+
+</br>
+
+## Posters
 
 **2019**
 
-(accepted) August. _[A cross-linguistic study of body-part metaphors and their cognitive basis](/posters/tjuka2019_bodypart_metaphors_SLE.pdf)_ 52<sup>nd</sup> Annual Meeting of the Societas Linguistica Europaea. Leipzig University, Germany.
+(accepted) August. _[A cross-linguistic study of body-part metaphors and their cognitive basis.](/posters/tjuka2019_bodypart_metaphors_SLE.pdf)_ 52<sup>nd</sup> Annual Meeting of the Societas Linguistica Europaea. Leipzig University, Germany.
 
 July. _['The leg of the table' – Universal patterns of mapping body-part terms to object and landscape properties.](/posters/tjuka2019_bodypart_metaphors_conceptsofhumansandnature.pdf)_ Concepts of Humans and Nature between Specificity and Universality. Johannes Gutenberg-Universität, Mainz, Germany.
 
 July. With  Huong Thi Thu Nguyen and Katharina Spalek. _[Shirts, scarves, or socks – Remembering focus alternatives in Vietnamese.](/posters/tjuka2019_vietnamese_focusalternatives_neurolinguisticsschool.pdf)_ Summer Neurolinguistics School 2019. National Research University Higher School of Economics, Center for Language and Brain, Moskow, Russia.
 
 March. _[The heel of the bread and the tongue of the sea - Body-part metaphors in object and landscape terms.](/posters/tjuka2019_bodypart_metaphors_creativemetaphor.pdf)_ The Creative Power of Metaphor. Worcester College, Oxford, United Kingdom.
+
+---
+
+&NewLine;
+
+</br>
 
 ## Contact
 
