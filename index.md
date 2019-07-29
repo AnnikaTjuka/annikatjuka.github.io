@@ -82,7 +82,7 @@ Tjuka, Annika, Lena Weißmann, and Kilu von Prince (2019). "[Habitual aspect as 
 
 (accepted) September. _Revealing cognitive patterns: A cross-linguistic study of body-part metaphors._ 13<sup>th</sup> International Conference of the Association for Linguistic Typology, Pavia, IT.
 
-(accepted) August. With Lena Weißmann and Kilu von Prince. _Tagging modality in Oceanic languages of Melanesia._ The 13<sup>th</sup> Linguistic Annotation Workshop, Florence, IT.
+August. With Lena Weißmann and Kilu von Prince. _[Tagging modality in Oceanic languages of Melanesia.](/slides/tjuka2019_tagging_modality_LAW.pdf)_ The 13<sup>th</sup> Linguistic Annotation Workshop in conjunction with ACL, Florence, IT.
 
 May. With Lena Weißmann and Kilu von Prince. _[Habitual aspect as a property of text spans.](/slides/tjuka2019_habitual_textspans_LTCworkshop.pdf)_ 9th Language & Technology Conference, Poznań, Poland.
 
