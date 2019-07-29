@@ -10,7 +10,6 @@ I am a research associate in the [FAHMRRR](https://www.projekte.hu-berlin.de/en/
 
 ---
 
-</br>
 
 ## Masters Thesis
 
@@ -39,7 +38,6 @@ Description: I collaborated with a software engineer to search my text corpora f
 
 ---
 
-</br>
 
 ## Curriculum Vitae
 
@@ -67,7 +65,6 @@ Group head: Dr. Gesa Hartwigsen
 
 ---
 
-</br>
 
 ## Participation (Summer/Winter Schools)
 
@@ -77,7 +74,6 @@ Summer Neurolinguistics School at the National Research University Higher School
 
 ---
 
-</br>
 
 ## Publications
 
@@ -89,7 +85,6 @@ Tjuka, Annika, Lena Weißmann, and Kilu von Prince (2019). "[Habitual aspect as 
 
 ---
 
-</br>
 
 ## Talks
 
@@ -121,7 +116,6 @@ April. _[Time and perspective in a supposedly tenseless language.](/slides/tjuka
 
 ---
 
-</br>
 
 ## Posters
 
@@ -137,7 +131,6 @@ March. _[The heel of the bread and the tongue of the sea - Body-part metaphors i
 
 ---
 
-</br>
 
 ## Contact
 
