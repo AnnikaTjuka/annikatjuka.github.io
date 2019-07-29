@@ -10,8 +10,6 @@ I am a research associate in the [FAHMRRR](https://www.projekte.hu-berlin.de/en/
 
 ---
 
-&NewLine;
-
 </br>
 
 ## Masters Thesis
@@ -41,8 +39,6 @@ Description: I collaborated with a software engineer to search my text corpora f
 
 ---
 
-&NewLine;
-
 </br>
 
 ## Curriculum Vitae
@@ -71,8 +67,6 @@ Group head: Dr. Gesa Hartwigsen
 
 ---
 
-&NewLine;
-
 </br>
 
 ## Participation (Summer/Winter Schools)
@@ -82,8 +76,6 @@ Group head: Dr. Gesa Hartwigsen
 Summer Neurolinguistics School at the National Research University Higher School of Economics, Center for Language and Brain, Moscow, Russia.
 
 ---
-
-&NewLine;
 
 </br>
 
@@ -96,8 +88,6 @@ Tjuka, Annika, Lena Weißmann, and Kilu von Prince (2019). "[Tagging modality in
 Tjuka, Annika, Lena Weißmann, and Kilu von Prince (2019). "[Habitual aspect as a property of text spans.](/papers/tjuka2019_LTC_habitual_aspect.pdf)"  In Zygmunt Vetulani and Patrick Paroubek (eds.) _Human language technologies as a challenge for computer science and linguistics. Proceedings of 9<sup>th</sup> Language & Technology Conference._ Poznań: Wydawnictwo Nauka i Innowacje, 195-199.
 
 ---
-
-&NewLine;
 
 </br>
 
@@ -131,8 +121,6 @@ April. _[Time and perspective in a supposedly tenseless language.](/slides/tjuka
 
 ---
 
-&NewLine;
-
 </br>
 
 ## Posters
@@ -148,8 +136,6 @@ July. With  Huong Thi Thu Nguyen and Katharina Spalek. _[Shirts, scarves, or soc
 March. _[The heel of the bread and the tongue of the sea - Body-part metaphors in object and landscape terms.](/posters/tjuka2019_bodypart_metaphors_creativemetaphor.pdf)_ The Creative Power of Metaphor. Worcester College, Oxford, United Kingdom.
 
 ---
-
-&NewLine;
 
 </br>
 
