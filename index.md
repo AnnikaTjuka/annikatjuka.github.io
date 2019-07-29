@@ -8,8 +8,6 @@ I have a Master of Arts degree in Linguistics from the Humboldt-Universität zu 
 
 I am a research associate in the [FAHMRRR](https://www.projekte.hu-berlin.de/en/fahmrrr/index.html?set_language=en) project, led by Katharina Spalek. We investigate how humans process meaning that goes beyond the individual words in an utterance, concentrating on the processing of focus alternatives. In this project, I am conducting a study which investigates the recall of focus alternatives in Vietnamese.
 
-{empty} +
-{empty} +
 
 ## Masters Thesis
 
@@ -35,6 +33,7 @@ Description: I conducted the first systematic typological study of body-part met
 Supervisors: Prof. Dr. Katharina Spalek and Prof. Dr. Manfred Krifka
 
 Description: I collaborated with a software engineer to search my text corpora for emotional words. For this, we created a tool which utilized the Natural Language Processing Kit in Python, so that it could analyze the text corpora and compare them with a list of 3000 words. Afterwards, I analyzed the frequency and psycholinguistic measures of the matching words. The results of my study show that there are more emotional words in donation letters than in stock market letters.
+
 
 ## Curriculum Vitae
 
