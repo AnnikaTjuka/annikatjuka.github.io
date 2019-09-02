@@ -6,8 +6,6 @@
 
 I have a Master of Arts degree in Linguistics from the Humboldt-Universität zu Berlin. In my Master's thesis, I conducted the first systematic typological study of body-part metaphors in object and landscape terms. 
 
-I am a research associate in the [FAHMRRR](https://www.projekte.hu-berlin.de/en/fahmrrr/index.html?set_language=en) project, led by Katharina Spalek. We investigate how humans process meaning that goes beyond the individual words in an utterance, concentrating on the processing of focus alternatives. In this project, I am conducting a study which investigates the recall of focus alternatives in Vietnamese.
-
 
 ## Masters Thesis
 
@@ -45,7 +43,10 @@ Description: I collaborated with a software engineer to search my text corpora f
 
 ### Work experience (in Academia)
 
-2019 - Present **Reseach Associate** in the [FAHMRRR](https://www.projekte.hu-berlin.de/en/fahmrrr/index.html?set_language=en) project, funded by the European Research Council (ERC): An investigation of how humans process meaning in utterances, concentrating on focus alternatives. In my project, I investigate the recall of focus alternatives among Vietnamese speakers.
+2019-Present **PhD Student** in the International Max Planck Research School for the Science of Human History (IMPRS-SHH) at the Max Planck Institute for the Science of Human History, Department of Linguistic and Cultural Evolution.
+Supervisors: Dr. Johann-Mattis List and Prof. Dr. Volker Gast
+
+2019 **Reseach Associate** in the [FAHMRRR](https://www.projekte.hu-berlin.de/en/fahmrrr/index.html?set_language=en) project, funded by the European Research Council (ERC): An investigation of how humans process meaning in utterances, concentrating on focus alternatives. In my project, I investigate the recall of focus alternatives among Vietnamese speakers.
 Principal investigator: Prof. Dr. Katharina Spalek
 
 2017 - 2019 **Student research assistant** in the [MelaTAMP](https://www.projekte.hu-berlin.de/en/melatamp/project%20description?set_language=en) project, funded by the German Research Foundation (DFG): A corpus- based research on TAM and polarity expressions in Oceanic languages of Melanesia.
