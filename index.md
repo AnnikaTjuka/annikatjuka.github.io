@@ -41,12 +41,12 @@ Description: I collaborated with a software engineer to search my text corpora f
 
 ### Academic Education
 
+2019-Present **PhD Student** at the International Max Planck Research School for the Science of Human History (IMPRS-SHH) and the Friedrich-Schiller-Universität Jena.
+Supervisors: Dr. Johann-Mattis List and Prof. Dr. Volker Gast
+
 2019 **Master of Arts in Linguistics** at Humboldt-Universität zu Berlin
 
 2016 **Bachelor of Arts in German Linguistics and Scandinavian Studies** at Humboldt-Universität zu Berlin
-
-2019-Present **PhD Student** in the International Max Planck Research School for the Science of Human History (IMPRS-SHH) at the Max Planck Institute for the Science of Human History, Department of Linguistic and Cultural Evolution.
-Supervisors: Dr. Johann-Mattis List and Prof. Dr. Volker Gast
 
 ### Work experience (in Academia)
 
