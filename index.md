@@ -4,7 +4,11 @@
 
 ## About me
 
-I have a Master of Arts degree in Linguistics from the Humboldt-Universität zu Berlin. In my Master's thesis, I conducted the first systematic typological study of body-part metaphors in object and landscape terms. 
+I am a PhD Student at the International Max Planck Research School for the Science of Human History (IMPRS-SHH). The topic of my research is "Cross-Linguistic Strategies of Denotation: Advancing data and methods in lexical typology". 
+
+I am interested in how different languages classify the objects around them. In my Master's thesis, I conducted the first systematic typological study on body part extensions in object and landscape terms. The cognitive foundation of expressions like 'foot of the mountain' or 'eye of the needle' were also of interest to me. 
+
+My main goal is to accumulate the knowledge of various languages and bring it into the field of psycholinguistics. Thus, in my last project (FAHMRRR), I investigated the recall of focus alternatives in Vietnamese native speakers.
 
 
 ## Masters Thesis
