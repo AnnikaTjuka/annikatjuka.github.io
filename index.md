@@ -41,10 +41,10 @@ Description: I collaborated with a software engineer to search my text corpora f
 
 2016 **Bachelor of Arts in German Linguistics and Scandinavian Studies** at Humboldt-Universität zu Berlin
 
-### Work experience (in Academia)
-
 2019-Present **PhD Student** in the International Max Planck Research School for the Science of Human History (IMPRS-SHH) at the Max Planck Institute for the Science of Human History, Department of Linguistic and Cultural Evolution.
 Supervisors: Dr. Johann-Mattis List and Prof. Dr. Volker Gast
+
+### Work experience (in Academia)
 
 2019 **Reseach Associate** in the [FAHMRRR](https://www.projekte.hu-berlin.de/en/fahmrrr/index.html?set_language=en) project, funded by the European Research Council (ERC): An investigation of how humans process meaning in utterances, concentrating on focus alternatives. In my project, I investigate the recall of focus alternatives among Vietnamese speakers.
 Principal investigator: Prof. Dr. Katharina Spalek
