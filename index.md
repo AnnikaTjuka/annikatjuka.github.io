@@ -8,7 +8,7 @@ I am a PhD Student at the International Max Planck Research School for the Scien
 
 I am interested in how different languages classify the objects around them. In my Master's thesis, I conducted the first systematic typological study on body part extensions in object and landscape terms. The cognitive foundation of expressions like 'foot of the mountain' or 'eye of the needle' were also of interest to me. 
 
-My main goal is to accumulate the knowledge of various languages and bring it into the field of psycholinguistics. Thus, in my last project (FAHMRRR), I investigated the recall of focus alternatives in Vietnamese native speakers.
+My main goal is to accumulate the knowledge of various languages and bring it into the field of psycholinguistics. Thus, in my last project ([FAHMRRR](https://www.projekte.hu-berlin.de/en/fahmrrr/index.html?set_language=en)), I investigated the recall of focus alternatives in Vietnamese native speakers.
 
 
 ## Masters Thesis
