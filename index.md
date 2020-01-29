@@ -87,8 +87,11 @@ Tjuka, Annika, Lena Weißmann, and Kilu von Prince (2019). "[Tagging modality in
 
 Tjuka, Annika, Lena Weißmann, and Kilu von Prince (2019). "[Habitual aspect as a property of text spans.](/papers/tjuka2019_LTC_habitual_aspect.pdf)"  In Zygmunt Vetulani and Patrick Paroubek (eds.) _Human language technologies as a challenge for computer science and linguistics. Proceedings of 9<sup>th</sup> Language & Technology Conference._ Poznań: Wydawnictwo Nauka i Innowacje, 195-199.
 
+### Blog posts
 
-## Talks
+Tjuka, Annika. "Adding concept lists to Concepticon: A guide for beginners," in Computer-Assisted Language Comparison in Practice, 29/01/2020, [https://calc.hypotheses.org/2225](https://calc.hypotheses.org/2225).
+
+### Talks
 
 **2019**
 
@@ -117,7 +120,7 @@ May. _[Don't judge from the outside: A deeper look into the Vietnamese tense sys
 April. _[Time and perspective in a supposedly tenseless language.](/slides/tjuka2018_vietnamese_tenslessnes_twistconf.pdf)_ 12<sup>th</sup> T.W.I.S.T. Student Conference for Linguistics, Leiden, NL.
 
 
-## Posters
+### Posters
 
 **2019**
 
