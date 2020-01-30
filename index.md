@@ -47,14 +47,13 @@ Description: I collaborated with a software engineer to search my text corpora f
 
 ### Academic Education
 
-2019 - Present | **PhD Student** 
-International Max Planck Research School for the Science of Human History (IMPRS-SHH) and Friedrich-Schiller-Universität Jena.
+2019 - Present | **PhD Student** at International Max Planck Research School for the Science of Human History (IMPRS-SHH) and Friedrich-Schiller-Universität Jena.
 Supervisors: Dr. Johann-Mattis List and Prof. Dr. Volker Gast
 
-2016 - 2019 | **Master of Arts in Linguistics** 
+2016 - 2019 | **Master of Arts in Linguistics** at
 Humboldt-Universität zu Berlin
 
-2012 - 2016 | **Bachelor of Arts in German Linguistics and Scandinavian Studies** 
+2012 - 2016 | **Bachelor of Arts in German Linguistics and Scandinavian Studies** at
 Humboldt-Universität zu Berlin
 
 ### Work experience (in Academia)
@@ -75,10 +74,10 @@ Group head: Dr. Gesa Hartwigsen
 
 ### Administrative Service
 
-2020 - Present |  PhD representative 
+2020 - Present |  PhD representative for the
 DLCE department, Max Planck Institute for the Science of Human History
 
-2017 - 2018 |  Women's representative 
+2017 - 2018 |  Women's representative for
 Institute of Romance Studies, Humboldt-Universität zu Berlin
 
 ### Participation (Summer/Winter Schools, Workshops)
