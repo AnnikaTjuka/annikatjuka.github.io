@@ -2,6 +2,10 @@
 
 # Annika Tjuka, Linguist 
 
+## Upcoming
+
++++ +++
+
 ## About me
 
 I am a PhD Student at the International Max Planck Research School for the Science of Human History (IMPRS-SHH). The topic of my research is "Cross-Linguistic Strategies of Denotation: Advancing data and methods in lexical typology". 
@@ -72,7 +76,11 @@ Group head: Dr. Gesa Hartwigsen
 
 2017 - 2018 | Women's representative at Institute of Romance Studies, Humboldt-Universität zu Berlin
 
-### Participation (Summer/Winter Schools)
+### Participation (Summer/Winter Schools, Workshops)
+
+**2020**
+
+ Workshop on Reproducible Research Data Management, Max Planck Institute for the Science of Human History, Jena, Germany.
 
 **2019**
 
