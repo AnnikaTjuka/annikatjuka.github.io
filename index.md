@@ -50,31 +50,31 @@ Description: I collaborated with a software engineer to search my text corpora f
 2019 - Present | **PhD Student** at the International Max Planck Research School for the Science of Human History (IMPRS-SHH) and the Friedrich-Schiller-Universität Jena.
 Supervisors: Dr. Johann-Mattis List and Prof. Dr. Volker Gast
 
-2019 | **Master of Arts in Linguistics** at Humboldt-Universität zu Berlin
+2016 - 2019 |  **Master of Arts in Linguistics** at Humboldt-Universität zu Berlin
 
-2016 | **Bachelor of Arts in German Linguistics and Scandinavian Studies** at Humboldt-Universität zu Berlin
+2012 - 2016 |  **Bachelor of Arts in German Linguistics and Scandinavian Studies** at Humboldt-Universität zu Berlin
 
 ### Work experience (in Academia)
 
-2019 | **Reseach Associate** in the [FAHMRRR](https://www.projekte.hu-berlin.de/en/fahmrrr/index.html?set_language=en) project, funded by the European Research Council (ERC): An investigation of how humans process meaning in utterances, concentrating on focus alternatives. In my project, I investigate the recall of focus alternatives among Vietnamese speakers.
+2019 |  **Reseach Associate** in the [FAHMRRR](https://www.projekte.hu-berlin.de/en/fahmrrr/index.html?set_language=en) project, funded by the European Research Council (ERC): An investigation of how humans process meaning in utterances, concentrating on focus alternatives. In my project, I investigate the recall of focus alternatives among Vietnamese speakers.
 Principal investigator: Prof. Dr. Katharina Spalek
 
-2017 - 2019 | **Student research assistant** in the [MelaTAMP](https://www.projekte.hu-berlin.de/en/melatamp/project%20description?set_language=en) project, funded by the German Research Foundation (DFG): A corpus- based research on TAM and polarity expressions in Oceanic languages of Melanesia.
+2017 - 2019 |  **Student research assistant** in the [MelaTAMP](https://www.projekte.hu-berlin.de/en/melatamp/project%20description?set_language=en) project, funded by the German Research Foundation (DFG): A corpus- based research on TAM and polarity expressions in Oceanic languages of Melanesia.
 Principal investigators: Dr. Kilu von Prince, Prof. Dr. Manfred Krifka
 
-2016 - 2019 | **Student research assistant** in the [FAHMRRR](https://www.projekte.hu-berlin.de/en/fahmrrr/index.html?set_language=en) project, funded by the European Research Council (ERC).
+2016 - 2019 |  **Student research assistant** in the [FAHMRRR](https://www.projekte.hu-berlin.de/en/fahmrrr/index.html?set_language=en) project, funded by the European Research Council (ERC).
 Principal investigator: Prof. Dr. Katharina Spalek
 
-2018 | **Internship and student research assistant** in the group 'Modulation of Language Networks' at the Max Planck Institute for Human Cognitive and Brain Sciences.
+2018 |  **Internship and student research assistant** in the group 'Modulation of Language Networks' at the Max Planck Institute for Human Cognitive and Brain Sciences.
 Group head: Dr. Gesa Hartwigsen
 
 [full CV](CV_tjuka.pdf)
 
 ### Administrative Service
 
-2020 - Present | PhD representative for the DLCE department at Max Planck Institute for the Science of Human History
+2020 - Present |  PhD representative for the DLCE department at Max Planck Institute for the Science of Human History
 
-2017 - 2018 | Women's representative at Institute of Romance Studies, Humboldt-Universität zu Berlin
+2017 - 2018 |  Women's representative at Institute of Romance Studies, Humboldt-Universität zu Berlin
 
 ### Participation (Summer/Winter Schools, Workshops)
 
