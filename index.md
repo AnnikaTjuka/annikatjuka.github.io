@@ -67,8 +67,14 @@ Principal investigators: Dr. Kilu von Prince, Prof. Dr. Manfred Krifka
 2016 - 2019 |  **Student research assistant** in the [FAHMRRR](https://www.projekte.hu-berlin.de/en/fahmrrr/index.html?set_language=en) project, funded by the European Research Council (ERC).
 Principal investigator: Prof. Dr. Katharina Spalek
 
+Support with neuroimaging data acquisition:
+Spalek, K. and Oganian, Y. (2019). The neurocognitive signature of focus alternatives. _Brain and Language_ (194), 98-108.
+
 2018 |  **Internship and student research assistant** in the group 'Modulation of Language Networks' at the Max Planck Institute for Human Cognitive and Brain Sciences.
 Group head: Dr. Gesa Hartwigsen
+
+Support with neuroimaging data acquisition: Kuhnke, P., Kiefer, M., and Hartwigsen, G. (2020). Task-dependent recruitment of modality-specific and multimodal regions during conceptual processing. _Cerebral Cortex_, 1-22.
+
 
 [full CV](CV_tjuka.pdf)
 
