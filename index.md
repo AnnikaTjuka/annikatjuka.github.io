@@ -2,9 +2,9 @@
 
 # Annika Tjuka, Linguist 
 
-## Upcoming
+## News
 
-+++ +++
++++ We just released the 2.3 version of Concepticon (http://concepticon.clld.org). A reference catalog that links comparative concepts in the languages of the world.  +++
 
 ## About me
 
@@ -106,6 +106,10 @@ Tjuka, Annika, Huong Thi Thu Nguyen, and Katharina Spalek (submitted). "Foxes, d
 Tjuka, Annika, Lena Weißmann, and Kilu von Prince (2019). "[Tagging modality in Oceanic languages of Melanesia.](/papers/tjuka2019_tagging_modality_oceanic_LAW.pdf)" In _Proceedings of 13<sup>th</sup> Linguistic Annotation Workshop._ ACL Special Interest Group on Annotation.
 
 Tjuka, Annika, Lena Weißmann, and Kilu von Prince (2019). "[Habitual aspect as a property of text spans.](/papers/tjuka2019_LTC_habitual_aspect.pdf)"  In Zygmunt Vetulani and Patrick Paroubek (eds.) _Human language technologies as a challenge for computer science and linguistics. Proceedings of 9<sup>th</sup> Language & Technology Conference._ Poznań: Wydawnictwo Nauka i Innowacje, 195-199.
+
+### Databases
+
+List, Johann Mattis & Rzymski, Christoph & Greenhill, Simon & Schweikhard, Nathanael & Pianykh, Kristina & Tjuka, Annika & Wu, Mei-Shin & Forkel, Robert (eds.) 2020. Concepticon 2.3.0. Jena: Max Planck Institute for the Science of Human History (Available online at http://concepticon.clld.org, Accessed on 2020-03-12.)
 
 ### Blog posts
 
