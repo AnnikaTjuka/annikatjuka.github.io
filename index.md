@@ -8,6 +8,8 @@
 
 +++ We just released the 2.3 version of Concepticon (http://concepticon.clld.org). A reference catalog that links comparative concepts in the languages of the world.  +++
 
++++ Check out my virtual bookshelf [here](https://photos.app.goo.gl/wQbxPsKPWJpUXYxU7). +++
+
 ## About me
 
 I am a PhD Student at the International Max Planck Research School for the Science of Human History (IMPRS-SHH). The topic of my research is "Cross-Linguistic Strategies of Denotation: Advancing data and methods in lexical typology". 
