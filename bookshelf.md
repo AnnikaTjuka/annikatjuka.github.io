@@ -1,3 +1,5 @@
+<img src="bookshelf/murphy2002" width="100" height="150">
+
 ![Image](bookshelf/deutscher2010.jpg)
 
 ![Image](bookshelf/geeraerts2010.jpg)
