@@ -8,7 +8,7 @@
 [<img src="bookshelf/pustejovsky1995.jpeg" width="200" height="270">](https://g.co/kgs/rgUZRf)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="bookshelf/Sweetser1990.jpeg" width="200" height="270">](https://g.co/kgs/HNqYxy)[<img src="bookshelf/joseph2001.jpg" width="200" height="270">](https://g.co/kgs/v7VcUY)
 
 
-## Langauge and Mind
+## Language and Mind
 
 [<img src="bookshelf/murphy2002.jpeg" width="200" height="270">](https://g.co/kgs/3CL7Uf)
 
@@ -22,11 +22,6 @@
 [<img src="bookshelf/sacks1997.jpg" width="200" height="270">](https://g.co/kgs/U5JgkH)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="bookshelf/sacks1989.jpg" width="200" height="270">](https://g.co/kgs/Bpb6Dy)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="bookshelf/enders2014.jpg" width="200" height="270">](https://g.co/kgs/LvsV8K)
 
 
-## Inspiring Biographies
-
-[<img src="bookshelf/noah2016.jpeg" width="200" height="270">](https://g.co/kgs/oA5p9n)
-
-
 ## Communication
 
 [<img src="bookshelf/HBR2019.jpg" width="200" height="270">](https://g.co/kgs/CfxGNz)
@@ -34,6 +29,11 @@
 [<img src="bookshelf/cain2011.jpg" width="200" height="270">](https://g.co/kgs/G7dkHE)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="bookshelf/SchulzvonThun1998.jpg" width="200" height="270">](https://www.schulz-von-thun.de/veroeffentlichungen/miteinander-reden)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="bookshelf/SchulzvonThun2007.jpg" width="200" height="270">](https://www.schulz-von-thun.de/veroeffentlichungen/miteinander-reden)
 
 [<img src="bookshelf/SchulzvonThun1981b.jpg" width="200" height="270">](https://www.schulz-von-thun.de/veroeffentlichungen/miteinander-reden)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="bookshelf/SchulzvonThun1981a.jpg" width="200" height="270">](https://www.schulz-von-thun.de/veroeffentlichungen/miteinander-reden);&nbsp;&nbsp;&nbsp;[<img src="bookshelf/watzlawick1978.jpg" width="200" height="270">](https://g.co/kgs/ix7kXv)
+
+
+## Inspiring Biographies
+
+[<img src="bookshelf/obama2018.jpeg" width="200" height="270">](https://g.co/kgs/1f2bPB)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="bookshelf/noah2016.jpeg" width="200" height="270">](https://g.co/kgs/oA5p9n)
 
 
 ### Contact
