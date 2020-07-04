@@ -1,12 +1,12 @@
-<img src="bookshelf/murphy2002" width="100" height="150">
+<img src="bookshelf/murphy2002.jpg" width="200" height="250">
 
-![Image](bookshelf/deutscher2010.jpg)
+<img src="bookshelf/deutscher2010.jpg" width="200" height="250">
 
-![Image](bookshelf/geeraerts2010.jpg)
+<img src="bookshelf/geeraerts2010.jpg" width="200" height="250">
 
-![Image](bookshelf/goodall2000.jpg)
+<img src="bookshelf/goodall2000.jpg" width="200" height="250">
 
-![Image](bookshelf/krause2019.jpg)
+<img src="bookshelf/krause2019.jpg" width="200" height="250">
 
 ![Image](bookshelf/HBR2019.jpg)
 
