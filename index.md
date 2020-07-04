@@ -8,7 +8,7 @@
 
 +++ We just released the 2.3 version of Concepticon (http://concepticon.clld.org). A reference catalog that links comparative concepts in the languages of the world.  +++
 
-+++ Check out my virtual bookshelf [here](https://photos.app.goo.gl/wQbxPsKPWJpUXYxU7). +++
++++ Check out my virtual bookshelf [here](bookshelf.md). +++
 
 ## About me
 
