@@ -1,20 +1,17 @@
-<img src="bookshelf/murphy2002.jpg" width="200" height="250">
-
-<img src="bookshelf/deutscher2010.jpg" width="200" height="250">
-
-<img src="bookshelf/geeraerts2010.jpg" width="200" height="250">
+<img src="bookshelf/murphy2002.jpeg" width="200" height="250"> <img src="bookshelf/deutscher2010.jpg" width="200" height="250"> <img src="bookshelf/geeraerts2010.jpg" width="200" height="250">
 
 <img src="bookshelf/goodall2000.jpg" width="200" height="250">
 
 <img src="bookshelf/krause2019.jpg" width="200" height="250">
 
-![Image](bookshelf/HBR2019.jpg)
+<img src="bookshelf/HBR2019.jpg" width="200" height="250">
 
-![Image](bookshelf/lakoff1980.jpg)
+<img src="bookshelf/lakoff1980.jpg" width="200" height="250">
 
-![Image](bookshelf/cain2011.jpg)
+<img src="bookshelf/cain2011.jpg" width="200" height="250">
 
-![Image](bookshelf/joseph2001.jpg)
+[<img src="bookshelf/joseph2001.jpg" width="200" height="250">](https://g.co/kgs/v7VcUY)
+
 
 ![Image](bookshelf/sacks1989.jpg)
 
