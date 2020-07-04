@@ -17,8 +17,6 @@
 
 ## Sience as an Adventure
 
-https://g.co/kgs/37WyMj
-
 [<img src="bookshelf/deutscher2010.jpg" width="200" height="270">](https://g.co/kgs/GiMA4H)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="bookshelf/goodall2000.jpg" width="200" height="270">](https://g.co/kgs/dYRQd1)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="bookshelf/krause2019.jpg" width="200" height="270">](https://www.ullstein-buchverlage.de/nc/buch/details/die-reise-unserer-gene-9783549100028.html)
 
 [<img src="bookshelf/sacks1997.jpg" width="200" height="270">](https://g.co/kgs/U5JgkH)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="bookshelf/sacks1989.jpg" width="200" height="270">](https://g.co/kgs/Bpb6Dy)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="bookshelf/tegmark2014.jpeg" width="200" height="270">](https://g.co/kgs/37WyMj)
