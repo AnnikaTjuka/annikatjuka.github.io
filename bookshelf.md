@@ -1,3 +1,5 @@
+[< back to homepage](index.md)
+
 # My virtual Bookshelf 
 
 
@@ -39,8 +41,5 @@
 [<img src="bookshelf/goodall2000.jpg" width="200" height="270">](https://g.co/kgs/dYRQd1)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="bookshelf/obama2018.jpeg" width="200" height="270">](https://g.co/kgs/1f2bPB)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="bookshelf/noah2016.jpeg" width="200" height="270">](https://g.co/kgs/oA5p9n)
 
 
-### Contact
+[< back to homepage](index.md)
 
-<mail@annikatjuka.com>
-
-[ResearchGate](https://www.researchgate.net/profile/Annika_Tjuka)
