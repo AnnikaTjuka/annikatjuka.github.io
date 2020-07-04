@@ -3,9 +3,9 @@
 
 ## Linguistic Theory
 
-[<img src="bookshelf/geeraerts2010.jpg" width="200" height="270">](https://g.co/kgs/fLwXcy)
+[<img src="bookshelf/pustejovsky1995.jpeg" width="200" height="270">](https://g.co/kgs/rgUZRf)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="bookshelf/geeraerts2010.jpg" width="200" height="270">](https://g.co/kgs/fLwXcy)
 
-[<img src="bookshelf/pustejovsky1995.jpeg" width="200" height="270">](https://g.co/kgs/rgUZRf)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="bookshelf/Sweetser1990.jpeg" width="200" height="270">](https://g.co/kgs/HNqYxy)[<img src="bookshelf/joseph2001.jpg" width="200" height="270">](https://g.co/kgs/v7VcUY)
+[<img src="bookshelf/Sweetser1990.jpeg" width="200" height="270">](https://g.co/kgs/HNqYxy)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="bookshelf/joseph2001.jpg" width="200" height="270">](https://g.co/kgs/v7VcUY)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="bookshelf/austin1962.jpeg" width="200" height="270">](https://g.co/kgs/BJ8S5T)
 
 
 ## Language and Mind
@@ -17,9 +17,13 @@
 
 ## Sience as an Adventure
 
-[<img src="bookshelf/goodall2000.jpg" width="200" height="270">](https://g.co/kgs/dYRQd1)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="bookshelf/deutscher2010.jpg" width="200" height="270">](https://g.co/kgs/GiMA4H)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="bookshelf/krause2019.jpg" width="200" height="270">](https://www.ullstein-buchverlage.de/nc/buch/details/die-reise-unserer-gene-9783549100028.html)
+https://g.co/kgs/37WyMj
 
-[<img src="bookshelf/sacks1997.jpg" width="200" height="270">](https://g.co/kgs/U5JgkH)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="bookshelf/sacks1989.jpg" width="200" height="270">](https://g.co/kgs/Bpb6Dy)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="bookshelf/enders2014.jpg" width="200" height="270">](https://g.co/kgs/LvsV8K)
+[<img src="bookshelf/deutscher2010.jpg" width="200" height="270">](https://g.co/kgs/GiMA4H)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="bookshelf/goodall2000.jpg" width="200" height="270">](https://g.co/kgs/dYRQd1)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="bookshelf/krause2019.jpg" width="200" height="270">](https://www.ullstein-buchverlage.de/nc/buch/details/die-reise-unserer-gene-9783549100028.html)
+
+[<img src="bookshelf/sacks1997.jpg" width="200" height="270">](https://g.co/kgs/U5JgkH)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="bookshelf/sacks1989.jpg" width="200" height="270">](https://g.co/kgs/Bpb6Dy)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="bookshelf/tegmark2014.jpeg" width="200" height="270">](https://g.co/kgs/37WyMj)
+
+[<img src="bookshelf/enders2014.jpg" width="200" height="270">](https://g.co/kgs/LvsV8K)
 
 
 ## Communication
@@ -33,7 +37,7 @@
 
 ## Inspiring Biographies
 
-[<img src="bookshelf/obama2018.jpeg" width="200" height="270">](https://g.co/kgs/1f2bPB)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="bookshelf/noah2016.jpeg" width="200" height="270">](https://g.co/kgs/oA5p9n)
+[<img src="bookshelf/goodall2000.jpg" width="200" height="270">](https://g.co/kgs/dYRQd1)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="bookshelf/obama2018.jpeg" width="200" height="270">](https://g.co/kgs/1f2bPB)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="bookshelf/noah2016.jpeg" width="200" height="270">](https://g.co/kgs/oA5p9n)
 
 
 ### Contact
