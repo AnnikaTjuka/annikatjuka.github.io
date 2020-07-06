@@ -4,11 +4,9 @@
 
 ## News
 
-+++ I gave a talk titled "[Similarity as the basis for meaning extensions](/slides/tjuka2020_similarity_DLCEmeeting.pdf)" in the virtual DLCE department meeting today. +++
-
-+++ We just released the 2.3 version of Concepticon (http://concepticon.clld.org). A reference catalog that links comparative concepts in the languages of the world.  +++
-
 +++ Check out my virtual bookshelf [here](bookshelf.md). +++
+
++++ I gave a talk titled "[Similarity as the basis for meaning extensions](/slides/tjuka2020_similarity_DLCEmeeting.pdf)" in the virtual DLCE department meeting today. +++
 
 ## About me
 

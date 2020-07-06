@@ -1,8 +1,8 @@
-[< back to homepage](index.md)
+[< back](index.md)
 
 # My virtual Bookshelf 
 
-'_Your are what you read_' I've noticed that many people are curious about bookshelves. I'm no exception. The first thing I check out at a party is the host's bookshelf. So I'm not surprised that bookshelves have become a popular background for [YouTube videos](https://youtu.be/QmdXN2FR2eY). A bookshelf is a great opportunity to indirectly illustrate your personality and knowledge. As a student, I would have loved to take a look at the bookshelves of my favorite professors. If I had a bookshelf in my YouTube videos, I would select the following books to put them on display.
+I've noticed that many people are curious about bookshelves. I'm no exception. The first thing I check out at a party is the host's bookshelf. So I'm not surprised that bookshelves have become a popular background for [YouTube videos](https://youtu.be/QmdXN2FR2eY). A bookshelf is a great opportunity to indirectly illustrate your personality and knowledge. As a student, I would have loved to take a look at the bookshelves of my favorite professors. If I had a bookshelf in my YouTube videos, I would select the following books to put them on display.
 
 
 ## Linguistic Theory
@@ -20,7 +20,7 @@
 [<img src="bookshelf/lakoff1980.jpg" width="200" height="270">](https://g.co/kgs/UAoVg2)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="bookshelf/schrott2011.jpg" width="200" height="270">](https://www.hanser-literaturverlage.de/buch/gehirn-und-gedicht/978-3-446-25369-8/)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="bookshelf/schwarz-friesel2013.jpg" width="200" height="270">](https://www.degruyter.com/view/journals/zrs/3/2/article-p271.xml)&nbsp
 
 
-## Sience as an Adventure
+## Science as an Adventure
 
 [<img src="bookshelf/deutscher2010.jpg" width="200" height="270">](https://g.co/kgs/GiMA4H)
 
