@@ -4,9 +4,11 @@
 
 ## News
 
-+++ Check out my virtual bookshelf [here](bookshelf.md). +++
++++ We submitted a Preprint for our article '[Linking Norms, Ratings, and Relations of Words and Concepts Across Multiple Language Varieties.](https://psyarxiv.com/tgw3z/)' to PsyArXiv. +++
 
-+++ I gave a talk titled "[Similarity as the basis for meaning extensions](/slides/tjuka2020_similarity_DLCEmeeting.pdf)" in the virtual DLCE department meeting today. +++
++++ We released the first version of the Database of Cross-Linguistic Norms, Ratings, and Relations for Words and Concepts on [GitHub](https://github.com/concepticon/norare-data). +++
+
++++ Check out my virtual bookshelf [here](bookshelf.md). +++
 
 ## About me
 
@@ -99,25 +101,36 @@ Institute of Romance Studies, Humboldt-Universität zu Berlin
 Summer Neurolinguistics School at the National Research University Higher School of Economics, Center for Language and Brain, Moscow, Russia.
 
 
-## Publications
+## Preprints
+
+Tjuka, Annika, Robert Forkel, and Johann-Mattis List (submitted). "Linking Norms, Ratings, and Relations of Words and Concepts Across Multiple Language Varieties." PsyArXiv. July 27. [https://psyarxiv.com/tgw3z/](https://psyarxiv.com/tgw3z/).
 
 Tjuka, Annika (submitted). "Body part extensions with _mặt_ 'face' in Vietnamese."
 
 Tjuka, Annika, Huong Thi Thu Nguyen, and Katharina Spalek (submitted). "Foxes, deer, or hedgehogs - The recall of focus alternatives in Vietnamese." Special Collection on Prosody and Speech Processing across Languages and Varieties in _Laboratory Phonology_.
 
+## Publications
+
 Tjuka, Annika, Lena Weißmann, and Kilu von Prince (2019). "[Tagging modality in Oceanic languages of Melanesia.](/papers/tjuka2019_tagging_modality_oceanic_LAW.pdf)" In _Proceedings of 13<sup>th</sup> Linguistic Annotation Workshop._ ACL Special Interest Group on Annotation.
 
 Tjuka, Annika, Lena Weißmann, and Kilu von Prince (2019). "[Habitual aspect as a property of text spans.](/papers/tjuka2019_LTC_habitual_aspect.pdf)"  In Zygmunt Vetulani and Patrick Paroubek (eds.) _Human language technologies as a challenge for computer science and linguistics. Proceedings of 9<sup>th</sup> Language & Technology Conference._ Poznań: Wydawnictwo Nauka i Innowacje, 195-199.
 
-### Databases
+## Databases
 
-List, Johann Mattis & Rzymski, Christoph & Greenhill, Simon & Schweikhard, Nathanael & Pianykh, Kristina & Tjuka, Annika & Wu, Mei-Shin & Forkel, Robert (eds.) 2020. Concepticon 2.3.0. Jena: Max Planck Institute for the Science of Human History (Available online at http://concepticon.clld.org, Accessed on 2020-03-12.)
+Annika Tjuka, Robert Forkel, & Johann-Mattis List (2020). concepticon/norare-data: Database of Cross-Linguistic Norms, Ratings, and Relations for Words and Concepts (Version v0.1) Available online at [http://doi.org/10.5281/zenodo.3957681](http://doi.org/10.5281/zenodo.3957681)
 
-### Blog posts
+List, Johann Mattis & Rzymski, Christoph & Greenhill, Simon & Schweikhard, Nathanael & Pianykh, Kristina & Tjuka, Annika & Wu, Mei-Shin & Forkel, Robert (2020). Concepticon 2.4.0-rc.1. A Resource for the Linking of Concept Lists. Jena: Max Planck Institute for the Science of Human History. Available online at [https://concepticon.clld.org](https://concepticon.clld.org)
+
+
+## Blog posts
 
 Tjuka, Annika. "Adding concept lists to Concepticon: A guide for beginners," in Computer-Assisted Language Comparison in Practice, 29/01/2020, [https://calc.hypotheses.org/2225](https://calc.hypotheses.org/2225).
 
-### Talks
+## Talks
+
+**2020**
+
+April. _[Similarity as the basis for meaning extensions.](/slides/tjuka2020_similarity_DLCEmeeting.pdf)_ Meeting of Department of Linguistic and Cultural Evolution, Max Planck Institute for the Science of Human History, Jena, DE.
 
 **2019**
 
@@ -146,7 +159,7 @@ May. _[Don't judge from the outside: A deeper look into the Vietnamese tense sys
 April. _[Time and perspective in a supposedly tenseless language.](/slides/tjuka2018_vietnamese_tenslessnes_twistconf.pdf)_ 12<sup>th</sup> T.W.I.S.T. Student Conference for Linguistics, Leiden, NL.
 
 
-### Posters
+## Posters
 
 **2019**
 
