@@ -103,9 +103,9 @@ Summer Neurolinguistics School at the National Research University Higher School
 
 ## Preprints
 
-Tjuka, Annika, Robert Forkel, and Johann-Mattis List (submitted). "Linking Norms, Ratings, and Relations of Words and Concepts Across Multiple Language Varieties." PsyArXiv. July 27. [https://psyarxiv.com/tgw3z/](https://psyarxiv.com/tgw3z/).
+Tjuka, Annika, Robert Forkel, and Johann-Mattis List (submitted). "Linking Norms, Ratings, and Relations of Words and Concepts Across Multiple Language Varieties." PsyArXiv. July 27. [https://psyarxiv.com/tgw3z/](https://psyarxiv.com/tgw3z/)
 
-Tjuka, Annika (submitted). "Body part extensions with _mặt_ 'face' in Vietnamese."
+Tjuka, Annika (submitted). "Body part extensions with _mặt_ 'face' in Vietnamese." HCommons. [http://dx.doi.org/10.17613/23np-nt91](http://dx.doi.org/10.17613/23np-nt91)
 
 ## Publications
 
