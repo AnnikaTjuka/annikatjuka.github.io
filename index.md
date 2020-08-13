@@ -107,9 +107,9 @@ Tjuka, Annika, Robert Forkel, and Johann-Mattis List (submitted). "Linking Norms
 
 Tjuka, Annika (submitted). "Body part extensions with _mặt_ 'face' in Vietnamese."
 
-Tjuka, Annika, Huong Thi Thu Nguyen, and Katharina Spalek (submitted). "Foxes, deer, or hedgehogs - The recall of focus alternatives in Vietnamese." Special Collection on Prosody and Speech Processing across Languages and Varieties in _Laboratory Phonology_.
-
 ## Publications
+
+Tjuka, Annika, Huong Thi Thu Nguyen, and Katharina Spalek (accepted). "Foxes, deer, or hedgehogs - The recall of focus alternatives in Vietnamese." Special Collection on Prosody and Speech Processing across Languages and Varieties in _Laboratory Phonology_.
 
 Tjuka, Annika, Lena Weißmann, and Kilu von Prince (2019). "[Tagging modality in Oceanic languages of Melanesia.](/papers/tjuka2019_tagging_modality_oceanic_LAW.pdf)" In _Proceedings of 13<sup>th</sup> Linguistic Annotation Workshop._ ACL Special Interest Group on Annotation.
 
