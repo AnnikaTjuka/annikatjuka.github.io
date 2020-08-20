@@ -31,7 +31,7 @@ I've noticed that many people are curious about bookshelves. I'm no exception. T
 
 ## Communication
 
-[<img src="bookshelf/HBR2019.jpg" width="200" height="270">](https://g.co/kgs/CfxGNz)
+[<img src="bookshelf/eurich2017.jpg" width="200" height="270">](https://g.co/kgs/zQ5F28)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="bookshelf/HBR2019.jpg" width="200" height="270">](https://g.co/kgs/CfxGNz)
 
 [<img src="bookshelf/cain2011.jpg" width="200" height="270">](https://g.co/kgs/G7dkHE)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="bookshelf/SchulzvonThun1998.jpg" width="200" height="270">](https://www.schulz-von-thun.de/veroeffentlichungen/miteinander-reden)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="bookshelf/SchulzvonThun2007.jpg" width="200" height="270">](https://www.schulz-von-thun.de/veroeffentlichungen/miteinander-reden)
 
