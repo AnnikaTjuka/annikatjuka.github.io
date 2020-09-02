@@ -15,7 +15,7 @@ I've noticed that many people are curious about bookshelves. I'm no exception. T
 
 ## Language and Mind
 
-[<img src="bookshelf/aitchison1987.jpeg" width="200" height="270">](https://www.wiley.com/en-us/Words+in+the+Mind%3A+An+Introduction+to+the+Mental+Lexicon%2C+4th+Edition-p-9780470656471)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="bookshelf/murphy2002.jpeg" width="200" height="270">](https://g.co/kgs/3CL7Uf)
+[<img src="bookshelf/kahneman2011.jpg" width="200" height="270">](https://g.co/kgs/SSbsxs)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="bookshelf/aitchison1987.jpeg" width="200" height="270">](https://www.wiley.com/en-us/Words+in+the+Mind%3A+An+Introduction+to+the+Mental+Lexicon%2C+4th+Edition-p-9780470656471)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="bookshelf/murphy2002.jpeg" width="200" height="270">](https://g.co/kgs/3CL7Uf)
 
 [<img src="bookshelf/lakoff1980.jpg" width="200" height="270">](https://g.co/kgs/UAoVg2)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="bookshelf/schrott2011.jpg" width="200" height="270">](https://www.hanser-literaturverlage.de/buch/gehirn-und-gedicht/978-3-446-25369-8/)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="bookshelf/schwarz-friesel2013.jpg" width="200" height="270">](https://www.degruyter.com/view/journals/zrs/3/2/article-p271.xml)&nbsp
 
