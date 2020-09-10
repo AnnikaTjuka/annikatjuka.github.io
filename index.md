@@ -4,6 +4,9 @@
 
 ## News
 
++++ Upcoming talk at Sprachwissenschaftliche Tagung für Promotionsstudierende (STaPs) in September. The title of my presentation is "Defining the obvious: How to measure similarity?" +++
+
+
 +++ We submitted a Preprint for our article '[Linking Norms, Ratings, and Relations of Words and Concepts Across Multiple Language Varieties.](https://psyarxiv.com/tgw3z/)' to PsyArXiv. +++
 
 +++ We released the first version of the Database of Cross-Linguistic Norms, Ratings, and Relations for Words and Concepts on [GitHub](https://github.com/concepticon/norare-data). +++
