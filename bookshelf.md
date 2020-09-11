@@ -17,7 +17,7 @@ I've noticed that many people are curious about bookshelves. I'm no exception. T
 
 [<img src="bookshelf/kahneman2011.jpg" width="200" height="270">](https://g.co/kgs/SSbsxs)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="bookshelf/aitchison1987.jpeg" width="200" height="270">](https://www.wiley.com/en-us/Words+in+the+Mind%3A+An+Introduction+to+the+Mental+Lexicon%2C+4th+Edition-p-9780470656471)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="bookshelf/murphy2002.jpeg" width="200" height="270">](https://g.co/kgs/3CL7Uf)
 
-[<img src="bookshelf/lakoff1980.jpg" width="200" height="270">](https://g.co/kgs/UAoVg2)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="bookshelf/schrott2011.jpg" width="200" height="270">](https://www.hanser-literaturverlage.de/buch/gehirn-und-gedicht/978-3-446-25369-8/)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="bookshelf/schwarz-friesel2013.jpg" width="200" height="270">](https://www.degruyter.com/view/journals/zrs/3/2/article-p271.xml)&nbsp
+[<img src="bookshelf/lakoff1980.jpg" width="200" height="270">](https://g.co/kgs/UAoVg2)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="bookshelf/schrott2011.jpg" width="200" height="270">](https://www.hanser-literaturverlage.de/buch/gehirn-und-gedicht/978-3-446-25369-8/)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="bookshelf/schwarz-friesel2013.jpg" width="200" height="270">](https://www.degruyter.com/view/journals/zrs/3/2/article-p271.xml)
 
 
 ## Science as an Adventure
@@ -36,6 +36,10 @@ I've noticed that many people are curious about bookshelves. I'm no exception. T
 [<img src="bookshelf/cain2011.jpg" width="200" height="270">](https://g.co/kgs/G7dkHE)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="bookshelf/SchulzvonThun1998.jpg" width="200" height="270">](https://www.schulz-von-thun.de/veroeffentlichungen/miteinander-reden)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="bookshelf/SchulzvonThun2007.jpg" width="200" height="270">](https://www.schulz-von-thun.de/veroeffentlichungen/miteinander-reden)
 
 [<img src="bookshelf/SchulzvonThun1981b.jpg" width="200" height="270">](https://www.schulz-von-thun.de/veroeffentlichungen/miteinander-reden)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="bookshelf/SchulzvonThun1981a.jpg" width="200" height="270">](https://www.schulz-von-thun.de/veroeffentlichungen/miteinander-reden);&nbsp;&nbsp;&nbsp;[<img src="bookshelf/watzlawick1978.jpg" width="200" height="270">](https://g.co/kgs/ix7kXv)
+
+## Teaching
+
+[<img src="bookshelf/darby2019.jpeg" width="200" height="270">](https://g.co/kgs/7J6Rqh)
 
 
 ## Inspiring Biographies
