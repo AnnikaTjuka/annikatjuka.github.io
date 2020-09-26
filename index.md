@@ -4,7 +4,7 @@
 
 ## News
 
-+++ Upcoming talk at Sprachwissenschaftliche Tagung für Promotionsstudierende (STaPs) in September. The title of my presentation is "Defining the obvious: How to measure similarity?" +++
++++ Upcoming talk at Sprachwissenschaftliche Tagung für Promotionsstudierende (STaPs) in September. The title of my presentation is "[Defining the obvious: How to measure similarity?]((/slides/tjuka2020_similarity_STaPs.pdf))" +++
 
 
 +++ We submitted a Preprint for our article '[Linking Norms, Ratings, and Relations of Words and Concepts Across Multiple Language Varieties.](https://psyarxiv.com/tgw3z/)' to PsyArXiv. +++
@@ -97,7 +97,7 @@ Institute of Romance Studies, Humboldt-Universität zu Berlin
 
 **2020**
 
- Workshop on Reproducible Research Data Management, Max Planck Institute for the Science of Human History, Jena, Germany.
+Workshop on Reproducible Research Data Management, Max Planck Institute for the Science of Human History, Jena, Germany.
 
 **2019**
 
@@ -132,6 +132,8 @@ Tjuka, Annika. "Adding concept lists to Concepticon: A guide for beginners," in 
 ## Talks
 
 **2020**
+
+September. _[Defining the obvious: How to measure similarity?](/slides/tjuka2020_similarity_STaPs.pdf)_ 16<sup>th</sup> Sprachwissenschaftliche Tagung für Promotionsstudierende, Wien, AT (online).
 
 April. _[Similarity as the basis for meaning extensions.](/slides/tjuka2020_similarity_DLCEmeeting.pdf)_ Meeting of Department of Linguistic and Cultural Evolution, Max Planck Institute for the Science of Human History, Jena, DE.
 
