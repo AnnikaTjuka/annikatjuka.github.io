@@ -4,6 +4,8 @@
 
 ## News
 
++++ I introduced a list of 171 body part concepts in a blog post: [https://calc.hypotheses.org/2512](https://calc.hypotheses.org/2512) +++
+
 +++ We submitted a Preprint for our article '[Linking Norms, Ratings, and Relations of Words and Concepts Across Multiple Language Varieties.](https://psyarxiv.com/tgw3z/)' to PsyArXiv. +++
 
 +++ We released the first version of the Database of Cross-Linguistic Norms, Ratings, and Relations for Words and Concepts on [GitHub](https://github.com/concepticon/norare-data). +++
@@ -105,7 +107,7 @@ Summer Neurolinguistics School at the National Research University Higher School
 
 Tjuka, Annika, Robert Forkel, and Johann-Mattis List (submitted). "Linking Norms, Ratings, and Relations of Words and Concepts Across Multiple Language Varieties." PsyArXiv. July 27. [https://psyarxiv.com/tgw3z/](https://psyarxiv.com/tgw3z/)
 
-Tjuka, Annika (submitted). "Body part extensions with _mặt_ 'face' in Vietnamese." HCommons. [http://dx.doi.org/10.17613/23np-nt91](http://dx.doi.org/10.17613/23np-nt91)
+Tjuka, Annika (submitted). "Body part extensions with _mặt_ 'face' in Vietnamese." HCommons. [http://doi.org/10.17613/23np-nt91](http://dx.doi.org/10.17613/23np-nt91)
 
 ## Publications
 
@@ -124,7 +126,10 @@ List, Johann Mattis & Rzymski, Christoph & Greenhill, Simon & Schweikhard, Natha
 
 ## Blog posts
 
+Tjuka, Annika. "A list of 171 body part concepts," in Computer-Assisted Language Comparison in Practice, 28/09/2020, [https://calc.hypotheses.org/2512](https://calc.hypotheses.org/2512).
+
 Tjuka, Annika. "Adding concept lists to Concepticon: A guide for beginners," in Computer-Assisted Language Comparison in Practice, 29/01/2020, [https://calc.hypotheses.org/2225](https://calc.hypotheses.org/2225).
+
 
 ## Talks
 
