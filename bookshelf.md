@@ -12,7 +12,7 @@ I've noticed that many people are curious about bookshelves. I'm no exception. T
 | [<img src="bookshelf/kahneman2011.jpg" width="200" height="270">](https://g.co/kgs/SSbsxs) | [<img src="bookshelf/aitchison1987.jpeg" width="200" height="270">](https://www.wiley.com/en-us/Words+in+the+Mind%3A+An+Introduction+to+the+Mental+Lexicon%2C+4th+Edition-p-9780470656471) | [<img src="bookshelf/murphy2002.jpeg" width="200" height="270">](https://g.co/kgs/3CL7Uf) |
 |  | Recommended by [Katharina Spalek](https://www.linguistik.hu-berlin.de/de/institut/professuren/psycholinguistik/psyling-gastprof/mitarbeiter-innen/1681890) |  |
 | [<img src="bookshelf/lakoff1980.jpg" width="200" height="270">](https://g.co/kgs/UAoVg2) | [<img src="bookshelf/schrott2011.jpg" width="200" height="270">](https://www.hanser-literaturverlage.de/buch/gehirn-und-gedicht/978-3-446-25369-8/) | [<img src="bookshelf/schwarz-friesel2013.jpg" width="200" height="270">](https://www.degruyter.com/view/journals/zrs/3/2/article-p271.xml) |
-| Pivotal for my [MA thesis](http://dx.doi.org/10.17613/j95n-c998) | Pivotal for my [BA thesis](https://www.researchgate.net/publication/325742407_Emotionalisierung_durch_Texte_-_Eine_kontrastive_Untersuchung_von_Spendenaufrufen_und_Borsenbriefen_mithilfe_der_Berlin_Affective_Word_List_Reloaded) | |
+| Central for my [MA thesis](http://dx.doi.org/10.17613/j95n-c998) |  | Central for my [BA thesis](https://www.researchgate.net/publication/325742407_Emotionalisierung_durch_Texte_-_Eine_kontrastive_Untersuchung_von_Spendenaufrufen_und_Borsenbriefen_mithilfe_der_Berlin_Affective_Word_List_Reloaded) |
 
 
 ## Linguistic Theory
@@ -21,7 +21,7 @@ I've noticed that many people are curious about bookshelves. I'm no exception. T
 |---|---|---|
 | [<img src="bookshelf/pustejovsky1995.jpeg" alt="Your image title" width="200" height="270"/>](https://g.co/kgs/rgUZRf) | [<img src="bookshelf/Sweetser1990.jpeg" width="200" height="270">](https://g.co/kgs/HNqYxy) | |
 | [<img src="bookshelf/geeraerts2010.jpg" alt="Sublime's custom image" width="200" height="270">](https://g.co/kgs/fLwXcy) | [<img src="bookshelf/joseph2001.jpg" width="200" height="270">](https://g.co/kgs/v7VcUY) | [<img src="bookshelf/austin1962.jpeg" width="200" height="270">](https://g.co/kgs/BJ8S5T) |
-| Recommended by [Kelsie Pattillo](https://www.researchgate.net/profile/Kelsie_Pattillo) | | |
+| Recommended by [Kelsie Pattillo](https://www.researchgate.net/profile/Kelsie_Pattillo) | | Recommended by [Manfred Krifka](https://www.leibniz-zas.de/en/people/details/krifka-manfred/manfred-krifka/) |
 
 
 ## Science as an Adventure
