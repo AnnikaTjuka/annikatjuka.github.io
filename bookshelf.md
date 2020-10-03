@@ -19,7 +19,7 @@ I've noticed that many people are curious about bookshelves. I'm no exception. T
 | [<img src="bookshelf/pustejovsky1995.jpeg" alt="Your image title" width="200" height="270"/>](https://g.co/kgs/rgUZRf) | [<img src="bookshelf/Sweetser1990.jpeg" width="200" height="270">](https://g.co/kgs/HNqYxy) | |
 |---|---|---|
 | [<img src="bookshelf/geeraerts2010.jpg" alt="Sublime's custom image" width="200" height="270">](https://g.co/kgs/fLwXcy) | [<img src="bookshelf/joseph2001.jpg" width="200" height="270">](https://g.co/kgs/v7VcUY) | [<img src="bookshelf/austin1962.jpeg" width="200" height="270">](https://g.co/kgs/BJ8S5T) |
-|Recommended by Kelsie Pattillo](https://www.researchgate.net/profile/Kelsie_Pattillo) | | |
+| [Recommended by Kelsie Pattillo](https://www.researchgate.net/profile/Kelsie_Pattillo) | | |
 
 
 ## Science as an Adventure
@@ -27,7 +27,7 @@ I've noticed that many people are curious about bookshelves. I'm no exception. T
 | [<img src="bookshelf/deutscher2010.jpg" width="200" height="270">](https://g.co/kgs/GiMA4H) | | |
 |---|---|---|
 | [<img src="bookshelf/goodall2000.jpg" width="200" height="270">](https://g.co/kgs/dYRQd1) | [<img src="bookshelf/krause2019.jpg" width="200" height="270">](https://www.ullstein-buchverlage.de/nc/buch/details/die-reise-unserer-gene-9783549100028.html) | [<img src="bookshelf/sacks1997.jpg" width="200" height="270">](https://g.co/kgs/U5JgkH) |
-|A gift from Kilu von Prince](http://kiluvonprince.de/) | | Recommended by Kilu von Prince](http://kiluvonprince.de/) |
+| [A gift from Kilu von Prince](http://kiluvonprince.de/) | | [Recommended by Kilu von Prince](http://kiluvonprince.de/) |
 | [<img src="bookshelf/sacks1989.jpg" width="200" height="270">](https://g.co/kgs/Bpb6Dy) | [<img src="bookshelf/tegmark2014.jpeg" width="200" height="270">](https://g.co/kgs/37WyMj) | [<img src="bookshelf/enders2014.jpg" width="200" height="270">](https://g.co/kgs/LvsV8K) |
 
 
