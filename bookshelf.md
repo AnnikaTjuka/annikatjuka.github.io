@@ -8,48 +8,44 @@ I've noticed that many people are curious about bookshelves. I'm no exception. T
 ## Language and Mind
 
 | [<img src="bookshelf/kahneman2011.jpg" width="200" height="270">](https://g.co/kgs/SSbsxs) | [<img src="bookshelf/aitchison1987.jpeg" width="200" height="270">](https://www.wiley.com/en-us/Words+in+the+Mind%3A+An+Introduction+to+the+Mental+Lexicon%2C+4th+Edition-p-9780470656471) | [<img src="bookshelf/murphy2002.jpeg" width="200" height="270">](https://g.co/kgs/3CL7Uf) |
-|:---:|:---:|:---:|
+|---|---|---|
 |  | Recommended by [Katharina Spalek](https://www.linguistik.hu-berlin.de/de/institut/professuren/psycholinguistik/psyling-gastprof/mitarbeiter-innen/1681890) |  |
-
 | [<img src="bookshelf/lakoff1980.jpg" width="200" height="270">](https://g.co/kgs/UAoVg2) | [<img src="bookshelf/schrott2011.jpg" width="200" height="270">](https://www.hanser-literaturverlage.de/buch/gehirn-und-gedicht/978-3-446-25369-8/) | [<img src="bookshelf/schwarz-friesel2013.jpg" width="200" height="270">](https://www.degruyter.com/view/journals/zrs/3/2/article-p271.xml) |
-|:---:|:---:|:---:|
-| Pivotal for my MA thesis | Pivotal for my BA thesis | |
+| Pivotal for my [MA thesis](http://dx.doi.org/10.17613/j95n-c998) | Pivotal for my [BA thesis](https://www.researchgate.net/publication/325742407_Emotionalisierung_durch_Texte_-_Eine_kontrastive_Untersuchung_von_Spendenaufrufen_und_Borsenbriefen_mithilfe_der_Berlin_Affective_Word_List_Reloaded) | |
 
 
 ## Linguistic Theory
 
-[<img src="bookshelf/pustejovsky1995.jpeg" alt="Your image title" width="200" height="270"/>](https://g.co/kgs/rgUZRf)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="bookshelf/Sweetser1990.jpeg" width="200" height="270">](https://g.co/kgs/HNqYxy)
-
-
-[<img src="bookshelf/geeraerts2010.jpg" alt="Sublime's custom image" width="200" height="270">](https://g.co/kgs/fLwXcy)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="bookshelf/joseph2001.jpg" width="200" height="270">](https://g.co/kgs/v7VcUY)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="bookshelf/austin1962.jpeg" width="200" height="270">](https://g.co/kgs/BJ8S5T)
+| [<img src="bookshelf/pustejovsky1995.jpeg" alt="Your image title" width="200" height="270"/>](https://g.co/kgs/rgUZRf) | [<img src="bookshelf/Sweetser1990.jpeg" width="200" height="270">](https://g.co/kgs/HNqYxy) | |
+|---|---|---|
+| [<img src="bookshelf/geeraerts2010.jpg" alt="Sublime's custom image" width="200" height="270">](https://g.co/kgs/fLwXcy) | [<img src="bookshelf/joseph2001.jpg" width="200" height="270">](https://g.co/kgs/v7VcUY) | [<img src="bookshelf/austin1962.jpeg" width="200" height="270">](https://g.co/kgs/BJ8S5T) |
 
 
 ## Science as an Adventure
 
-[<img src="bookshelf/deutscher2010.jpg" width="200" height="270">](https://g.co/kgs/GiMA4H)
-
-[<img src="bookshelf/goodall2000.jpg" width="200" height="270">](https://g.co/kgs/dYRQd1)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="bookshelf/krause2019.jpg" width="200" height="270">](https://www.ullstein-buchverlage.de/nc/buch/details/die-reise-unserer-gene-9783549100028.html)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="bookshelf/sacks1997.jpg" width="200" height="270">](https://g.co/kgs/U5JgkH)
-
-[<img src="bookshelf/sacks1989.jpg" width="200" height="270">](https://g.co/kgs/Bpb6Dy)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="bookshelf/tegmark2014.jpeg" width="200" height="270">](https://g.co/kgs/37WyMj)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="bookshelf/enders2014.jpg" width="200" height="270">](https://g.co/kgs/LvsV8K)
+| [<img src="bookshelf/deutscher2010.jpg" width="200" height="270">](https://g.co/kgs/GiMA4H) | | |
+|---|---|---|
+| [<img src="bookshelf/goodall2000.jpg" width="200" height="270">](https://g.co/kgs/dYRQd1) | [<img src="bookshelf/krause2019.jpg" width="200" height="270">](https://www.ullstein-buchverlage.de/nc/buch/details/die-reise-unserer-gene-9783549100028.html) | [<img src="bookshelf/sacks1997.jpg" width="200" height="270">](https://g.co/kgs/U5JgkH) |
+| [<img src="bookshelf/sacks1989.jpg" width="200" height="270">](https://g.co/kgs/Bpb6Dy) | [<img src="bookshelf/tegmark2014.jpeg" width="200" height="270">](https://g.co/kgs/37WyMj) | [<img src="bookshelf/enders2014.jpg" width="200" height="270">](https://g.co/kgs/LvsV8K) |
 
 
 ## Communication
 
-[<img src="bookshelf/eurich2017.png" width="200" height="270">](https://g.co/kgs/zQ5F28)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="bookshelf/HBR2019.jpg" width="200" height="270">](https://g.co/kgs/CfxGNz)
-
-[<img src="bookshelf/cain2011.jpg" width="200" height="270">](https://g.co/kgs/G7dkHE)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="bookshelf/SchulzvonThun1998.jpg" width="200" height="270">](https://www.schulz-von-thun.de/veroeffentlichungen/miteinander-reden)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="bookshelf/SchulzvonThun2007.jpg" width="200" height="270">](https://www.schulz-von-thun.de/veroeffentlichungen/miteinander-reden)
-
-[<img src="bookshelf/SchulzvonThun1981b.jpg" width="200" height="270">](https://www.schulz-von-thun.de/veroeffentlichungen/miteinander-reden)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="bookshelf/SchulzvonThun1981a.jpg" width="200" height="270">](https://www.schulz-von-thun.de/veroeffentlichungen/miteinander-reden);&nbsp;&nbsp;&nbsp;[<img src="bookshelf/watzlawick1978.jpg" width="200" height="270">](https://g.co/kgs/ix7kXv)
+| [<img src="bookshelf/eurich2017.png" width="200" height="270">](https://g.co/kgs/zQ5F28) | [<img src="bookshelf/HBR2019.jpg" width="200" height="270">](https://g.co/kgs/CfxGNz) | | 
+|---|---|---|
+| [<img src="bookshelf/cain2011.jpg" width="200" height="270">](https://g.co/kgs/G7dkHE) | [<img src="bookshelf/SchulzvonThun1998.jpg" width="200" height="270">](https://www.schulz-von-thun.de/veroeffentlichungen/miteinander-reden) | [<img src="bookshelf/SchulzvonThun2007.jpg" width="200" height="270">](https://www.schulz-von-thun.de/veroeffentlichungen/miteinander-reden) |
+| [<img src="bookshelf/SchulzvonThun1981b.jpg" width="200" height="270">](https://www.schulz-von-thun.de/veroeffentlichungen/miteinander-reden) | [<img src="bookshelf/SchulzvonThun1981a.jpg" width="200" height="270">](https://www.schulz-von-thun.de/veroeffentlichungen/miteinander-reden);&nbsp;&nbsp;&nbsp;[<img src="bookshelf/watzlawick1978.jpg" width="200" height="270">](https://g.co/kgs/ix7kXv) |
 
 ## Teaching
 
-[<img src="bookshelf/darby2019.jpeg" width="200" height="270">](https://g.co/kgs/7J6Rqh)
-
+| [<img src="bookshelf/darby2019.jpeg" width="200" height="270">](https://g.co/kgs/7J6Rqh) | | | 
+|---|---|---|
 
 ## Inspiring Biographies
 
-[<img src="bookshelf/goodall2000.jpg" width="200" height="270">](https://g.co/kgs/dYRQd1)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="bookshelf/obama2018.jpeg" width="200" height="270">](https://g.co/kgs/1f2bPB)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="bookshelf/noah2016.jpeg" width="200" height="270">](https://g.co/kgs/oA5p9n)
-
+| [<img src="bookshelf/goodall2000.jpg" width="200" height="270">](https://g.co/kgs/dYRQd1) | [<img src="bookshelf/obama2018.jpeg" width="200" height="270">](https://g.co/kgs/1f2bPB) | [<img src="bookshelf/noah2016.jpeg" width="200" height="270">](https://g.co/kgs/oA5p9n) | 
+|---|---|---|
+| | | |
 
 [< back to homepage](index.md)
 
