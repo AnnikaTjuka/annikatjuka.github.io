@@ -45,8 +45,8 @@ I've noticed that many people are curious about bookshelves. I'm no exception. T
 
 ## Teaching
 
-| | | |
-|---|---|---|
+| |
+|---|
 | [<img src="bookshelf/darby2019.jpeg" width="200" height="270">](https://g.co/kgs/7J6Rqh) |
 
 
