@@ -4,6 +4,9 @@
 
 ## News
 
++++ Upcoming talk at the Words in the World (WoW) International Conference on October 17<sup>th</sup>. The title of my presentation is "[The eye/ear of the needle – Cross-linguistic differences in body part extensions](/slides/tjuka2020_body-object-colexifications_WoW.pdf)" +++
+
+
 +++ I introduced a list of 171 body part concepts in a blog post: [https://calc.hypotheses.org/2512](https://calc.hypotheses.org/2512) +++
 
 +++ We submitted a Preprint for our article '[Linking Norms, Ratings, and Relations of Words and Concepts Across Multiple Language Varieties.](https://psyarxiv.com/tgw3z/)' to PsyArXiv. +++
