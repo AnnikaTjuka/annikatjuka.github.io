@@ -30,7 +30,7 @@ I've noticed that many people are curious about bookshelves. I'm no exception. T
 
 | | | |
 |---|---|---|
-| [<img src="bookshelf/deutscher2010.jpg" width="200" height="270">](https://g.co/kgs/GiMA4H) | | |
+| [<img src="bookshelf/slaughter2017.jpg" width="200" height="270">](https://g.co/kgs/5KYjsw) | [<img src="bookshelf/deutscher2010.jpg" width="200" height="270">](https://g.co/kgs/GiMA4H) | |
 | [<img src="bookshelf/goodall2000.jpg" width="200" height="270">](https://g.co/kgs/dYRQd1) | [<img src="bookshelf/krause2019.jpg" width="200" height="270">](https://www.ullstein-buchverlage.de/nc/buch/details/die-reise-unserer-gene-9783549100028.html) | [<img src="bookshelf/sacks1997.jpg" width="200" height="270">](https://g.co/kgs/U5JgkH) |
 | A gift from [Kilu von Prince](http://kiluvonprince.de/) | | Recommended by [Kilu von Prince](http://kiluvonprince.de/) |
 | [<img src="bookshelf/sacks1989.jpg" width="200" height="270">](https://g.co/kgs/Bpb6Dy) | [<img src="bookshelf/tegmark2014.jpeg" width="200" height="270">](https://g.co/kgs/37WyMj) | [<img src="bookshelf/enders2014.jpg" width="200" height="270">](https://g.co/kgs/LvsV8K) |
