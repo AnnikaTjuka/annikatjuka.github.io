@@ -4,8 +4,7 @@
 
 ## News
 
-+++ Upcoming talk at the Words in the World (WoW) International Conference on October 17<sup>th</sup>. The title of my presentation is "[The eye/ear of the needle – Cross-linguistic differences in body part extensions](/slides/tjuka2020_body_object_colexifications_WoW.pdf)" +++
-
++++ Talk at the Words in the World (WoW) International Conference on October 17<sup>th</sup>. The title of my presentation is "The eye/ear of the needle – Cross-linguistic differences in body part extensions." If you missed my talk, you can watch it on [Vimeo](https://vimeo.com/469215455). For the slides click [here](/slides/tjuka2020_body_object_colexifications_WoW.pdf). +++
 
 +++ I introduced a list of 171 body part concepts in a blog post: [https://calc.hypotheses.org/2512](https://calc.hypotheses.org/2512) +++
 
