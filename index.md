@@ -187,5 +187,5 @@ March. _[The heel of the bread and the tongue of the sea - Body-part metaphors i
 
 [ResearchGate](https://www.researchgate.net/profile/Annika_Tjuka)
 
-[Instagram](https://www.instagram.com/everyday_linguist/?hl=de)
+[Twitter](https://twitter.com/AnnikaTjuka)
 
