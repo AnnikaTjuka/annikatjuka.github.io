@@ -18,12 +18,7 @@
 
 {% include vimeoPlayer.html id="471925002" %}
 
-I am a PhD Student at the International Max Planck Research School for the Science of Human History (IMPRS-SHH). The topic of my research is "Cross-Linguistic Strategies of Denotation: Advancing data and methods in lexical typology". 
-
-I am interested in how different languages classify the objects around them. In my Master's thesis, I conducted the first systematic typological study on body part extensions in object and landscape terms. The cognitive foundation of expressions like 'foot of the mountain' or 'eye of the needle' were also of interest to me. 
-
-My main goal is to accumulate the knowledge of various languages and bring it into the field of psycholinguistics. Thus, in my last project ([FAHMRRR](https://www.projekte.hu-berlin.de/en/fahmrrr/index.html?set_language=en)), I investigated the recall of focus alternatives in Vietnamese native speakers.
-
+I am a doctoral student at the International Max Planck Research School for the Science of Human History (IMPRS-SHH). The topic of my research is "Cross-linguistic strategies of denotation: Advancing data and methods in lexical typology." I am interested in how diverse languages categorize the objects in the world around us. The cognitive basis of expressions like 'foot of the mountain' or 'eye of the needle' illustrates that humans use different dimensions of similarity to extend body parts to object features. My main goal is to compare lexical items across languages and combine the resulting patterns with similarity measures in linguistics and psychology. I am a trained linguist and have a Master of Arts degree from the Humboldt University Berlin. In addition, I worked as a student assistant in two research areas of linguistics: typology ([MelaTAMP](https://www.projekte.hu-berlin.de/en/melatamp/project%20description?set_language=en) project) and psycholinguistics ([FAHMRRR](https://www.projekte.hu-berlin.de/en/fahmrrr/index.html?set_language=en) project).
 
 ## Masters Thesis
 
