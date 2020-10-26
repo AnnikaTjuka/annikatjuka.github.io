@@ -17,6 +17,13 @@
 
 I’m a linguist. My area of expertise is semantics, specifically semantic typology. I’m fascinated by the mental lexicon and the cognitive basis of semantic networks. My research is looking at language from a cross-linguistic perspective. So far, I conducted the first systematic study of body part terms for objects and landscape features in my Master's thesis. And I’m now a PhD at the MPI for the Science of Human History.
 
+### Contact
+
+<mail@annikatjuka.com>
+
+[ResearchGate](https://www.researchgate.net/profile/Annika_Tjuka)
+
+[Twitter](https://twitter.com/AnnikaTjuka)
 
 ## Preprints
 
@@ -44,17 +51,9 @@ Annika Tjuka, Robert Forkel, & Johann-Mattis List (2020). concepticon/norare-dat
 
 List, Johann Mattis & Rzymski, Christoph & Greenhill, Simon & Schweikhard, Nathanael & Pianykh, Kristina & Tjuka, Annika & Wu, Mei-Shin & Forkel, Robert (2020). Concepticon 2.4.0-rc.1. A Resource for the Linking of Concept Lists. Jena: Max Planck Institute for the Science of Human History. Available online at [https://concepticon.clld.org](https://concepticon.clld.org)
 
-## [Talks](talks.md)
+### [Talks](talks.md)
 
-## [Curriculum Vitae](cv.md)
+### [Curriculum Vitae](cv.md)
 
-## [Projects](projects.md)
-
-## Contact
-
-<mail@annikatjuka.com>
-
-[ResearchGate](https://www.researchgate.net/profile/Annika_Tjuka)
-
-[Twitter](https://twitter.com/AnnikaTjuka)
+### [Projects](projects.md)
 
