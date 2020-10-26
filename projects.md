@@ -1,3 +1,5 @@
+[< back](index.md)
+
 # Masters Thesis
 
 **Body-part metaphors as a window to cognition: A cross-linguistic study of object and landscape terms**
