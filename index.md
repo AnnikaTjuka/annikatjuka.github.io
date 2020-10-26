@@ -1,8 +1,3 @@
----
-layout: page
-title: Introduction
----
-
 ![Image](me.jpg)
 
 # Annika Tjuka, Linguist 
