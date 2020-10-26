@@ -25,6 +25,8 @@ I’m a linguist. My area of expertise is semantics, specifically semantic typol
 
 ## Publications
 
+**Journal Articles**
+
 Tjuka, Annika, Huong Thi Thu Nguyen, and Katharina Spalek (forthcoming). "Foxes, deer, or hedgehogs - The recall of focus alternatives in Vietnamese." Special Collection on Prosody and Speech Processing across Languages and Varieties in _Laboratory Phonology_.
 
 **Preprints**
@@ -46,6 +48,8 @@ Tjuka, Annika. "A list of 171 body part concepts," in Computer-Assisted Language
 Tjuka, Annika. "Adding concept lists to Concepticon: A guide for beginners," in Computer-Assisted Language Comparison in Practice, 29/01/2020, [https://calc.hypotheses.org/2225](https://calc.hypotheses.org/2225).
 
 ## Talks
+
+**2020**
 
 October. [The eye/ear of the needle – Cross-linguistic differences in body part extensions.](/slides/tjuka2020_body_object_colexifications_WoW.pdf) 1<sup>st</sup> Words in the World (WoW) International Conference, online. Video available [here](https://vimeo.com/469215455).
 
