@@ -49,9 +49,19 @@ Institute of Romance Studies, Humboldt-Universität zu Berlin
 
 **2020**
 
-Workshop on Reproducible Research Data Management, Max Planck Institute for the Science of Human History, Jena, Germany.
+Workshop on "Research Ethics: Moral Decision-making in Science", Graduate Academy Friedrich Schiller University, online.
+
+5-weeks online course "PH526x: Using Python for Research", HarvardX through [edX](https://www.edx.org/).
+
+Workshop on "Communicating Science to Non-Scientists and Media Training for Researchers", Max Planck Society, online.
+
+Workshop on "Academic Writing Skills", Graduate Academy Friedrich Schiller University, online.
+
+Workshop on "Reproducible Research Data Management", Max Planck Institute for the Science of Human History, Jena, Germany.
 
 **2019**
+
+Workshop on "Good scientific practice", Graduate Academy Friedrich Schiller University, Jena, Germany.
 
 Summer Neurolinguistics School at the National Research University Higher School of Economics, Center for Language and Brain, Moscow, Russia.
 
