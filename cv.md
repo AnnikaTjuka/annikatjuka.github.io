@@ -30,7 +30,8 @@ Group head: Dr. Gesa Hartwigsen
 
 Support with neuroimaging data acquisition: Kuhnke, P., Kiefer, M., and Hartwigsen, G. (2020). Task-dependent recruitment of modality-specific and multimodal regions during conceptual processing. _Cerebral Cortex_, 1-22.
 
-2008 - 2012 | **Berufsausbildung zur Kauffrau für Marketingkommunikation, Junior Account Manager, Store Manager**
+2008 - 2012 | **Berufsausbildung zur Kauffrau für Marketingkommunikation, Junior Account Manager, 
+Store Manager**
 
 [full CV](CV_tjuka.pdf)
 
