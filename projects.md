@@ -1,6 +1,15 @@
 [< back](index.md)
 
-# Masters Thesis
+# Projects
+
+## Databases
+
+Annika Tjuka, Robert Forkel, & Johann-Mattis List (2020). concepticon/norare-data: Database of Cross-Linguistic Norms, Ratings, and Relations for Words and Concepts (Version v0.1) Available online at [http://doi.org/10.5281/zenodo.3957681](http://doi.org/10.5281/zenodo.3957681)
+
+List, Johann Mattis & Rzymski, Christoph & Greenhill, Simon & Schweikhard, Nathanael & Pianykh, Kristina & Tjuka, Annika & Wu, Mei-Shin & Forkel, Robert (2020). Concepticon 2.4.0-rc.1. A Resource for the Linking of Concept Lists. Jena: Max Planck Institute for the Science of Human History. Available online at [https://concepticon.clld.org](https://concepticon.clld.org)
+
+
+## Masters Thesis
 
 **Body-part metaphors as a window to cognition: A cross-linguistic study of object and landscape terms**
 
@@ -19,7 +28,7 @@ DOI: [http://dx.doi.org/10.17613/j95n-c998](http://dx.doi.org/10.17613/j95n-c998
 [Revised list of body-part metaphors](https://doi.org/10.6084/m9.figshare.7613189.v1)
 
 
-# Bachelors Thesis
+## Bachelors Thesis
 
 **Emotionalisation through texts**
 
