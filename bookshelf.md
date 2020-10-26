@@ -1,7 +1,3 @@
-layout: page
-title: "Bookshelf"
-permalink: /https://annikatjuka.github.io/introduction/bookshelf
-
 [< back](index.md)
 
 # My virtual Bookshelf 
