@@ -23,37 +23,60 @@ I’m a linguist. My area of expertise is semantics, specifically semantic typol
 
 [Twitter](https://twitter.com/AnnikaTjuka)
 
-## Preprints
+## Publications
+
+Tjuka, Annika, Huong Thi Thu Nguyen, and Katharina Spalek (forthcoming). "Foxes, deer, or hedgehogs - The recall of focus alternatives in Vietnamese." Special Collection on Prosody and Speech Processing across Languages and Varieties in _Laboratory Phonology_.
+
+### Preprints
 
 Tjuka, Annika, Robert Forkel, and Johann-Mattis List (submitted). "Linking Norms, Ratings, and Relations of Words and Concepts Across Multiple Language Varieties." PsyArXiv. July 27. [https://psyarxiv.com/tgw3z/](https://psyarxiv.com/tgw3z/)
 
 Tjuka, Annika (submitted). "Body part extensions with _mặt_ 'face' in Vietnamese." HCommons. [http://doi.org/10.17613/23np-nt91](http://dx.doi.org/10.17613/23np-nt91)
 
-## Publications
-
-Tjuka, Annika, Huong Thi Thu Nguyen, and Katharina Spalek (forthcoming). "Foxes, deer, or hedgehogs - The recall of focus alternatives in Vietnamese." Special Collection on Prosody and Speech Processing across Languages and Varieties in _Laboratory Phonology_.
+### Proceedings
 
 Tjuka, Annika, Lena Weißmann, and Kilu von Prince (2019). "[Tagging modality in Oceanic languages of Melanesia.](/papers/tjuka2019_tagging_modality_oceanic_LAW.pdf)" In _Proceedings of 13<sup>th</sup> Linguistic Annotation Workshop._ ACL Special Interest Group on Annotation.
 
 Tjuka, Annika, Lena Weißmann, and Kilu von Prince (2019). "[Habitual aspect as a property of text spans.](/papers/tjuka2019_LTC_habitual_aspect.pdf)"  In Zygmunt Vetulani and Patrick Paroubek (eds.) _Human language technologies as a challenge for computer science and linguistics. Proceedings of 9<sup>th</sup> Language & Technology Conference._ Poznań: Wydawnictwo Nauka i Innowacje, 195-199.
 
-## Blog posts
+### Blog posts
 
 Tjuka, Annika. "A list of 171 body part concepts," in Computer-Assisted Language Comparison in Practice, 28/09/2020, [https://calc.hypotheses.org/2512](https://calc.hypotheses.org/2512).
 
 Tjuka, Annika. "Adding concept lists to Concepticon: A guide for beginners," in Computer-Assisted Language Comparison in Practice, 29/01/2020, [https://calc.hypotheses.org/2225](https://calc.hypotheses.org/2225).
 
-## Databases
+## Talks
+
+October. [The eye/ear of the needle – Cross-linguistic differences in body part extensions.](/slides/tjuka2020_body_object_colexifications_WoW.pdf) 1<sup>st</sup> Words in the World (WoW) International Conference, online. Video available [here](https://vimeo.com/469215455).
+
+September. _[Defining the obvious: How to measure similarity?](/slides/tjuka2020_similarity_STaPs.pdf)_ 16<sup>th</sup> Sprachwissenschaftliche Tagung für Promotionsstudierende, Wien, AT (online).
+
+April. _[Similarity as the basis for meaning extensions.](/slides/tjuka2020_similarity_DLCEmeeting.pdf)_ Meeting of Department of Linguistic and Cultural Evolution, Max Planck Institute for the Science of Human History, Jena, DE (online).
+
+[more](talks.md)
+
+## Curriculum Vitae
+
+### Academic Education
+
+2019 - Present | **PhD Student** at International Max Planck Research School for the Science of Human History (IMPRS-SHH) and Friedrich-Schiller-Universität Jena.
+Supervisors: Dr. Johann-Mattis List and Prof. Dr. Volker Gast
+
+2016 - 2019 | **Master of Arts in Linguistics** at
+Humboldt-Universität zu Berlin
+
+2012 - 2016 | **Bachelor of Arts in German Linguistics and Scandinavian Studies** at
+Humboldt-Universität zu Berlin
+
+[more](cv.md)
+
+## [Projects](projects.md)
+
+### Databases
 
 Annika Tjuka, Robert Forkel, & Johann-Mattis List (2020). concepticon/norare-data: Database of Cross-Linguistic Norms, Ratings, and Relations for Words and Concepts (Version v0.1) Available online at [http://doi.org/10.5281/zenodo.3957681](http://doi.org/10.5281/zenodo.3957681)
 
 List, Johann Mattis & Rzymski, Christoph & Greenhill, Simon & Schweikhard, Nathanael & Pianykh, Kristina & Tjuka, Annika & Wu, Mei-Shin & Forkel, Robert (2020). Concepticon 2.4.0-rc.1. A Resource for the Linking of Concept Lists. Jena: Max Planck Institute for the Science of Human History. Available online at [https://concepticon.clld.org](https://concepticon.clld.org)
-
-## [Talks](talks.md)
-
-## [Curriculum Vitae](cv.md)
-
-## [Projects](projects.md)
 
 ## [Bookshelf](bookshelf.md)
 
