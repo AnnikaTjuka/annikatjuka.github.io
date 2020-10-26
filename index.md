@@ -55,3 +55,5 @@ List, Johann Mattis & Rzymski, Christoph & Greenhill, Simon & Schweikhard, Natha
 
 ## [Projects](projects.md)
 
+## [Bookshelf](bookshelf.md)
+
