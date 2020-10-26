@@ -27,7 +27,7 @@ I’m a linguist. My area of expertise is semantics, specifically semantic typol
 
 **Journal Articles**
 
-Tjuka, Annika, Huong Thi Thu Nguyen, and Katharina Spalek (forthcoming). "Foxes, deer, or hedgehogs - The recall of focus alternatives in Vietnamese." Special Collection on Prosody and Speech Processing across Languages and Varieties in _Laboratory Phonology_.
+Tjuka, Annika, Huong Thi Thu Nguyen, and Katharina Spalek (2020). Foxes, deer, and hedgehogs: The recall of focus alternatives in Vietnamese. _Laboratory Phonology: Journal of the Association for Laboratory Phonology 11(1)._ 1–29. DOI: [10.5334/labphon.253](https://doi.org/10.5334/labphon.253)
 
 **Preprints**
 
@@ -76,11 +76,15 @@ Humboldt-Universität zu Berlin
 
 ## Projects
 
+**Master's Thesis**
+
+Body-part metaphors as a window to cognition: A cross-linguistic study of object and landscape terms
+
+[more](projects.md)
+
 **Databases**
 
 Annika Tjuka, Robert Forkel, & Johann-Mattis List (2020). concepticon/norare-data: Database of Cross-Linguistic Norms, Ratings, and Relations for Words and Concepts (Version v0.1) Available online at [http://doi.org/10.5281/zenodo.3957681](http://doi.org/10.5281/zenodo.3957681)
 
 List, Johann Mattis & Rzymski, Christoph & Greenhill, Simon & Schweikhard, Nathanael & Pianykh, Kristina & Tjuka, Annika & Wu, Mei-Shin & Forkel, Robert (2020). Concepticon 2.4.0-rc.1. A Resource for the Linking of Concept Lists. Jena: Max Planck Institute for the Science of Human History. Available online at [https://concepticon.clld.org](https://concepticon.clld.org)
-
-[more](projects.md)
 
