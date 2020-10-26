@@ -1,4 +1,4 @@
-## Masters Thesis
+# Masters Thesis
 
 **Body-part metaphors as a window to cognition: A cross-linguistic study of object and landscape terms**
 
@@ -17,7 +17,7 @@ DOI: [http://dx.doi.org/10.17613/j95n-c998](http://dx.doi.org/10.17613/j95n-c998
 [Revised list of body-part metaphors](https://doi.org/10.6084/m9.figshare.7613189.v1)
 
 
-## Bachelors Thesis
+# Bachelors Thesis
 
 **Emotionalisation through texts**
 
