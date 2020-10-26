@@ -1,3 +1,9 @@
+---
+layout: page
+title: Talks
+category: talks
+---
+
 # Talks
 
 **2020**
