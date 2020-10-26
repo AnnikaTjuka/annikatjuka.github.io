@@ -1,3 +1,7 @@
+layout: page
+title: "Introduction"
+permalink: /https://annikatjuka.github.io/introduction/
+
 ![Image](me.jpg)
 
 # Annika Tjuka, Linguist 
