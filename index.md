@@ -15,7 +15,7 @@
 
 I’m a linguist. My area of expertise is semantics, specifically semantic typology. I’m fascinated by the mental lexicon and the cognitive basis of semantic networks. My research is looking at language from a cross-linguistic perspective. So far, I conducted the first systematic study of body part terms for objects and landscape features in my Master's thesis. And I’m now a PhD at the MPI for the Science of Human History.
 
-### Contact
+**Contact**
 
 <mail@annikatjuka.com>
 
@@ -27,19 +27,19 @@ I’m a linguist. My area of expertise is semantics, specifically semantic typol
 
 Tjuka, Annika, Huong Thi Thu Nguyen, and Katharina Spalek (forthcoming). "Foxes, deer, or hedgehogs - The recall of focus alternatives in Vietnamese." Special Collection on Prosody and Speech Processing across Languages and Varieties in _Laboratory Phonology_.
 
-### Preprints
+**Preprints**
 
 Tjuka, Annika, Robert Forkel, and Johann-Mattis List (submitted). "Linking Norms, Ratings, and Relations of Words and Concepts Across Multiple Language Varieties." PsyArXiv. July 27. [https://psyarxiv.com/tgw3z/](https://psyarxiv.com/tgw3z/)
 
 Tjuka, Annika (submitted). "Body part extensions with _mặt_ 'face' in Vietnamese." HCommons. [http://doi.org/10.17613/23np-nt91](http://dx.doi.org/10.17613/23np-nt91)
 
-### Proceedings
+**Proceedings**
 
 Tjuka, Annika, Lena Weißmann, and Kilu von Prince (2019). "[Tagging modality in Oceanic languages of Melanesia.](/papers/tjuka2019_tagging_modality_oceanic_LAW.pdf)" In _Proceedings of 13<sup>th</sup> Linguistic Annotation Workshop._ ACL Special Interest Group on Annotation.
 
 Tjuka, Annika, Lena Weißmann, and Kilu von Prince (2019). "[Habitual aspect as a property of text spans.](/papers/tjuka2019_LTC_habitual_aspect.pdf)"  In Zygmunt Vetulani and Patrick Paroubek (eds.) _Human language technologies as a challenge for computer science and linguistics. Proceedings of 9<sup>th</sup> Language & Technology Conference._ Poznań: Wydawnictwo Nauka i Innowacje, 195-199.
 
-### Blog posts
+**Blog posts**
 
 Tjuka, Annika. "A list of 171 body part concepts," in Computer-Assisted Language Comparison in Practice, 28/09/2020, [https://calc.hypotheses.org/2512](https://calc.hypotheses.org/2512).
 
@@ -57,7 +57,7 @@ April. _[Similarity as the basis for meaning extensions.](/slides/tjuka2020_simi
 
 ## Curriculum Vitae
 
-### Academic Education
+**Academic Education**
 
 2019 - Present | **PhD Student** at International Max Planck Research School for the Science of Human History (IMPRS-SHH) and Friedrich-Schiller-Universität Jena.
 Supervisors: Dr. Johann-Mattis List and Prof. Dr. Volker Gast
@@ -70,13 +70,15 @@ Humboldt-Universität zu Berlin
 
 [more](cv.md)
 
-## [Projects](projects.md)
+## Projects
 
-### Databases
+**Databases**
 
 Annika Tjuka, Robert Forkel, & Johann-Mattis List (2020). concepticon/norare-data: Database of Cross-Linguistic Norms, Ratings, and Relations for Words and Concepts (Version v0.1) Available online at [http://doi.org/10.5281/zenodo.3957681](http://doi.org/10.5281/zenodo.3957681)
 
 List, Johann Mattis & Rzymski, Christoph & Greenhill, Simon & Schweikhard, Nathanael & Pianykh, Kristina & Tjuka, Annika & Wu, Mei-Shin & Forkel, Robert (2020). Concepticon 2.4.0-rc.1. A Resource for the Linking of Concept Lists. Jena: Max Planck Institute for the Science of Human History. Available online at [https://concepticon.clld.org](https://concepticon.clld.org)
+
+[more](projects.md)
 
 ## [Bookshelf](bookshelf.md)
 
