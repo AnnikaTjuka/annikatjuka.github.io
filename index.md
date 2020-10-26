@@ -1,5 +1,3 @@
-![Image](me.jpg)
-
 # Annika Tjuka, Linguist 
 
 ## News
