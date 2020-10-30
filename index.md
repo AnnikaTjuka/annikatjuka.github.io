@@ -88,3 +88,8 @@ Annika Tjuka, Robert Forkel, & Johann-Mattis List (2020). concepticon/norare-dat
 
 List, Johann Mattis & Rzymski, Christoph & Greenhill, Simon & Schweikhard, Nathanael & Pianykh, Kristina & Tjuka, Annika & Wu, Mei-Shin & Forkel, Robert (2020). Concepticon 2.4.0-rc.1. A Resource for the Linking of Concept Lists. Jena: Max Planck Institute for the Science of Human History. Available online at [https://concepticon.clld.org](https://concepticon.clld.org)
 
+
+## Teaching
+
+Winter semester 2020/21 | The mental lexicon from a cross-linguistic perspective, Seminar, BA, Friedrich Schiller University Jena, online.
+
