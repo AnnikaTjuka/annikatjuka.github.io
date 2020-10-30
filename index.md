@@ -91,5 +91,6 @@ List, Johann Mattis & Rzymski, Christoph & Greenhill, Simon & Schweikhard, Natha
 
 ## Teaching
 
-Winter semester 2020/21 | The mental lexicon from a cross-linguistic perspective, Seminar, BA, Friedrich Schiller University Jena, online.
+Winter semester 2020/21 | The mental lexicon from a cross-linguistic perspective, Seminar, BA, 
+Friedrich Schiller University Jena, online.
 
