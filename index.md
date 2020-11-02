@@ -76,9 +76,7 @@ Humboldt-Universität zu Berlin
 
 ## Projects
 
-<img src="projects/tableleg.png" width="150" height="100"> Master's thesis "Body-part metaphors as a window to cognition: A cross-linguistic study of object and landscape terms"
-
-[more](ma-thesis.md) 
+<img src="projects/tableleg.png" width="150" height="100"> [Body-part metaphors as a window to cognition: A cross-linguistic study of object and landscape terms](ma-thesis.md)
 
 <img src="projects/logo-norare.png" width="150" height="100"> [Database of Cross-Linguistic Norms, Ratings, and Relations for Words and Concepts](https://digling.org/norare/)
 
