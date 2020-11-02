@@ -76,17 +76,17 @@ Humboldt-Universität zu Berlin
 
 ## Projects
 
-**Master's Thesis**
+<img src="projects/tableleg.png" width="150" height="100"> Master's thesis "Body-part metaphors as a window to cognition: A cross-linguistic study of object and landscape terms"
 
-Body-part metaphors as a window to cognition: A cross-linguistic study of object and landscape terms
+[more](ma-thesis.md) 
 
-[more](projects.md)
+<img src="projects/logo-norare.png" width="150" height="100"> [Database of Cross-Linguistic Norms, Ratings, and Relations for Words and Concepts](https://digling.org/norare/)
 
-**Databases**
+<img src="projects/logo-concepticon.png" width="150" height="100"> [Concepticon. A Resource for the Linking of Concept Lists.](https://concepticon.clld.org/)
 
-Annika Tjuka, Robert Forkel, & Johann-Mattis List (2020). concepticon/norare-data: Database of Cross-Linguistic Norms, Ratings, and Relations for Words and Concepts (Version v0.1) Available online at [http://doi.org/10.5281/zenodo.3957681](http://doi.org/10.5281/zenodo.3957681)
+<img src="projects/fahmrrr.png" width="150" height="100"> [Focus alternatives in the human mind: Retrieval, Representation and Recall (FAHMRRR)](https://www.projekte.hu-berlin.de/de/fahmrrr)
 
-List, Johann Mattis & Rzymski, Christoph & Greenhill, Simon & Schweikhard, Nathanael & Pianykh, Kristina & Tjuka, Annika & Wu, Mei-Shin & Forkel, Robert (2020). Concepticon 2.4.0-rc.1. A Resource for the Linking of Concept Lists. Jena: Max Planck Institute for the Science of Human History. Available online at [https://concepticon.clld.org](https://concepticon.clld.org)
+<img src="projects/melatamp.png" width="150" height="100"> [MelaTAMP](https://www.projekte.hu-berlin.de/en/melatamp)
 
 
 ## Teaching
