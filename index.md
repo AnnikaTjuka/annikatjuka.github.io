@@ -77,18 +77,23 @@ Humboldt-Universität zu Berlin
 ## Projects
 
 <img src="projects/tableleg.png" width="150" height="100"> 
+
 [Body-part metaphors as a window to cognition: A cross-linguistic study of object and landscape terms](ma-thesis.md)
 
 <img src="projects/logo-norare.png" width="150" height="80"> 
+
 [Database of Cross-Linguistic Norms, Ratings, and Relations for Words and Concepts](https://digling.org/norare/)
 
 <img src="projects/logo-concepticon.png" width="150" height="100"> 
+
 [Concepticon. A Resource for the Linking of Concept Lists.](https://concepticon.clld.org/)
 
 <img src="projects/fahmrrr.png" width="100" height="100"> 
+
 [Focus alternatives in the human mind: Retrieval, Representation and Recall (FAHMRRR)](https://www.projekte.hu-berlin.de/de/fahmrrr)
 
 <img src="projects/melatamp.png" width="150" height="100"> 
+
 [MelaTAMP](https://www.projekte.hu-berlin.de/en/melatamp)
 
 
