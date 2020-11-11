@@ -2,7 +2,7 @@
 
 ## News
 
-+++ Talk at the Words in the World (WoW) International Conference on October 17<sup>th</sup>. The title of my presentation is "The eye/ear of the needle – Cross-linguistic differences in body part extensions." If you missed my talk, you can watch it on [Vimeo](https://vimeo.com/469215455). For the slides click [here](/slides/tjuka2020_body_object_colexifications_WoW.pdf). +++
++++ I'll present a paper on 'General patterns and language variation: Word frequencies across English, German, and Chinese' at [CogALex VI](https://sites.google.com/view/cogalex-2020/home). For the slides click [here](/slides/tjuka2020-frequencies-CogALex.pdf). +++
 
 +++ We submitted a Preprint for our article '[Linking Norms, Ratings, and Relations of Words and Concepts Across Multiple Language Varieties.](https://psyarxiv.com/tgw3z/)' to PsyArXiv. +++
 
