@@ -11,7 +11,7 @@
 
 ## About me
 
-{% include vimeoPlayer.html id="471925002" %}
+{% include YouTubePlayer.html id="KieYIwMyNc0" %}
 
 I’m a linguist. My area of expertise is semantics, specifically semantic typology. I’m fascinated by the mental lexicon and the cognitive basis of semantic networks. My research is looking at language from a cross-linguistic perspective. So far, I conducted the first systematic study of body part terms for objects and landscape features in my Master's thesis. And I’m now a PhD at the MPI for the Science of Human History.
 
