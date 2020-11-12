@@ -51,7 +51,7 @@ Tjuka, Annika. "Adding concept lists to Concepticon: A guide for beginners," in 
 
 **2020**
 
-October. [The eye/ear of the needle – Cross-linguistic differences in body part extensions.](/slides/tjuka2020_body_object_colexifications_WoW.pdf) 1<sup>st</sup> Words in the World (WoW) International Conference, online. Video available [here](https://vimeo.com/469215455).
+October. [The eye/ear of the needle – Cross-linguistic differences in body part extensions.](/slides/tjuka2020_body_object_colexifications_WoW.pdf) 1<sup>st</sup> Words in the World (WoW) International Conference, online. Video available [here](https://youtu.be/ldQKwfyImYU).
 
 September. _[Defining the obvious: How to measure similarity?](/slides/tjuka2020_similarity_STaPs.pdf)_ 16<sup>th</sup> Sprachwissenschaftliche Tagung für Promotionsstudierende, Wien, AT (online).
 
