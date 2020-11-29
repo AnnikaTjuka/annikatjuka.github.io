@@ -31,6 +31,7 @@ I've noticed that many people are curious about bookshelves. I'm no exception. T
 | | | |
 |---|---|---|
 | [<img src="bookshelf/feynman1992.jpg" width="200" height="270">](https://g.co/kgs/V3F4xp) |  |  |
+| Recommended by [Hendrik Huthoff](https://www.linkedin.com/in/hendrik-huthoff-327178125/) | | |
 | [<img src="bookshelf/McGonigal2012.jpeg" width="200" height="270">](https://g.co/kgs/YUuSKp) | [<img src="bookshelf/slaughter2017.jpg" width="200" height="270">](https://g.co/kgs/5KYjsw) | [<img src="bookshelf/deutscher2010.jpg" width="200" height="270">](https://g.co/kgs/GiMA4H) |
 | [<img src="bookshelf/goodall2000.jpg" width="200" height="270">](https://g.co/kgs/dYRQd1) | [<img src="bookshelf/krause2019.jpg" width="200" height="270">](https://www.ullstein-buchverlage.de/nc/buch/details/die-reise-unserer-gene-9783549100028.html) | [<img src="bookshelf/sacks1997.jpg" width="200" height="270">](https://g.co/kgs/U5JgkH) |
 | A gift from [Kilu von Prince](http://kiluvonprince.de/) | | Recommended by [Kilu von Prince](http://kiluvonprince.de/) |
@@ -41,22 +42,23 @@ I've noticed that many people are curious about bookshelves. I'm no exception. T
 
 | | | |
 |---|---|---|
-| [<img src="bookshelf/eurich2017.png" width="200" height="270">](https://g.co/kgs/zQ5F28) | [<img src="bookshelf/HBR2019.jpg" width="200" height="270">](https://g.co/kgs/CfxGNz) | | 
+| [<img src="bookshelf/eurich2017.png" width="200" height="270">](https://g.co/kgs/zQ5F28) | | | 
 | [<img src="bookshelf/cain2011.jpg" width="200" height="270">](https://g.co/kgs/G7dkHE) | [<img src="bookshelf/SchulzvonThun1998.jpg" width="200" height="270">](https://www.schulz-von-thun.de/veroeffentlichungen/miteinander-reden) | [<img src="bookshelf/SchulzvonThun2007.jpg" width="200" height="270">](https://www.schulz-von-thun.de/veroeffentlichungen/miteinander-reden) |
 | [<img src="bookshelf/SchulzvonThun1981b.jpg" width="200" height="270">](https://www.schulz-von-thun.de/veroeffentlichungen/miteinander-reden) | [<img src="bookshelf/SchulzvonThun1981a.jpg" width="200" height="270">](https://www.schulz-von-thun.de/veroeffentlichungen/miteinander-reden) | [<img src="bookshelf/watzlawick1978.jpg" width="200" height="270">](https://g.co/kgs/ix7kXv) |
 
 
-## Teaching
+## Teaching & Training
 
-| |
-|---|
-| [<img src="bookshelf/darby2019.jpeg" width="200" height="270">](https://g.co/kgs/7J6Rqh) |
+| | | 
+|---|---|
+| [<img src="bookshelf/darby2019.jpeg" width="200" height="270">](https://g.co/kgs/7J6Rqh) | [<img src="bookshelf/HBR2019.jpg" width="200" height="270">](https://g.co/kgs/CfxGNz) |
 
 
 ## Inspiring Biographies
 
 | | | |
 |---|---|---|
+| [<img src="bookshelf/obama2020.jpg" width="200" height="270">](https://g.co/kgs/QjYqSJ) | | |
 | [<img src="bookshelf/goodall2000.jpg" width="200" height="270">](https://g.co/kgs/dYRQd1) | [<img src="bookshelf/obama2018.jpeg" width="200" height="270">](https://g.co/kgs/1f2bPB) | [<img src="bookshelf/noah2016.jpeg" width="200" height="270">](https://g.co/kgs/oA5p9n) | 
 
 
