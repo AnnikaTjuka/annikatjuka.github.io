@@ -17,11 +17,11 @@ I've noticed that many people are curious about bookshelves. I'm no exception. T
 | Source of ideas for my [MA thesis](http://dx.doi.org/10.17613/j95n-c998) |  | Source of ideas for my [BA thesis](https://www.researchgate.net/publication/325742407_Emotionalisierung_durch_Texte_-_Eine_kontrastive_Untersuchung_von_Spendenaufrufen_und_Borsenbriefen_mithilfe_der_Berlin_Affective_Word_List_Reloaded) |
 
 
-## Linguistics
+## Linguistic Theory
 
 | | | |
 |---|---|---|
-| [<img src="bookshelf/evans2009.jpeg" alt="Your image title" width="200" height="270"/>](https://g.co/kgs/FQZM2N) | [<img src="bookshelf/pustejovsky1995.jpeg" width="200" height="270"/>](https://g.co/kgs/rgUZRf) | [<img src="bookshelf/Sweetser1990.jpeg" width="200" height="270">](https://g.co/kgs/HNqYxy) |
+| [<img src="bookshelf/pustejovsky1995.jpeg" width="200" height="270"/>](https://g.co/kgs/rgUZRf) | [<img src="bookshelf/Sweetser1990.jpeg" width="200" height="270">](https://g.co/kgs/HNqYxy) | |
 | [<img src="bookshelf/geeraerts2010.jpg" alt="Sublime's custom image" width="200" height="270">](https://g.co/kgs/fLwXcy) | [<img src="bookshelf/joseph2001.jpg" width="200" height="270">](https://g.co/kgs/v7VcUY) | [<img src="bookshelf/austin1962.jpeg" width="200" height="270">](https://g.co/kgs/BJ8S5T) |
 | Recommended by [Kelsie Pattillo](https://www.researchgate.net/profile/Kelsie_Pattillo) | | Course reading recommendation by [Manfred Krifka](https://www.leibniz-zas.de/en/people/details/krifka-manfred/manfred-krifka/) |
 
@@ -30,8 +30,8 @@ I've noticed that many people are curious about bookshelves. I'm no exception. T
 
 | | | |
 |---|---|---|
-| [<img src="bookshelf/feynman1992.jpg" width="200" height="270">](https://g.co/kgs/V3F4xp) |  |  |
-| Recommended by [Hendrik Huthoff](https://www.linkedin.com/in/hendrik-huthoff-327178125/) | | |
+| [<img src="bookshelf/evans2009.jpeg" alt="Your image title" width="200" height="270"/>](https://g.co/kgs/FQZM2N) | [<img src="bookshelf/feynman1992.jpg" width="200" height="270">](https://g.co/kgs/V3F4xp) |  |  |
+| | Recommended by [Hendrik Huthoff](https://www.linkedin.com/in/hendrik-huthoff-327178125/) | |
 | [<img src="bookshelf/McGonigal2012.jpeg" width="200" height="270">](https://g.co/kgs/YUuSKp) | [<img src="bookshelf/slaughter2017.jpg" width="200" height="270">](https://g.co/kgs/5KYjsw) | [<img src="bookshelf/deutscher2010.jpg" width="200" height="270">](https://g.co/kgs/GiMA4H) |
 | [<img src="bookshelf/goodall2000.jpg" width="200" height="270">](https://g.co/kgs/dYRQd1) | [<img src="bookshelf/krause2019.jpg" width="200" height="270">](https://www.ullstein-buchverlage.de/nc/buch/details/die-reise-unserer-gene-9783549100028.html) | [<img src="bookshelf/sacks1997.jpg" width="200" height="270">](https://g.co/kgs/U5JgkH) |
 | A gift from [Kilu von Prince](http://kiluvonprince.de/) | | Recommended by [Kilu von Prince](http://kiluvonprince.de/) |
