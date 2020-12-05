@@ -17,11 +17,11 @@ I've noticed that many people are curious about bookshelves. I'm no exception. T
 | Source of ideas for my [MA thesis](http://dx.doi.org/10.17613/j95n-c998) |  | Source of ideas for my [BA thesis](https://www.researchgate.net/publication/325742407_Emotionalisierung_durch_Texte_-_Eine_kontrastive_Untersuchung_von_Spendenaufrufen_und_Borsenbriefen_mithilfe_der_Berlin_Affective_Word_List_Reloaded) |
 
 
-## Linguistic Theory
+## Linguistics
 
 | | | |
 |---|---|---|
-| [<img src="bookshelf/pustejovsky1995.jpeg" alt="Your image title" width="200" height="270"/>](https://g.co/kgs/rgUZRf) | [<img src="bookshelf/Sweetser1990.jpeg" width="200" height="270">](https://g.co/kgs/HNqYxy) | |
+| [<img src="bookshelf/evans2009.jpeg" alt="Your image title" width="200" height="270"/>](https://g.co/kgs/FQZM2N) | [<img src="bookshelf/pustejovsky1995.jpeg" width="200" height="270"/>](https://g.co/kgs/rgUZRf) | [<img src="bookshelf/Sweetser1990.jpeg" width="200" height="270">](https://g.co/kgs/HNqYxy) |
 | [<img src="bookshelf/geeraerts2010.jpg" alt="Sublime's custom image" width="200" height="270">](https://g.co/kgs/fLwXcy) | [<img src="bookshelf/joseph2001.jpg" width="200" height="270">](https://g.co/kgs/v7VcUY) | [<img src="bookshelf/austin1962.jpeg" width="200" height="270">](https://g.co/kgs/BJ8S5T) |
 | Recommended by [Kelsie Pattillo](https://www.researchgate.net/profile/Kelsie_Pattillo) | | Course reading recommendation by [Manfred Krifka](https://www.leibniz-zas.de/en/people/details/krifka-manfred/manfred-krifka/) |
 
