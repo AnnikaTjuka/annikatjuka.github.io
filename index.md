@@ -4,6 +4,8 @@
 
 +++ I'll present a paper on 'General patterns and language variation: Word frequencies across English, German, and Chinese' at [CogALex VI](https://sites.google.com/view/cogalex-2020/home). For the slides click [here](/slides/tjuka2020-frequencies-CogALex.pdf). +++
 
++++ I wrote a blog post on "[Possibilities of digital communication in linguistics (How to do X in linguistics 2)](https://calc.hypotheses.org/2556)," in Computer-Assisted Language Comparison in Practice.
+
 +++ We submitted a Preprint for our article '[Linking Norms, Ratings, and Relations of Words and Concepts Across Multiple Language Varieties.](https://psyarxiv.com/tgw3z/)' to PsyArXiv. +++
 
 +++ Check out my virtual bookshelf [here](bookshelf.md). +++
@@ -42,6 +44,8 @@ Tjuka, Annika, Lena Weißmann, and Kilu von Prince (2019). "[Tagging modality in
 Tjuka, Annika, Lena Weißmann, and Kilu von Prince (2019). "[Habitual aspect as a property of text spans.](/papers/tjuka2019_LTC_habitual_aspect.pdf)"  In Zygmunt Vetulani and Patrick Paroubek (eds.) _Human language technologies as a challenge for computer science and linguistics. Proceedings of 9<sup>th</sup> Language & Technology Conference._ Poznań: Wydawnictwo Nauka i Innowacje, 195-199.
 
 **Blog posts**
+
+Tjuka, Annika. "Possibilities of digital communication in linguistics (How to do X in linguistics 2)," in Computer-Assisted Language Comparison in Practice, 07/12/2020, [https://calc.hypotheses.org/2556}(https://calc.hypotheses.org/2556).
 
 Tjuka, Annika. "A list of 171 body part concepts," in Computer-Assisted Language Comparison in Practice, 28/09/2020, [https://calc.hypotheses.org/2512](https://calc.hypotheses.org/2512).
 
