@@ -39,7 +39,7 @@ Tjuka, Annika (submitted). "Body part extensions with _mặt_ 'face' in Vietname
 
 **Proceedings**
 
-Tjuka, Annika (2020). [General patterns and language variation: Word frequencies across English, German, and Chinese](https://www.aclweb.org/anthology/2020.cogalex-1.3). In M. Zock, E. Chersoni, A. Lenci, and E. Santus (Eds.), _Proceedings of the Workshop on the Cognitive Aspects of the Lexicon_ (pp. 23-32). Stroudsburg: Association for Computational Linguistics. Video available [here]([video](https://youtu.be/AMqc9b4pY4g)).
+Tjuka, Annika (2020). [General patterns and language variation: Word frequencies across English, German, and Chinese](https://www.aclweb.org/anthology/2020.cogalex-1.3). In M. Zock, E. Chersoni, A. Lenci, and E. Santus (Eds.), _Proceedings of the Workshop on the Cognitive Aspects of the Lexicon_ (pp. 23-32). Stroudsburg: Association for Computational Linguistics. Video available [here](https://youtu.be/AMqc9b4pY4g).
 
 Tjuka, Annika, Lena Weißmann, and Kilu von Prince (2019). [Tagging modality in Oceanic languages of Melanesia](/papers/tjuka2019_tagging_modality_oceanic_LAW.pdf). In _Proceedings of 13<sup>th</sup> Linguistic Annotation Workshop._ ACL Special Interest Group on Annotation.
 
