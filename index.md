@@ -39,11 +39,11 @@ Tjuka, Annika (submitted). "Body part extensions with _mặt_ 'face' in Vietname
 
 **Proceedings**
 
-Tjuka, Annika (2020). [General patterns and language variation: Word frequencies across English, German, and Chinese](https://www.aclweb.org/anthology/2020.cogalex-1.3). In M. Zock, E. Chersoni, A. Lenci, & E. Santus (Eds.), _Proceedings of the Workshop on the Cognitive Aspects of the Lexicon_ (pp. 23-32). Stroudsburg: Association for Computational Linguistics.
+Tjuka, Annika (2020). [General patterns and language variation: Word frequencies across English, German, and Chinese](https://www.aclweb.org/anthology/2020.cogalex-1.3). In M. Zock, E. Chersoni, A. Lenci, and E. Santus (Eds.), _Proceedings of the Workshop on the Cognitive Aspects of the Lexicon_ (pp. 23-32). Stroudsburg: Association for Computational Linguistics.
 
-Tjuka, Annika, Lena Weißmann, and Kilu von Prince (2019). "[Tagging modality in Oceanic languages of Melanesia.](/papers/tjuka2019_tagging_modality_oceanic_LAW.pdf)" In _Proceedings of 13<sup>th</sup> Linguistic Annotation Workshop._ ACL Special Interest Group on Annotation.
+Tjuka, Annika, Lena Weißmann, and Kilu von Prince (2019). [Tagging modality in Oceanic languages of Melanesia](/papers/tjuka2019_tagging_modality_oceanic_LAW.pdf). In _Proceedings of 13<sup>th</sup> Linguistic Annotation Workshop._ ACL Special Interest Group on Annotation.
 
-Tjuka, Annika, Lena Weißmann, and Kilu von Prince (2019). "[Habitual aspect as a property of text spans.](/papers/tjuka2019_LTC_habitual_aspect.pdf)"  In Zygmunt Vetulani and Patrick Paroubek (eds.) _Human language technologies as a challenge for computer science and linguistics. Proceedings of 9<sup>th</sup> Language & Technology Conference._ Poznań: Wydawnictwo Nauka i Innowacje, 195-199.
+Tjuka, Annika, Lena Weißmann, and Kilu von Prince (2019). [Habitual aspect as a property of text spans](/papers/tjuka2019_LTC_habitual_aspect.pdf). In Z. Vetulani and P. Paroubek (Eds.), _Human language technologies as a challenge for computer science and linguistics. Proceedings of 9<sup>th</sup> Language & Technology Conference_ (pp. 195-199). Poznań: Wydawnictwo Nauka i Innowacje.
 
 **Blog posts**
 
