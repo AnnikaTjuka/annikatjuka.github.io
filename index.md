@@ -45,14 +45,6 @@ Tjuka, Annika, Lena Weißmann, and Kilu von Prince (2019). [Tagging modality in 
 
 Tjuka, Annika, Lena Weißmann, and Kilu von Prince (2019). [Habitual aspect as a property of text spans](/papers/tjuka2019_LTC_habitual_aspect.pdf). In Z. Vetulani and P. Paroubek (Eds.), _Human language technologies as a challenge for computer science and linguistics. Proceedings of 9<sup>th</sup> Language & Technology Conference_ (pp. 195-199). Poznań: Wydawnictwo Nauka i Innowacje.
 
-**Blog posts**
-
-Tjuka, Annika. "Possibilities of digital communication in linguistics (How to do X in linguistics 2)," in Computer-Assisted Language Comparison in Practice, 07/12/2020, [https://calc.hypotheses.org/2556](https://calc.hypotheses.org/2556).
-
-Tjuka, Annika. "A list of 171 body part concepts," in Computer-Assisted Language Comparison in Practice, 28/09/2020, [https://calc.hypotheses.org/2512](https://calc.hypotheses.org/2512).
-
-Tjuka, Annika. "Adding concept lists to Concepticon: A guide for beginners," in Computer-Assisted Language Comparison in Practice, 29/01/2020, [https://calc.hypotheses.org/2225](https://calc.hypotheses.org/2225).
-
 ## Talks
 
 **2020**
@@ -107,4 +99,18 @@ Humboldt-Universität zu Berlin
 
 Winter semester 2020/21 | The mental lexicon from a cross-linguistic perspective, Seminar, BA, 
 Friedrich Schiller University Jena, online.
+
+## Outreach activities
+
+**Blog posts**
+
+Tjuka, Annika. "Possibilities of digital communication in linguistics (How to do X in linguistics 2)," in Computer-Assisted Language Comparison in Practice, 07/12/2020, [https://calc.hypotheses.org/2556](https://calc.hypotheses.org/2556).
+
+Tjuka, Annika. "A list of 171 body part concepts," in Computer-Assisted Language Comparison in Practice, 28/09/2020, [https://calc.hypotheses.org/2512](https://calc.hypotheses.org/2512).
+
+Tjuka, Annika. "Adding concept lists to Concepticon: A guide for beginners," in Computer-Assisted Language Comparison in Practice, 29/01/2020, [https://calc.hypotheses.org/2225](https://calc.hypotheses.org/2225).
+
+**Long night of science**
+
+2019 | Mitmachangebot: "Versuchen Sie auf gleiche Art und Weise wie die Krähen Neukaledoniens an Nahrung zu gelangen", Max Planck Institute for the Science of Human History, Jena.
 
