@@ -2,7 +2,7 @@
 
 ## News
 
-+++ I'll present a paper on 'General patterns and language variation: Word frequencies across English, German, and Chinese' at [CogALex VI](https://sites.google.com/view/cogalex-2020/home). Check out the [video](https://youtu.be/AMqc9b4pY4g) and [slides](/slides/tjuka2020-frequencies-CogALex.pdf) of my talk. +++
++++ I'll present a paper on 'General patterns and language variation: Word frequencies across English, German, and Chinese' at [CogALex VI](https://sites.google.com/view/cogalex-2020/home). Check out the [video](https://youtu.be/AMqc9b4pY4g) and [slides](/slides/tjuka2020_frequencies_CogALex.pdf) of my talk. +++
 
 +++ I wrote a blog post on "[Possibilities of digital communication in linguistics (How to do X in linguistics 2)](https://calc.hypotheses.org/2556)," in Computer-Assisted Language Comparison in Practice.
 
