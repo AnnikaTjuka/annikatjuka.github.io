@@ -2,8 +2,6 @@
 
 ## News
 
-+++ I'll present a paper on 'General patterns and language variation: Word frequencies across English, German, and Chinese' at [CogALex VI](https://sites.google.com/view/cogalex-2020/home). Check out the [video](https://youtu.be/AMqc9b4pY4g) and [slides](/slides/tjuka2020_frequencies_CogALex.pdf) of my talk. +++
-
 +++ I wrote a blog post on "[Possibilities of digital communication in linguistics (How to do X in linguistics 2)](https://calc.hypotheses.org/2556)," in Computer-Assisted Language Comparison in Practice.
 
 +++ We submitted a Preprint for our article '[Linking Norms, Ratings, and Relations of Words and Concepts Across Multiple Language Varieties.](https://psyarxiv.com/tgw3z/)' to PsyArXiv. +++
@@ -49,7 +47,9 @@ Tjuka, Annika, Lena Weißmann, and Kilu von Prince (2019). [Habitual aspect as a
 
 **2020**
 
-October. [The eye/ear of the needle – Cross-linguistic differences in body part extensions.](/slides/tjuka2020_body_object_colexifications_WoW.pdf) 1<sup>st</sup> Words in the World (WoW) International Conference, online. Video available [here](https://youtu.be/ldQKwfyImYU).
+December. _[General patterns and language variation: Word frequencies across English, German, and Chinese](/slides/tjuka2020_frequencies_CogALex.pdf)_. 6<sup>th</sup> Cognitive Aspects of the Lexicon Workshop ([CogALex](https://sites.google.com/view/cogalex-2020/home)) at COLING 2020, online. Video available [here](https://youtu.be/AMqc9b4pY4g).
+
+October. _[The eye/ear of the needle – Cross-linguistic differences in body part extensions.](/slides/tjuka2020_body_object_colexifications_WoW.pdf)_ 1<sup>st</sup> Words in the World ([WoW](http://wordsintheworld.ca/wow-conference-2020/)) International Conference, online. Video available [here](https://youtu.be/ldQKwfyImYU).
 
 September. _[Defining the obvious: How to measure similarity?](/slides/tjuka2020_similarity_STaPs.pdf)_ 16<sup>th</sup> Sprachwissenschaftliche Tagung für Promotionsstudierende, Wien, AT (online).
 
