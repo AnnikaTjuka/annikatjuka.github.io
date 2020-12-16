@@ -51,9 +51,9 @@ December. _[General patterns and language variation: Word frequencies across Eng
 
 October. _[The eye/ear of the needle – Cross-linguistic differences in body part extensions.](/slides/tjuka2020_body_object_colexifications_WoW.pdf)_ 1<sup>st</sup> Words in the World ([WoW](http://wordsintheworld.ca/wow-conference-2020/)) International Conference, online. Video available [here](https://youtu.be/ldQKwfyImYU).
 
-September. _[Defining the obvious: How to measure similarity?](/slides/tjuka2020_similarity_STaPs.pdf)_ 16<sup>th</sup> Sprachwissenschaftliche Tagung für Promotionsstudierende, Wien, AT (online).
+September. _[Defining the obvious: How to measure similarity?](/slides/tjuka2020_similarity_STaPs.pdf)_ 16<sup>th</sup> Sprachwissenschaftliche Tagung für Promotionsstudierende, online.
 
-April. _[Similarity as the basis for meaning extensions.](/slides/tjuka2020_similarity_DLCEmeeting.pdf)_ Meeting of Department of Linguistic and Cultural Evolution, Max Planck Institute for the Science of Human History, Jena, DE (online).
+April. _[Similarity as the basis for meaning extensions.](/slides/tjuka2020_similarity_DLCEmeeting.pdf)_ Meeting of the Department of Linguistic and Cultural Evolution, Max Planck Institute for the Science of Human History, online.
 
 [more](talks.md)
 
@@ -112,5 +112,6 @@ Tjuka, Annika. "Adding concept lists to Concepticon: A guide for beginners," in 
 
 **Long night of science**
 
-2019 | Mitmachangebot: "Versuchen Sie auf gleiche Art und Weise wie die Krähen Neukaledoniens an Nahrung zu gelangen", Max Planck Institute for the Science of Human History, Jena.
+2019 | Mitmachangebot: "Versuchen Sie auf gleiche Art und Weise wie die Krähen Neukaledoniens an Nahrung zu gelangen", 
+Max Planck Institute for the Science of Human History, Jena.
 
