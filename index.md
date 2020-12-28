@@ -1,8 +1,8 @@
 _“Instructions for living a life. Pay attention. Be astonished. Tell about it.” - Mary Oliver_
 
-#
+#  
 # Annika Tjuka, Linguist 
-#
+#   
 
 ## News
 
