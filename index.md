@@ -4,11 +4,11 @@ _“Instructions for living a life. Pay attention. Be astonished. Tell about it.
 
 ## News
 
-+++ I wrote a blog post on "[Possibilities of digital communication in linguistics (How to do X in linguistics 2)](https://calc.hypotheses.org/2556)," in Computer-Assisted Language Comparison in Practice.
++++ Check out my new blog post on "[How to organize a virtual journal club (How to do X in linguistics 3)](https://calc.hypotheses.org/2613)" in Computer-Assisted Language Comparison in Practice.
 
 +++ We submitted a Preprint for our article '[Linking Norms, Ratings, and Relations of Words and Concepts Across Multiple Language Varieties.](https://psyarxiv.com/tgw3z/)' to PsyArXiv. +++
 
-+++ Check out my virtual bookshelf [here](bookshelf.md). +++ <br/><br/>
++++ For some reading inspiration, take a look at my virtual bookshelf [here](bookshelf.md). +++ <br/><br/>
 
 ## About me
 
@@ -104,6 +104,8 @@ Friedrich Schiller University Jena, online. <br/><br/>
 ## Outreach activities
 
 **Blog posts**
+
+Tjuka, Annika. "How to organize a virtual journal club (How to do X in linguistics 3)," in Computer-Assisted Language Comparison in Practice, 20/01/2021, [https://calc.hypotheses.org/2613](https://calc.hypotheses.org/2613).
 
 Tjuka, Annika. "Possibilities of digital communication in linguistics (How to do X in linguistics 2)," in Computer-Assisted Language Comparison in Practice, 07/12/2020, [https://calc.hypotheses.org/2556](https://calc.hypotheses.org/2556).
 
