@@ -39,7 +39,7 @@ Store Manager**
 
 ## Administrative Service
 
-2020 - Present |  PhD representative for the
+2020 - 2021 |  PhD representative for the
 DLCE department, Max Planck Institute for the Science of Human History
 
 2017 - 2018 |  Women's representative for
