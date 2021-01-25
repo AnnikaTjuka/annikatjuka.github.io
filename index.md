@@ -117,5 +117,19 @@ Tjuka, Annika. "Adding concept lists to Concepticon: A guide for beginners," in 
 **Long night of science**
 
 2019 | Mitmachangebot: "Versuchen Sie auf gleiche Art und Weise wie die Krähen Neukaledoniens an Nahrung zu gelangen", 
-Max Planck Institute for the Science of Human History, Jena.
+Max Planck Institute for the Science of Human History, Jena. <br/><br/>
+
+
+## Inspiration
+
+**My virtual bookshelf**
+
+[Click here](bookshelf.md)
+
+**My favorite podcasts**
+
+- [Lingthusiasm](https://lingthusiasm.com/)
+- [Teaching in Higher Ed](https://teachinginhighered.com/)
+- [History and Philosophy of the Language Sciences](https://hiphilangsci.net/category/podcast/)
+- [In Our Time](https://www.bbc.co.uk/programmes/b006qykl)
 
