@@ -38,7 +38,7 @@ Humboldt-Universität zu Berlin
 2012 - 2016 | **Bachelor of Arts in German Linguistics and Scandinavian Studies** at
 Humboldt-Universität zu Berlin
 
-[download full CV](CV_tjuka.pdf) <br/><br/>
+[show full CV](CV_tjuka.pdf) <br/><br/>
 
 
 ## Publications
@@ -73,7 +73,7 @@ September. _[Defining the obvious: How to measure similarity?](/slides/tjuka2020
 
 April. _[Similarity as the basis for meaning extensions.](/slides/tjuka2020_similarity_DLCEmeeting.pdf)_ Meeting of the Department of Linguistic and Cultural Evolution, Max Planck Institute for the Science of Human History, online.
 
-[download full CV](CV_tjuka.pdf) <br/><br/>
+[show full CV](CV_tjuka.pdf) <br/><br/>
 
 
 ## Projects
