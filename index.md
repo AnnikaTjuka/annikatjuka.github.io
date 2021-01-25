@@ -24,6 +24,23 @@ I’m a linguist. My area of expertise is semantics, specifically semantic typol
 
 [Twitter](https://twitter.com/AnnikaTjuka) <br/><br/>
 
+
+## Curriculum Vitae
+
+**Academic Education**
+
+2019 - Present | **PhD Student** at International Max Planck Research School for the Science of Human History (IMPRS-SHH) and Friedrich-Schiller-Universität Jena.
+Supervisors: Dr. Johann-Mattis List and Prof. Dr. Volker Gast
+
+2016 - 2019 | **Master of Arts in Linguistics** at
+Humboldt-Universität zu Berlin
+
+2012 - 2016 | **Bachelor of Arts in German Linguistics and Scandinavian Studies** at
+Humboldt-Universität zu Berlin
+
+[download full CV](CV_tjuka.pdf) <br/><br/>
+
+
 ## Publications
 
 **Journal Articles**
@@ -44,7 +61,7 @@ Tjuka, Annika, Lena Weißmann, and Kilu von Prince (2019). [Tagging modality in 
 
 Tjuka, Annika, Lena Weißmann, and Kilu von Prince (2019). [Habitual aspect as a property of text spans](/papers/tjuka2019_LTC_habitual_aspect.pdf). In Z. Vetulani and P. Paroubek (Eds.), _Human language technologies as a challenge for computer science and linguistics. Proceedings of 9<sup>th</sup> Language & Technology Conference_ (pp. 195-199). Poznań: Wydawnictwo Nauka i Innowacje. <br/><br/>
 
-## Talks
+## Talks (most recent)
 
 **2020**
 
@@ -56,22 +73,8 @@ September. _[Defining the obvious: How to measure similarity?](/slides/tjuka2020
 
 April. _[Similarity as the basis for meaning extensions.](/slides/tjuka2020_similarity_DLCEmeeting.pdf)_ Meeting of the Department of Linguistic and Cultural Evolution, Max Planck Institute for the Science of Human History, online.
 
-[more](talks.md) <br/><br/>
+[download full CV](CV_tjuka.pdf) <br/><br/>
 
-## Curriculum Vitae
-
-**Academic Education**
-
-2019 - Present | **PhD Student** at International Max Planck Research School for the Science of Human History (IMPRS-SHH) and Friedrich-Schiller-Universität Jena.
-Supervisors: Dr. Johann-Mattis List and Prof. Dr. Volker Gast
-
-2016 - 2019 | **Master of Arts in Linguistics** at
-Humboldt-Universität zu Berlin
-
-2012 - 2016 | **Bachelor of Arts in German Linguistics and Scandinavian Studies** at
-Humboldt-Universität zu Berlin
-
-[more](cv.md) <br/><br/>
 
 ## Projects
 
