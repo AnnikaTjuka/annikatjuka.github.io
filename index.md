@@ -71,9 +71,7 @@ October. _[The eye/ear of the needle – Cross-linguistic differences in body pa
 
 September. _[Defining the obvious: How to measure similarity?](/slides/tjuka2020_similarity_STaPs.pdf)_ 16<sup>th</sup> Sprachwissenschaftliche Tagung für Promotionsstudierende, online.
 
-April. _[Similarity as the basis for meaning extensions.](/slides/tjuka2020_similarity_DLCEmeeting.pdf)_ Meeting of the Department of Linguistic and Cultural Evolution, Max Planck Institute for the Science of Human History, online.
-
-[show full CV](CV_tjuka.pdf) <br/><br/>
+April. _[Similarity as the basis for meaning extensions.](/slides/tjuka2020_similarity_DLCEmeeting.pdf)_ Meeting of the Department of Linguistic and Cultural Evolution, Max Planck Institute for the Science of Human History, online. <br/><br/>
 
 
 ## Projects
