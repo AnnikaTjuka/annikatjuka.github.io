@@ -1,6 +1,8 @@
-_“Instructions for living a life. Pay attention. Be astonished. Tell about it.” - Mary Oliver_ <br/><br/>
+_Never not learning_ <br/><br/><br/>
+
 
 # Annika Tjuka, Linguist <br/><br/>
+
 
 ## News
 
@@ -8,13 +10,14 @@ _“Instructions for living a life. Pay attention. Be astonished. Tell about it.
 
 +++ We submitted a Preprint for our article '[Linking Norms, Ratings, and Relations of Words and Concepts Across Multiple Language Varieties.](https://psyarxiv.com/tgw3z/)' to PsyArXiv. +++
 
-+++ For some reading inspiration, take a look at my virtual bookshelf [here](bookshelf.md). +++ <br/><br/>
++++ For some reading inspiration, take a look at my virtual bookshelf [here](bookshelf.md). +++ <br/><br/><br/>
+
 
 ## About me
 
 {% include YouTubePlayer.html id="KieYIwMyNc0" %}
 
-I’m a linguist. My area of expertise is semantics, specifically semantic typology. I’m fascinated by the mental lexicon and the cognitive basis of semantic networks. My research is looking at language from a cross-linguistic perspective. So far, I conducted the first systematic study of body part terms for objects and landscape features in my Master's thesis. And I’m now a PhD at the MPI for the Science of Human History. <br/><br/>
+I’m a linguist. My area of expertise is semantics, specifically semantic typology. I’m fascinated by the mental lexicon and the cognitive basis of semantic networks. My research is looking at language from a cross-linguistic perspective. So far, I conducted the first systematic study of body part terms for objects and landscape features in my Master's thesis. And I’m now a PhD at the MPI for the Science of Human History.
 
 **Contact**
 
@@ -22,7 +25,7 @@ I’m a linguist. My area of expertise is semantics, specifically semantic typol
 
 [ResearchGate](https://www.researchgate.net/profile/Annika_Tjuka)
 
-[Twitter](https://twitter.com/AnnikaTjuka) <br/><br/>
+[Twitter](https://twitter.com/AnnikaTjuka) <br/><br/><br/>
 
 
 ## Curriculum Vitae
@@ -38,7 +41,7 @@ Humboldt-Universität zu Berlin
 2012 - 2016 | **Bachelor of Arts in German Linguistics and Scandinavian Studies** at
 Humboldt-Universität zu Berlin
 
-[show full CV](CV_tjuka.pdf) <br/><br/>
+[show full CV](CV_tjuka.pdf) <br/><br/><br/>
 
 
 ## Publications
@@ -59,7 +62,8 @@ Tjuka, Annika (2020). [General patterns and language variation: Word frequencies
 
 Tjuka, Annika, Lena Weißmann, and Kilu von Prince (2019). [Tagging modality in Oceanic languages of Melanesia](/papers/tjuka2019_tagging_modality_oceanic_LAW.pdf). In _Proceedings of 13<sup>th</sup> Linguistic Annotation Workshop._ ACL Special Interest Group on Annotation.
 
-Tjuka, Annika, Lena Weißmann, and Kilu von Prince (2019). [Habitual aspect as a property of text spans](/papers/tjuka2019_LTC_habitual_aspect.pdf). In Z. Vetulani and P. Paroubek (Eds.), _Human language technologies as a challenge for computer science and linguistics. Proceedings of 9<sup>th</sup> Language & Technology Conference_ (pp. 195-199). Poznań: Wydawnictwo Nauka i Innowacje. <br/><br/>
+Tjuka, Annika, Lena Weißmann, and Kilu von Prince (2019). [Habitual aspect as a property of text spans](/papers/tjuka2019_LTC_habitual_aspect.pdf). In Z. Vetulani and P. Paroubek (Eds.), _Human language technologies as a challenge for computer science and linguistics. Proceedings of 9<sup>th</sup> Language & Technology Conference_ (pp. 195-199). Poznań: Wydawnictwo Nauka i Innowacje. <br/><br/><br/>
+
 
 ## Talks (most recent)
 
@@ -71,7 +75,7 @@ October. _[The eye/ear of the needle – Cross-linguistic differences in body pa
 
 September. _[Defining the obvious: How to measure similarity?](/slides/tjuka2020_similarity_STaPs.pdf)_ 16<sup>th</sup> Sprachwissenschaftliche Tagung für Promotionsstudierende, online.
 
-April. _[Similarity as the basis for meaning extensions.](/slides/tjuka2020_similarity_DLCEmeeting.pdf)_ Meeting of the Department of Linguistic and Cultural Evolution, Max Planck Institute for the Science of Human History, online. <br/><br/>
+April. _[Similarity as the basis for meaning extensions.](/slides/tjuka2020_similarity_DLCEmeeting.pdf)_ Meeting of the Department of Linguistic and Cultural Evolution, Max Planck Institute for the Science of Human History, online. <br/><br/><br/>
 
 
 ## Projects
@@ -94,13 +98,14 @@ April. _[Similarity as the basis for meaning extensions.](/slides/tjuka2020_simi
 
 <img src="projects/melatamp.png" width="150" height="100"> 
 
-[MelaTAMP](https://www.projekte.hu-berlin.de/en/melatamp) <br/><br/>
+[MelaTAMP](https://www.projekte.hu-berlin.de/en/melatamp) <br/><br/><br/>
 
 
 ## Teaching
 
 Winter semester 2020/21 | The mental lexicon from a cross-linguistic perspective, Seminar, BA, 
-Friedrich Schiller University Jena, online. <br/><br/>
+Friedrich Schiller University Jena, online. <br/><br/><br/>
+
 
 ## Outreach activities
 
@@ -117,7 +122,7 @@ Tjuka, Annika. "Adding concept lists to Concepticon: A guide for beginners," in 
 **Long night of science**
 
 2019 | Mitmachangebot: "Versuchen Sie auf gleiche Art und Weise wie die Krähen Neukaledoniens an Nahrung zu gelangen", 
-Max Planck Institute for the Science of Human History, Jena. <br/><br/>
+Max Planck Institute for the Science of Human History, Jena. <br/><br/><br/>
 
 
 ## Inspiration
