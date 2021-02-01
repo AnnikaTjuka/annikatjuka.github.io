@@ -1,4 +1,4 @@
-_Never not learning_ <br/><br/><br/>
+Life's motto: _Never not learning_ <br/><br/><br/>
 
 
 # Annika Tjuka, Linguist <br/><br/>
