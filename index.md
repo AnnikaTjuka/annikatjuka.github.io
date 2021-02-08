@@ -119,6 +119,10 @@ Tjuka, Annika. "A list of 171 body part concepts," in Computer-Assisted Language
 
 Tjuka, Annika. "Adding concept lists to Concepticon: A guide for beginners," in Computer-Assisted Language Comparison in Practice, 29/01/2020, [https://calc.hypotheses.org/2225](https://calc.hypotheses.org/2225).
 
+**Tea with teachers**
+
+2021 | Four Ways to PhD, Friedrich Schiller University, Department of English Studies, online.
+
 **Long night of science**
 
 2019 | Mitmachangebot: "Versuchen Sie auf gleiche Art und Weise wie die Krähen Neukaledoniens an Nahrung zu gelangen", 
