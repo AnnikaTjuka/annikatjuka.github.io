@@ -2,7 +2,7 @@
 
 # My virtual Bookshelf 
 
-I've noticed that many people are curious about bookshelves. I'm no exception. The first thing I check out at a party is the host's bookshelf. So I'm not surprised that bookshelves have become a popular background for [YouTube videos](https://youtu.be/QmdXN2FR2eY). A bookshelf is a great opportunity to indirectly illustrate your personality and knowledge. As a student, I would have loved to take a look at the bookshelves of my favorite professors. If I had a bookshelf in my YouTube videos, I would select the following books to put them on display.
+I've noticed that many people are curious about bookshelves. I'm no exception. The first thing I check out at a party is the host's bookshelf. So I'm not surprised that bookshelves have become a popular background for [YouTube videos](https://youtu.be/QmdXN2FR2eY). A bookshelf is a great opportunity to indirectly illustrate your personality and knowledge. As a student, I would have loved to take a look at the bookshelves of my favorite professors. If I had a bookshelf in my YouTube videos, I would select the following books to put them on display. (Click on the images to get more information on each book)
 
 
 ## Language and Mind
@@ -55,11 +55,11 @@ I've noticed that many people are curious about bookshelves. I'm no exception. T
 | [<img src="bookshelf/darby2019.jpeg" width="200" height="270">](https://g.co/kgs/7J6Rqh) | [<img src="bookshelf/HBR2019.jpg" width="200" height="270">](https://g.co/kgs/CfxGNz) |
 
 
-## For Students
+## For Students and Researchers
 
 | | |
 |---|---|
-| [<img src="bookshelf/Weston2017.jpg" width="200" height="270">](https://g.co/kgs/LQWcQW) | [<img src="bookshelf/Ahrens2017.jpg" width="200" height="270">](https://g.co/kgs/gd1fka) |  |
+| [<img src="bookshelf/Belcher2019.jpeg" width="200" height="270">](https://g.co/kgs/bkH93p) | [<img src="bookshelf/Weston2017.jpg" width="200" height="270">](https://g.co/kgs/LQWcQW) | [<img src="bookshelf/Ahrens2017.jpg" width="200" height="270">](https://g.co/kgs/gd1fka) | 
 
 
 ## Inspiring Biographies
