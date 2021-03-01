@@ -6,7 +6,9 @@ Life's motto: _Never not learning_ <br/><br/><br/>
 
 ## News
 
-+++ Check out my new blog post on "[How to organize a virtual journal club (How to do X in linguistics 3)](https://calc.hypotheses.org/2613)" in Computer-Assisted Language Comparison in Practice.
++++ I just submitted a preprint to Hcommons "[The representation of foot/leg polysemy in the mind — Insights from Vietnamese body part extensions with _chân_](http://dx.doi.org/10.17613/21y2-yz64)". +++
+
++++ Check out my new blog post on "[How to organize a virtual journal club (How to do X in linguistics 3)](https://calc.hypotheses.org/2613)" in Computer-Assisted Language Comparison in Practice. +++
 
 +++ We submitted a Preprint for our article '[Linking Norms, Ratings, and Relations of Words and Concepts Across Multiple Language Varieties.](https://psyarxiv.com/tgw3z/)' to PsyArXiv. +++
 
@@ -52,9 +54,11 @@ Tjuka, Annika, Huong Thi Thu Nguyen, and Katharina Spalek (2020). Foxes, deer, a
 
 **Preprints**
 
+Tjuka, Annika (submitted). "The representation of foot/leg polysemy in the mind — Insights from Vietnamese body part extensions with _chân_." HCommons. DOI: [10.17613/21y2-yz64](http://dx.doi.org/10.17613/21y2-yz64)
+
 Tjuka, Annika, Robert Forkel, and Johann-Mattis List (submitted). "Linking Norms, Ratings, and Relations of Words and Concepts Across Multiple Language Varieties." PsyArXiv. July 27. [https://psyarxiv.com/tgw3z/](https://psyarxiv.com/tgw3z/)
 
-Tjuka, Annika (submitted). "Body part extensions with _mặt_ 'face' in Vietnamese." HCommons. [http://doi.org/10.17613/23np-nt91](http://dx.doi.org/10.17613/23np-nt91)
+Tjuka, Annika (submitted). "Body part extensions with _mặt_ 'face' in Vietnamese." HCommons. DOI: [10.17613/23np-nt91](http://dx.doi.org/10.17613/23np-nt91)
 
 **Proceedings**
 
