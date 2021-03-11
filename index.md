@@ -107,6 +107,9 @@ April. _[Similarity as the basis for meaning extensions.](/slides/tjuka2020_simi
 
 ## Teaching
 
+Summer semester 2021 | Words and their meanings across languages, Seminar, BA, 
+Friedrich Schiller University Jena, online. Syllabus available [here](https://www.notion.so/Syllabus-35ec90dab75f4770bc6ead65d9a871f2). <br/><br/><br/>
+
 Winter semester 2020/21 | The mental lexicon from a cross-linguistic perspective, Seminar, BA, 
 Friedrich Schiller University Jena, online. Syllabus available [here](https://www.notion.so/Syllabus-812dc77904e849059d4639d484eecd88). <br/><br/><br/>
 
