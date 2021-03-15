@@ -130,7 +130,8 @@ Friedrich Schiller University Jena, online. Syllabus available [here](https://ww
 
 **Tea with teachers**
 
-2021 | Four Ways to PhD, Friedrich Schiller University, Department of English Studies, online.
+2021 | Four Ways to PhD, Friedrich Schiller University, 
+Department of English Studies, online.
 
 **Long night of science**
 
