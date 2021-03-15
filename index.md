@@ -8,7 +8,7 @@ Life's motto: _Never not learning_ <br/><br/><br/>
 
 +++ I just submitted a preprint to Hcommons "[The representation of foot/leg polysemy in the mind — Insights from Vietnamese body part extensions with _chân_](http://dx.doi.org/10.17613/21y2-yz64)". +++
 
-+++ Check out my new blog post on "[How to organize a virtual journal club (How to do X in linguistics 3)](https://calc.hypotheses.org/2613)" in Computer-Assisted Language Comparison in Practice. +++
++++ Check out my new blog post on "[How to review concept lists in collaboration](https://calc.hypotheses.org/2680)" in Computer-Assisted Language Comparison in Practice. +++
 
 +++ We submitted a Preprint for our article '[Linking Norms, Ratings, and Relations of Words and Concepts Across Multiple Language Varieties.](https://psyarxiv.com/tgw3z/)' to PsyArXiv. +++
 
@@ -66,7 +66,19 @@ Tjuka, Annika (2020). [General patterns and language variation: Word frequencies
 
 Tjuka, Annika, Lena Weißmann, and Kilu von Prince (2019). [Tagging modality in Oceanic languages of Melanesia](/papers/tjuka2019_tagging_modality_oceanic_LAW.pdf). In _Proceedings of 13<sup>th</sup> Linguistic Annotation Workshop._ ACL Special Interest Group on Annotation.
 
-Tjuka, Annika, Lena Weißmann, and Kilu von Prince (2019). [Habitual aspect as a property of text spans](/papers/tjuka2019_LTC_habitual_aspect.pdf). In Z. Vetulani and P. Paroubek (Eds.), _Human language technologies as a challenge for computer science and linguistics. Proceedings of 9<sup>th</sup> Language & Technology Conference_ (pp. 195-199). Poznań: Wydawnictwo Nauka i Innowacje. <br/><br/><br/>
+Tjuka, Annika, Lena Weißmann, and Kilu von Prince (2019). [Habitual aspect as a property of text spans](/papers/tjuka2019_LTC_habitual_aspect.pdf). In Z. Vetulani and P. Paroubek (Eds.), _Human language technologies as a challenge for computer science and linguistics. Proceedings of 9<sup>th</sup> Language & Technology Conference_ (pp. 195-199). Poznań: Wydawnictwo Nauka i Innowacje.
+
+**Blog posts**
+
+Tjuka, Annika. "How to review concept lists in collaboration (How to do X in linguistics 6)," in Computer-Assisted Language Comparison in Practice, 15/03/2021, [https://calc.hypotheses.org/2680](https://calc.hypotheses.org/2680).
+
+Tjuka, Annika. "How to organize a virtual journal club (How to do X in linguistics 4)," in Computer-Assisted Language Comparison in Practice, 20/01/2021, [https://calc.hypotheses.org/2613](https://calc.hypotheses.org/2613).
+
+Tjuka, Annika. "Possibilities of digital communication in linguistics (How to do X in linguistics 2)," in Computer-Assisted Language Comparison in Practice, 07/12/2020, [https://calc.hypotheses.org/2556](https://calc.hypotheses.org/2556).
+
+Tjuka, Annika. "A list of 171 body part concepts," in Computer-Assisted Language Comparison in Practice, 28/09/2020, [https://calc.hypotheses.org/2512](https://calc.hypotheses.org/2512).
+
+Tjuka, Annika. "Adding concept lists to Concepticon: A guide for beginners," in Computer-Assisted Language Comparison in Practice, 29/01/2020, [https://calc.hypotheses.org/2225](https://calc.hypotheses.org/2225). <br/><br/><br/>
 
 
 ## Talks (most recent)
@@ -115,16 +127,6 @@ Friedrich Schiller University Jena, online. Syllabus available [here](https://ww
 
 
 ## Outreach activities
-
-**Blog posts**
-
-Tjuka, Annika. "How to organize a virtual journal club (How to do X in linguistics 3)," in Computer-Assisted Language Comparison in Practice, 20/01/2021, [https://calc.hypotheses.org/2613](https://calc.hypotheses.org/2613).
-
-Tjuka, Annika. "Possibilities of digital communication in linguistics (How to do X in linguistics 2)," in Computer-Assisted Language Comparison in Practice, 07/12/2020, [https://calc.hypotheses.org/2556](https://calc.hypotheses.org/2556).
-
-Tjuka, Annika. "A list of 171 body part concepts," in Computer-Assisted Language Comparison in Practice, 28/09/2020, [https://calc.hypotheses.org/2512](https://calc.hypotheses.org/2512).
-
-Tjuka, Annika. "Adding concept lists to Concepticon: A guide for beginners," in Computer-Assisted Language Comparison in Practice, 29/01/2020, [https://calc.hypotheses.org/2225](https://calc.hypotheses.org/2225).
 
 **Tea with teachers**
 
