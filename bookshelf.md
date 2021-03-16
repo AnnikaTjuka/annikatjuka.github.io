@@ -57,8 +57,9 @@ I've noticed that many people are curious about bookshelves. I'm no exception. T
 
 ## For Students and Researchers
 
-| | |
-|---|---|
+| | | |
+|---|---|---|
+| [<img src="bookshelf/Graff2018.jpg" width="200" height="270">](https://g.co/kgs/DsnUve) | | |
 | [<img src="bookshelf/Belcher2019.jpeg" width="200" height="270">](https://g.co/kgs/bkH93p) | [<img src="bookshelf/Weston2017.jpg" width="200" height="270">](https://g.co/kgs/LQWcQW) | [<img src="bookshelf/Ahrens2017.jpg" width="200" height="270">](https://g.co/kgs/gd1fka) | 
 
 
