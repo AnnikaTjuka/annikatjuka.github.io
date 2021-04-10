@@ -30,7 +30,7 @@ I've noticed that many people are curious about bookshelves. I'm no exception. T
 
 | | | |
 |---|---|---|
-| [<img src="bookshelf/Spiegelhalter2019.jpeg" alt="Your image title" width="200" height="270"/>](https://g.co/kgs/9qPyCL) | [<img src="bookshelf/kuhn1962.jpeg" alt="Your image title" width="200" height="270"/>](https://g.co/kgs/3YsznE) | |
+| [<img src="bookshelf/Darwin1859.jpeg" width="200" height="270"/>](https://g.co/kgs/m8CHXM) | [<img src="bookshelf/Spiegelhalter2019.jpeg" alt="Your image title" width="200" height="270"/>](https://g.co/kgs/9qPyCL) | [<img src="bookshelf/kuhn1962.jpeg" alt="Your image title" width="200" height="270"/>](https://g.co/kgs/3YsznE) |
 | [<img src="bookshelf/Rosling2018.jpg" alt="Your image title" width="200" height="270"/>](https://g.co/kgs/AQdmWN) | [<img src="bookshelf/evans2009.jpeg" alt="Your image title" width="200" height="270"/>](https://g.co/kgs/FQZM2N) | [<img src="bookshelf/feynman1992.jpg" width="200" height="270">](https://g.co/kgs/V3F4xp) | 
 | | | Recommended by [Hendrik Huthoff](https://www.linkedin.com/in/hendrik-huthoff-327178125/) |
 | [<img src="bookshelf/McGonigal2012.jpeg" width="200" height="270">](https://g.co/kgs/YUuSKp) | [<img src="bookshelf/slaughter2017.jpg" width="200" height="270">](https://g.co/kgs/5KYjsw) | [<img src="bookshelf/deutscher2010.jpg" width="200" height="270">](https://g.co/kgs/GiMA4H) |
