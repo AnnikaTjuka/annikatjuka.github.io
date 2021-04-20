@@ -100,14 +100,6 @@ April. _[Similarity as the basis for meaning extensions.](/slides/tjuka2020_simi
 
 [Body-part metaphors as a window to cognition: A cross-linguistic study of object and landscape terms](ma-thesis.md)
 
-<img src="projects/logo-norare.png" width="150" height="80"> 
-
-[Database of Cross-Linguistic Norms, Ratings, and Relations for Words and Concepts](https://digling.org/norare/)
-
-<img src="projects/logo-concepticon.png" width="150" height="100"> 
-
-[Concepticon. A Resource for the Linking of Concept Lists.](https://concepticon.clld.org/)
-
 <img src="projects/calc.jpeg" width="150" height="100"> 
 
 [Computer-Assisted Language Comparison (CALC).](https://digling.org/calc/)
@@ -119,6 +111,17 @@ April. _[Similarity as the basis for meaning extensions.](/slides/tjuka2020_simi
 <img src="projects/melatamp.png" width="150" height="100"> 
 
 [MelaTAMP](https://www.projekte.hu-berlin.de/en/melatamp) <br/><br/><br/>
+
+
+## Databases
+
+<img src="projects/logo-norare.png" width="150" height="80"> 
+
+[Database of Cross-Linguistic Norms, Ratings, and Relations for Words and Concepts](https://digling.org/norare/)
+
+<img src="projects/logo-concepticon.png" width="150" height="100"> 
+
+[Concepticon. A Resource for the Linking of Concept Lists.](https://concepticon.clld.org/) <br/><br/><br/>
 
 
 ## Teaching
