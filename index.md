@@ -108,6 +108,10 @@ April. _[Similarity as the basis for meaning extensions.](/slides/tjuka2020_simi
 
 [Concepticon. A Resource for the Linking of Concept Lists.](https://concepticon.clld.org/)
 
+<img src="projects/calc.jpeg" width="150" height="100"> 
+
+[Computer-Assisted Language Comparison (CALC).](https://digling.org/calc/)
+
 <img src="projects/fahmrrr.png" width="100" height="100"> 
 
 [Focus alternatives in the human mind: Retrieval, Representation and Recall (FAHMRRR)](https://www.projekte.hu-berlin.de/de/fahmrrr)
