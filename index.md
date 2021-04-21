@@ -6,7 +6,7 @@ Life's motto: _Never not learning_ <br/><br/><br/>
 
 ## News
 
-+++ I just submitted a preprint to Hcommons "[The representation of foot/leg polysemy in the mind — Insights from Vietnamese body part extensions with _chân_](http://dx.doi.org/10.17613/21y2-yz64)". +++
++++ I'm going to give a talk entitled "Meanings of body part terms: Cross-linguistic colexifications between body parts and objects" at [DUCOG](https://ducog.cecog.eu/) in May. +++
 
 +++ Check out my new blog post on "[How to review concept lists in collaboration](https://calc.hypotheses.org/2680)" in Computer-Assisted Language Comparison in Practice. +++
 
@@ -52,13 +52,15 @@ Humboldt-Universität zu Berlin
  
 Tjuka, Annika, Huong Thi Thu Nguyen, and Katharina Spalek (2020). Foxes, deer, and hedgehogs: The recall of focus alternatives in Vietnamese. _Laboratory Phonology: Journal of the Association for Laboratory Phonology 11(1)._ 1–29. DOI: [10.5334/labphon.253](https://doi.org/10.5334/labphon.253) Note: We had to add a small [correction to our article](https://doi.org/10.5334/labphon.323). 
 
+**Edited Volume Articles**
+
+Tjuka, Annika (in review). "Body part extensions with _mặt_ 'face' in Vietnamese". In Kelsie Pattillo and Maɫgorzata Waśniewska (eds). Embodiment in Cross-Linguistic Studies: The 'Face'. Brill Studies in Language, Cognition and Culture. Brill. Preprint: [10.17613/23np-nt91](http://dx.doi.org/10.17613/23np-nt91)
+
 **Preprints**
 
 Tjuka, Annika (submitted). "The representation of foot/leg polysemy in the mind — Insights from Vietnamese body part extensions with _chân_." HCommons. DOI: [10.17613/21y2-yz64](http://dx.doi.org/10.17613/21y2-yz64)
 
 Tjuka, Annika, Robert Forkel, and Johann-Mattis List (submitted). "Linking Norms, Ratings, and Relations of Words and Concepts Across Multiple Language Varieties." PsyArXiv. July 27. [https://psyarxiv.com/tgw3z/](https://psyarxiv.com/tgw3z/)
-
-Tjuka, Annika (submitted). "Body part extensions with _mặt_ 'face' in Vietnamese." HCommons. DOI: [10.17613/23np-nt91](http://dx.doi.org/10.17613/23np-nt91)
 
 **Proceedings**
 
