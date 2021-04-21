@@ -60,7 +60,7 @@ Tjuka, Annika (in review). "Body part extensions with _mặt_ 'face' in Vietname
 
 Tjuka, Annika (submitted). "The representation of foot/leg polysemy in the mind — Insights from Vietnamese body part extensions with _chân_." HCommons. DOI: [10.17613/21y2-yz64](http://dx.doi.org/10.17613/21y2-yz64)
 
-Tjuka, Annika, Robert Forkel, and Johann-Mattis List (submitted). "Linking Norms, Ratings, and Relations of Words and Concepts Across Multiple Language Varieties." PsyArXiv. July 27. [https://psyarxiv.com/tgw3z/](https://psyarxiv.com/tgw3z/)
+Tjuka, Annika, Robert Forkel, and Johann-Mattis List (in review). "Linking Norms, Ratings, and Relations of Words and Concepts Across Multiple Language Varieties." PsyArXiv. July 27. [https://psyarxiv.com/tgw3z/](https://psyarxiv.com/tgw3z/)
 
 **Proceedings**
 
