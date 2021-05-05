@@ -131,9 +131,6 @@ April. _[Similarity as the basis for meaning extensions.](/slides/tjuka2020_simi
 upcoming (August) | Introduction to linguistics & cultural evolution, Lecture, MA/PhD,
 Max Planck Institute for the Science of Human History, Summer School, online.
 
-upcoming (August) | with Nataliia Hübler, Bayesian linguistic phylogenies, Lecture, MA/PhD,
-Max Planck Institute for the Science of Human History, Summer School, online.
-
 Summer Semester 2021 | _Words and their meanings across languages_, Seminar, BA, 
 Friedrich Schiller University Jena, online. Syllabus available [here](https://www.notion.so/Syllabus-35ec90dab75f4770bc6ead65d9a871f2).
 
