@@ -1,4 +1,4 @@
-Life's motto: _Never not learning_ <br/><br/><br/>
+Life's motto: _A curious mind is limitless_ <br/><br/><br/>
 
 
 # Annika Tjuka, Linguist <br/><br/>
