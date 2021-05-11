@@ -1,4 +1,4 @@
-_"A curious mind is limitless"_ <br/><br/><br/>
+_"A curious mind is limitless."_ <br/><br/><br/>
 
 
 # Annika Tjuka, Linguist <br/><br/>
