@@ -1,4 +1,4 @@
-Life's motto: _A curious mind is limitless_ <br/><br/><br/>
+_"A curious mind is limitless"_ <br/><br/><br/>
 
 
 # Annika Tjuka, Linguist <br/><br/>
