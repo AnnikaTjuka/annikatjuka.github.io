@@ -6,8 +6,6 @@ _"A curious mind is limitless."_ <br/><br/><br/>
 
 ## News
 
-+++ I'm going to give a talk entitled "Meanings of body part terms: Cross-linguistic colexifications between body parts and objects" at [DUCOG](https://ducog.cecog.eu/) in May. +++
-
 +++ Check out my new blog post on "[How to review concept lists in collaboration](https://calc.hypotheses.org/2680)" in Computer-Assisted Language Comparison in Practice. +++
 
 +++ We submitted a Preprint for our article '[Linking Norms, Ratings, and Relations of Words and Concepts Across Multiple Language Varieties.](https://psyarxiv.com/tgw3z/)' to PsyArXiv. +++
@@ -87,7 +85,7 @@ Tjuka, Annika. "Adding concept lists to Concepticon: A guide for beginners," in 
 
 **2021**
 
-Mai. _[Meanings of body part terms: Cross-linguistic colexifications between body parts and objects](/slides/tjuka2021-body-colexifications-DUCOG.pdf)_. 12<sup>th</sup> Dubrovnik Conference on Cognitive Science – Linguistic & Cognitive Foundations of Meaning ([DUCOG2012](https://ducog.cecog.eu/programme)), online.
+May. _[Meanings of body part terms: Cross-linguistic colexifications between body parts and objects](/slides/tjuka2021-body-colexifications-DUCOG.pdf)_. 12<sup>th</sup> Dubrovnik Conference on Cognitive Science – Linguistic & Cognitive Foundations of Meaning ([DUCOG2012](https://ducog.cecog.eu/programme)), online.
 
 **2020**
 
