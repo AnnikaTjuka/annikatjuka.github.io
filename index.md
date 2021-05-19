@@ -87,7 +87,7 @@ Tjuka, Annika. "Adding concept lists to Concepticon: A guide for beginners," in 
 
 **2021**
 
-Mai. _[Meanings of body part terms: Cross-linguistic colexifications between body parts and objects](/slides/tjuka2021-tjuka2021-body-colexifications-DUCOG.pdf)_. 12<sup>th</sup> Dubrovnik Conference on Cognitive Science – Linguistic & Cognitive Foundations of Meaning ([DUCOG2012](https://ducog.cecog.eu/programme)), online.
+Mai. _[Meanings of body part terms: Cross-linguistic colexifications between body parts and objects](/slides/tjuka2021-body-colexifications-DUCOG.pdf)_. 12<sup>th</sup> Dubrovnik Conference on Cognitive Science – Linguistic & Cognitive Foundations of Meaning ([DUCOG2012](https://ducog.cecog.eu/programme)), online.
 
 **2020**
 
