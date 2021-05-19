@@ -85,6 +85,10 @@ Tjuka, Annika. "Adding concept lists to Concepticon: A guide for beginners," in 
 
 ## Talks (most recent)
 
+**2021**
+
+Mai. _[Meanings of body part terms: Cross-linguistic colexifications between body parts and objects](/slides/tjuka2021-tjuka2021-body-colexifications-DUCOG.pdf)_. 12<sup>th</sup> Dubrovnik Conference on Cognitive Science – Linguistic & Cognitive Foundations of Meaning ([DUCOG2012](https://ducog.cecog.eu/programme)), online.
+
 **2020**
 
 December. _[General patterns and language variation: Word frequencies across English, German, and Chinese](/slides/tjuka2020_frequencies_CogALex.pdf)_. 6<sup>th</sup> Cognitive Aspects of the Lexicon Workshop ([CogALex](https://sites.google.com/view/cogalex-2020/home)) at COLING 2020, online. Video available [here](https://youtu.be/AMqc9b4pY4g).
