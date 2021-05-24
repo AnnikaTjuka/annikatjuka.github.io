@@ -97,12 +97,13 @@ September. _[Defining the obvious: How to measure similarity?](/slides/tjuka2020
 
 April. _[Similarity as the basis for meaning extensions.](/slides/tjuka2020_similarity_DLCEmeeting.pdf)_ Meeting of the Department of Linguistic and Cultural Evolution, Max Planck Institute for the Science of Human History, online. <br/><br/><br/>
 
-
-## Projects
+## Master's Thesis
 
 <img src="projects/tableleg.png" width="150" height="100"> 
 
-[Body-part metaphors as a window to cognition: A cross-linguistic study of object and landscape terms](ma-thesis.md)
+[Body-part metaphors as a window to cognition: A cross-linguistic study of object and landscape terms](ma-thesis.md) <br/><br/><br/>
+
+## Project Affiliation
 
 <img src="projects/calc.jpeg" width="150" height="100"> 
 
