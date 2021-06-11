@@ -72,6 +72,8 @@ Tjuka, Annika, Lena Weißmann, and Kilu von Prince (2019). [Habitual aspect as a
 
 **Blog posts**
 
+Tjuka, Annika. "A multilingual body part concept list," in Computer-Assisted Language Comparison in Practice, 14/06/2021, [https://calc.hypotheses.org/2788](https://calc.hypotheses.org/2788).
+
 Tjuka, Annika. "How to review concept lists in collaboration (How to do X in linguistics 6)," in Computer-Assisted Language Comparison in Practice, 15/03/2021, [https://calc.hypotheses.org/2680](https://calc.hypotheses.org/2680).
 
 Tjuka, Annika. "How to organize a virtual journal club (How to do X in linguistics 4)," in Computer-Assisted Language Comparison in Practice, 20/01/2021, [https://calc.hypotheses.org/2613](https://calc.hypotheses.org/2613).
