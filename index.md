@@ -49,6 +49,8 @@ Humboldt-Universität zu Berlin
 ## Publications
 
 **Journal Articles**
+
+Tjuka, Annika, Robert Forkel, and Johann-Mattis List (forthcoming): Linking norms, ratings, and relations of words and concepts across multiple language varieties. _Behavior Research Methods_. 1-24.
  
 Tjuka, Annika, Huong Thi Thu Nguyen, and Katharina Spalek (2020). Foxes, deer, and hedgehogs: The recall of focus alternatives in Vietnamese. _Laboratory Phonology: Journal of the Association for Laboratory Phonology 11(1)._ 1–29. DOI: [10.5334/labphon.253](https://doi.org/10.5334/labphon.253) Note: We had to add a small [correction to our article](https://doi.org/10.5334/labphon.323). 
 
