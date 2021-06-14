@@ -6,11 +6,11 @@ _"A curious mind is limitless."_ <br/><br/><br/>
 
 ## News
 
++++ Our article introducing the Database of Cross-Linguistic Norms, Ratings, and Relations for Words and Concepts was accepted for publication in Behavior Research Methods! Preprint is avalable [here](https://psyarxiv.com/tgw3z/). +++
+
 +++ I'll give a talk on "The _face_ of the moon - Body part extensions in Vietnamese" at the [Third Cultural Linguistics International Conference (CLIC-2021)](https://scitope.com/clic-2020/) in June. +++
 
 +++ Check out my new blog post on "[How to review concept lists in collaboration](https://calc.hypotheses.org/2680)" in Computer-Assisted Language Comparison in Practice. +++
-
-+++ We submitted a Preprint for our article '[Linking Norms, Ratings, and Relations of Words and Concepts Across Multiple Language Varieties.](https://psyarxiv.com/tgw3z/)' to PsyArXiv. +++
 
 +++ For some reading inspiration, take a look at my virtual bookshelf [here](bookshelf.md). +++ <br/><br/><br/>
 
