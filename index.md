@@ -8,8 +8,6 @@ _"A curious mind is limitless."_ <br/><br/><br/>
 
 +++ Our article introducing the Database of Cross-Linguistic Norms, Ratings, and Relations for Words and Concepts was accepted for publication in Behavior Research Methods! Preprint is avalable [here](https://psyarxiv.com/tgw3z/). +++
 
-+++ I'll give a talk on "The _face_ of the moon - Body part extensions in Vietnamese" at the [Third Cultural Linguistics International Conference (CLIC-2021)](https://scitope.com/clic-2020/) in June. +++
-
 +++ Check out my new blog post on "[How to review concept lists in collaboration](https://calc.hypotheses.org/2680)" in Computer-Assisted Language Comparison in Practice. +++
 
 +++ For some reading inspiration, take a look at my virtual bookshelf [here](bookshelf.md). +++ <br/><br/><br/>
@@ -90,6 +88,8 @@ Tjuka, Annika. "Adding concept lists to Concepticon: A guide for beginners," in 
 ## Talks (most recent)
 
 **2021**
+
+June. _[The face of the moon - Body part extensions in Vietnamese](/slides/tjuka2021-face-Vietnamese-CLIC.pdf)_. 3<sup>rd</sup> Cultural Linguistics International Conference ([CLIC-2021](https://scitope.com/clic-2020/)), online. 
 
 May. _[Meanings of body part terms: Cross-linguistic colexifications between body parts and objects](/slides/tjuka2021-body-colexifications-DUCOG.pdf)_. 12<sup>th</sup> Dubrovnik Conference on Cognitive Science – Linguistic & Cognitive Foundations of Meaning ([DUCOG2021](https://ducog.cecog.eu/programme)), online. Video available [here](https://youtu.be/AdaagTy00M8).
 
