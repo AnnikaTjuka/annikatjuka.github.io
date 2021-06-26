@@ -6,6 +6,8 @@ _"A curious mind is limitless."_ <br/><br/><br/>
 
 ## News
 
++++ I won the Farzad Sharifian PhD Student Award for my presentation on body part extensions in Vietnamese at the Third Cultural Linguistics International Conference ([CLIC-2021](https://scitope.com/clic-2020/))! +++
+
 +++ Our article introducing the Database of Cross-Linguistic Norms, Ratings, and Relations for Words and Concepts was accepted for publication in Behavior Research Methods! Preprint is avalable [here](https://psyarxiv.com/tgw3z/). +++
 
 +++ Check out my new blog post on "[How to review concept lists in collaboration](https://calc.hypotheses.org/2680)" in Computer-Assisted Language Comparison in Practice. +++
