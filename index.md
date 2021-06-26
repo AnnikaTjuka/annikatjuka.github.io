@@ -35,7 +35,7 @@ I’m a linguist. My area of expertise is semantics, specifically semantic typol
 **Academic Education**
 
 2019 - Present | **Doctoral Researcher** at International Max Planck Research School for the Science of Human History (IMPRS-SHH) and Friedrich-Schiller-Universität Jena.
-Supervisors: Dr. Johann-Mattis List and Prof. Dr. Volker Gast
+Supervisor: Dr. Johann-Mattis List
 
 2016 - 2019 | **Master of Arts in Linguistics** at
 Humboldt-Universität zu Berlin
