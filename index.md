@@ -44,7 +44,7 @@ Humboldt-Universität zu Berlin
 2012 - 2016 | **Bachelor of Arts in German Linguistics and Scandinavian Studies** at
 Humboldt-Universität zu Berlin
 
-[show full CV](CV_tjuka.pdf) <br/><br/><br/>
+[View full CV](CV_tjuka.pdf) <br/><br/><br/>
 
 
 ## Publications
@@ -86,7 +86,7 @@ Tjuka, Annika. "A list of 171 body part concepts," in Computer-Assisted Language
 Tjuka, Annika. "Adding concept lists to Concepticon: A guide for beginners," in Computer-Assisted Language Comparison in Practice, 29/01/2020, [https://calc.hypotheses.org/2225](https://calc.hypotheses.org/2225). <br/><br/><br/>
 
 
-## Talks (most recent)
+## Selected Talks
 
 **2021**
 
@@ -102,7 +102,9 @@ October. _[The eye/ear of the needle – Cross-linguistic differences in body pa
 
 September. _[Defining the obvious: How to measure similarity?](/slides/tjuka2020_similarity_STaPs.pdf)_ 16<sup>th</sup> Sprachwissenschaftliche Tagung für Promotionsstudierende, online.
 
-April. _[Similarity as the basis for meaning extensions.](/slides/tjuka2020_similarity_DLCEmeeting.pdf)_ Meeting of the Department of Linguistic and Cultural Evolution, Max Planck Institute for the Science of Human History, online. <br/><br/><br/>
+April. _[Similarity as the basis for meaning extensions.](/slides/tjuka2020_similarity_DLCEmeeting.pdf)_ Meeting of the Department of Linguistic and Cultural Evolution, Max Planck Institute for the Science of Human History, online. 
+
+[View full CV for a complete list](CV_tjuka.pdf) <br/><br/><br/>
 
 ## Master's Thesis
 
