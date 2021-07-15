@@ -147,10 +147,10 @@ upcoming (August) | Bayesian phylogenetic linguistics, Class, MA/PhD,
 Max Planck Institute for the Science of Human History, [Summer School](https://summerschool.shh.mpg.de/) _Doorway to Human History_, online.
 
 Summer Semester 2021 | _Words and their meanings across languages_, Seminar, BA, 
-Friedrich Schiller University Jena, online. Syllabus available [here](https://www.notion.so/Syllabus-35ec90dab75f4770bc6ead65d9a871f2).
+Friedrich Schiller University Jena, online. Syllabus available [here](https://annikatjuka.notion.site/Syllabus-35ec90dab75f4770bc6ead65d9a871f2).
 
 Winter Semester 2020/21 | _The mental lexicon from a cross-linguistic perspective_, Seminar, BA, 
-Friedrich Schiller University Jena, online. Syllabus available [here](https://www.notion.so/Syllabus-812dc77904e849059d4639d484eecd88). <br/><br/><br/>
+Friedrich Schiller University Jena, online. Syllabus available [here](https://annikatjuka.notion.site/Syllabus-812dc77904e849059d4639d484eecd88). <br/><br/><br/>
 
 
 ## Outreach activities
