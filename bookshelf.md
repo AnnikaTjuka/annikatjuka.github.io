@@ -10,33 +10,31 @@ I've noticed that many people are curious about bookshelves. I'm no exception. T
 | | | |
 |---|---|---|
 | [<img src="bookshelf/godfrey-smith2016.jpg" width="200" height="270">](https://g.co/kgs/Hx9Dqr) | | |
-| Recommended by [Simon Greenhill](https://simon.net.nz/) | | |
 | [<img src="bookshelf/kahneman2011.jpg" width="200" height="270">](https://g.co/kgs/SSbsxs) | [<img src="bookshelf/aitchison1987.jpeg" width="200" height="270">](https://www.wiley.com/en-us/Words+in+the+Mind%3A+An+Introduction+to+the+Mental+Lexicon%2C+4th+Edition-p-9780470656471) | [<img src="bookshelf/murphy2002.jpeg" width="200" height="270">](https://g.co/kgs/3CL7Uf) |
-|  | Course reading recommendation by [Katharina Spalek](https://www.linguistik.hu-berlin.de/de/institut/professuren/psycholinguistik/psyling-gastprof/mitarbeiter-innen/1681890) |  |
 | [<img src="bookshelf/lakoff1980.jpg" width="200" height="270">](https://g.co/kgs/UAoVg2) | [<img src="bookshelf/schrott2011.jpg" width="200" height="270">](https://www.hanser-literaturverlage.de/buch/gehirn-und-gedicht/978-3-446-25369-8/) | [<img src="bookshelf/schwarz-friesel2013.jpg" width="200" height="270">](https://www.degruyter.com/view/journals/zrs/3/2/article-p271.xml) |
-| Source of ideas for my [MA thesis](http://dx.doi.org/10.17613/j95n-c998) |  | Source of ideas for my [BA thesis](https://www.researchgate.net/publication/325742407_Emotionalisierung_durch_Texte_-_Eine_kontrastive_Untersuchung_von_Spendenaufrufen_und_Borsenbriefen_mithilfe_der_Berlin_Affective_Word_List_Reloaded) |
-
 
 ## Linguistic Theory
 
 | | | |
 |---|---|---|
-| [<img src="bookshelf/pustejovsky1995.jpeg" width="200" height="270"/>](https://g.co/kgs/rgUZRf) | [<img src="bookshelf/Sweetser1990.jpeg" width="200" height="270">](https://g.co/kgs/HNqYxy) | |
+| [<img src="bookshelf/Frege1892.jpeg" width="200" height="270"/>](https://de.wikipedia.org/wiki/%C3%9Cber_Sinn_und_Bedeutung) | [<img src="bookshelf/pustejovsky1995.jpeg" width="200" height="270"/>](https://g.co/kgs/rgUZRf) | [<img src="bookshelf/Sweetser1990.jpeg" width="200" height="270">](https://g.co/kgs/HNqYxy) |
 | [<img src="bookshelf/geeraerts2010.jpg" alt="Sublime's custom image" width="200" height="270">](https://g.co/kgs/fLwXcy) | [<img src="bookshelf/joseph2001.jpg" width="200" height="270">](https://g.co/kgs/v7VcUY) | [<img src="bookshelf/austin1962.jpeg" width="200" height="270">](https://g.co/kgs/BJ8S5T) |
-| Recommended by [Kelsie Pattillo](https://www.researchgate.net/profile/Kelsie_Pattillo) | | Course reading recommendation by [Manfred Krifka](https://www.leibniz-zas.de/en/people/details/krifka-manfred/manfred-krifka/) |
 
+## Theoretical Works
+
+| | | |
+|---|---|---|
+| [<img src="bookshelf/Hull1988.jpeg" width="200" height="270"/>](https://g.co/kgs/tkgbFV) | [<img src="bookshelf/Darwin1859.jpeg" width="200" height="270"/>](https://g.co/kgs/m8CHXM) | |
 
 ## Science as an Adventure
 
 | | | |
 |---|---|---|
-| [<img src="bookshelf/Hull1988.jpeg" width="200" height="270"/>](https://g.co/kgs/tkgbFV) | [<img src="bookshelf/Mitchell2009.jpeg" width="200" height="270"/>](https://g.co/kgs/KZCjYM) | [<img src="bookshelf/Pearl2019.jpeg" width="200" height="270"/>](https://g.co/kgs/ijy3W2) |
-| [<img src="bookshelf/Darwin1859.jpeg" width="200" height="270"/>](https://g.co/kgs/m8CHXM) | [<img src="bookshelf/Spiegelhalter2019.jpeg" alt="Your image title" width="200" height="270"/>](https://g.co/kgs/9qPyCL) | [<img src="bookshelf/kuhn1962.jpeg" alt="Your image title" width="200" height="270"/>](https://g.co/kgs/3YsznE) |
+| [<img src="bookshelf/Criado-Perez 2019.jpeg" width="200" height="270"/>](https://g.co/kgs/YDe2ke) | [<img src="bookshelf/Mitchell2009.jpeg" width="200" height="270"/>](https://g.co/kgs/KZCjYM) |  |
+| [<img src="bookshelf/Pearl2019.jpeg" width="200" height="270"/>](https://g.co/kgs/ijy3W2) | [<img src="bookshelf/Spiegelhalter2019.jpeg" alt="Your image title" width="200" height="270"/>](https://g.co/kgs/9qPyCL) | [<img src="bookshelf/kuhn1962.jpeg" alt="Your image title" width="200" height="270"/>](https://g.co/kgs/3YsznE) |
 | [<img src="bookshelf/Rosling2018.jpg" alt="Your image title" width="200" height="270"/>](https://g.co/kgs/AQdmWN) | [<img src="bookshelf/evans2009.jpeg" alt="Your image title" width="200" height="270"/>](https://g.co/kgs/FQZM2N) | [<img src="bookshelf/feynman1992.jpg" width="200" height="270">](https://g.co/kgs/V3F4xp) | 
-| | | Recommended by [Hendrik Huthoff](https://www.linkedin.com/in/hendrik-huthoff-327178125/) |
 | [<img src="bookshelf/McGonigal2012.jpeg" width="200" height="270">](https://g.co/kgs/YUuSKp) | [<img src="bookshelf/slaughter2017.jpg" width="200" height="270">](https://g.co/kgs/5KYjsw) | [<img src="bookshelf/deutscher2010.jpg" width="200" height="270">](https://g.co/kgs/GiMA4H) |
 | [<img src="bookshelf/goodall2000.jpg" width="200" height="270">](https://g.co/kgs/dYRQd1) | [<img src="bookshelf/krause2019.jpg" width="200" height="270">](https://www.ullstein-buchverlage.de/nc/buch/details/die-reise-unserer-gene-9783549100028.html) | [<img src="bookshelf/sacks1997.jpg" width="200" height="270">](https://g.co/kgs/U5JgkH) |
-| A gift from [Kilu von Prince](http://kiluvonprince.de/) | | Recommended by [Kilu von Prince](http://kiluvonprince.de/) |
 | [<img src="bookshelf/sacks1989.jpg" width="200" height="270">](https://g.co/kgs/Bpb6Dy) | [<img src="bookshelf/tegmark2014.jpeg" width="200" height="270">](https://g.co/kgs/37WyMj) | [<img src="bookshelf/enders2014.jpg" width="200" height="270">](https://g.co/kgs/LvsV8K) |
 
 
