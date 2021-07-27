@@ -90,6 +90,8 @@ Tjuka, Annika. "Adding concept lists to Concepticon: A guide for beginners," in 
 
 **2021**
 
+July. _[Norms, Ratings, and Relations for multiple languages](https://pad.gwdg.de/s/rU284KqaY)_. Meeting of the Department of Linguistic and Cultural Evolution, Max Planck Institute for the Science of Human History, online.
+
 June. _[The face of the moon - Body part extensions in Vietnamese](/slides/tjuka2021-face-Vietnamese-CLIC.pdf)_. 3<sup>rd</sup> Cultural Linguistics International Conference ([CLIC-2021](https://scitope.com/clic-2020/)), online. 
 
 May. _[Meanings of body part terms: Cross-linguistic colexifications between body parts and objects](/slides/tjuka2021-body-colexifications-DUCOG.pdf)_. 12<sup>th</sup> Dubrovnik Conference on Cognitive Science – Linguistic & Cognitive Foundations of Meaning ([DUCOG2021](https://ducog.cecog.eu/programme)), online. Video available [here](https://youtu.be/AdaagTy00M8).
