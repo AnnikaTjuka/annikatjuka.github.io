@@ -6,9 +6,9 @@ _"A curious mind is limitless."_ <br/><br/><br/>
 
 ## News
 
-+++ I won the Farzad Sharifian PhD Student Award for my presentation on body part extensions in Vietnamese at the Third Cultural Linguistics International Conference ([CLIC-2021](https://scitope.com/clic-2020/))! +++
++++ Our article introducing the Database of Cross-Linguistic Norms, Ratings, and Relations for Words and Concepts was published in Behavior Research Methods! The full article is avalable [here](https://doi.org/10.3758/s13428-021-01650-1). +++
 
-+++ Our article introducing the Database of Cross-Linguistic Norms, Ratings, and Relations for Words and Concepts was accepted for publication in Behavior Research Methods! Preprint is avalable [here](https://psyarxiv.com/tgw3z/). +++
++++ I won the Farzad Sharifian PhD Student Award for my presentation on body part extensions in Vietnamese at the Third Cultural Linguistics International Conference ([CLIC-2021](https://scitope.com/clic-2020/))! +++
 
 +++ Check out my new blog post on "[How to review concept lists in collaboration](https://calc.hypotheses.org/2680)" in Computer-Assisted Language Comparison in Practice. +++
 
@@ -50,7 +50,7 @@ Humboldt-Universität zu Berlin
 
 **Journal Articles**
 
-Tjuka, Annika, Robert Forkel, and Johann-Mattis List (forthcoming): Linking norms, ratings, and relations of words and concepts across multiple language varieties. _Behavior Research Methods_. 1-24. Preprint: [https://psyarxiv.com/tgw3z/](https://psyarxiv.com/tgw3z/).
+Tjuka, Annika, Robert Forkel, and Johann-Mattis List (2021): Linking norms, ratings, and relations of words and concepts across multiple language varieties. _Behavior Research Methods_. 1-24. DOI: [https://doi.org/10.3758/s13428-021-01650-1](https://doi.org/10.3758/s13428-021-01650-1).
  
 Tjuka, Annika, Huong Thi Thu Nguyen, and Katharina Spalek (2020). Foxes, deer, and hedgehogs: The recall of focus alternatives in Vietnamese. _Laboratory Phonology: Journal of the Association for Laboratory Phonology 11(1)._ 1–29. DOI: [10.5334/labphon.253](https://doi.org/10.5334/labphon.253) Note: We had to add a small [correction to our article](https://doi.org/10.5334/labphon.323). 
 
