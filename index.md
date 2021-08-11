@@ -8,9 +8,9 @@ _"A curious mind is limitless."_ <br/><br/><br/>
 
 +++ Our article introducing the Database of Cross-Linguistic Norms, Ratings, and Relations for Words and Concepts was published in Behavior Research Methods! The full article is avalable [here](https://doi.org/10.3758/s13428-021-01650-1). +++
 
-+++ I won the Farzad Sharifian PhD Student Award for my presentation on body part extensions in Vietnamese at the Third Cultural Linguistics International Conference ([CLIC-2021](https://scitope.com/clic-2020/))! +++
++++ Check out my new blog post on "[Adding data sets to NoRaRe: A guide for beginners](https://calc.hypotheses.org/2890)" in Computer-Assisted Language Comparison in Practice. +++
 
-+++ Check out my new blog post on "[How to review concept lists in collaboration](https://calc.hypotheses.org/2680)" in Computer-Assisted Language Comparison in Practice. +++
++++ I won the Farzad Sharifian PhD Student Award for my presentation on body part extensions in Vietnamese at the Third Cultural Linguistics International Conference ([CLIC-2021](https://scitope.com/clic-2020/))! +++
 
 +++ For some reading inspiration, take a look at my virtual bookshelf [here](bookshelf.md). +++ <br/><br/><br/>
 
@@ -71,6 +71,8 @@ Tjuka, Annika, Lena Weißmann, and Kilu von Prince (2019). [Tagging modality in 
 Tjuka, Annika, Lena Weißmann, and Kilu von Prince (2019). [Habitual aspect as a property of text spans](/papers/tjuka2019_LTC_habitual_aspect.pdf). In Z. Vetulani and P. Paroubek (Eds.), _Human language technologies as a challenge for computer science and linguistics. Proceedings of 9<sup>th</sup> Language & Technology Conference_ (pp. 195-199). Poznań: Wydawnictwo Nauka i Innowacje.
 
 **Blog posts**
+
+Tjuka, Annika. "Adding data sets to NoRaRe: A guide for beginners," in Computer-Assisted Language Comparison in Practice, 11/08/2021, [https://calc.hypotheses.org/2890](https://calc.hypotheses.org/2890).
 
 Tjuka, Annika. "A multilingual body part concept list," in Computer-Assisted Language Comparison in Practice, 14/06/2021, [https://calc.hypotheses.org/2788](https://calc.hypotheses.org/2788).
 
