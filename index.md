@@ -158,6 +158,13 @@ Winter Semester 2020/21 | _The mental lexicon from a cross-linguistic perspectiv
 Friedrich Schiller University Jena, online. Syllabus available [here](https://annikatjuka.notion.site/Syllabus-812dc77904e849059d4639d484eecd88). <br/><br/><br/>
 
 
+## Organization
+
+2021 | Organizing committee of the _SHH Summer School - A doorway to human history_ Max Planck Institute for the Science of Human History, online. https://summerschool.shh.mpg.de/
+
+2019-2020 | Main coordinator of the DLCE departmental _Journal Club_ Max Planck Institute for the Science of Human History, Jena/online. <br/><br/><br/>
+
+
 ## Outreach activities
 
 **Tea with teachers**
