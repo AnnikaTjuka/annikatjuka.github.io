@@ -181,9 +181,11 @@ Friedrich Schiller University Jena, online. Syllabus available [here](https://an
 
 ## Organization
 
-2021 | Organizing committee of the _SHH Summer School - A doorway to human history_ Max Planck Institute for the Science of Human History, online. https://summerschool.shh.mpg.de/
+2021 | Organizing committee of the _[SHH Summer School - A doorway to human history](https://summerschool.shh.mpg.de/)_ 
+Max Planck Institute for the Science of Human History, online.
 
-2019-2020 | Main coordinator of the DLCE departmental _Journal Club_ Max Planck Institute for the Science of Human History, Jena/online. <br/><br/><br/>
+2019-2020 | Main coordinator of the DLCE departmental _Journal Club_ 
+Max Planck Institute for the Science of Human History, Jena/online. <br/><br/><br/>
 
 
 ## Outreach activities
