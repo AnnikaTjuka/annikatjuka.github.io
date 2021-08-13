@@ -52,14 +52,14 @@ Supervisors: Prof. Dr. Katharina Spalek and Prof. Dr. Manfred Krifka
 2019 - Present | **Doctoral Researcher** at Max Planck Institute for the Science of Human History, 
 Department of Linguistic and Cultural Evolution, Jena.
 
-2019 | Research Associate in the FAHMRRR project, funded by ERC, at Humboldt-Universität zu Berlin: 
+2019 | Research Associate at Humboldt-Universität zu Berlin in the FAHMRRR project, funded by ERC. 
 The project investigated the questions of how focus alternatives are retrieved from our mental lexicon, how they are represented in the brain and how they are remembered.
 
-2017 - 2019 | Student research assistant in the MelaTAMP project, funded by DFG, at Humboldt-Universität zu Berlin: 
+2017 - 2019 | Student research assistant at Humboldt-Universität zu Berlin in the MelaTAMP project, funded by DFG. 
 The project explored the expression of tense, aspect, modality and polarity in oceanic languages of Melanesia.
 
-2016 - 2019 | Student research assistant in the FAHMRRR project, funded by ERC, 
-at Humboldt-Universität zu Berlin.
+2016 - 2019 | Student research assistant at Humboldt-Universität zu Berlin in the FAHMRRR project, 
+funded by ERC.
 
 2018 | Internship and student research assistant at Max Planck Institute for 
 Human Cognitive and Brain Sciences, Leipzig.
