@@ -32,16 +32,32 @@ I’m a linguist and currently working as a doctoral researcher at the MPI for t
 
 ## Curriculum Vitae
 
-**Academic Education**
+**Academic Degrees**
 
-2019 - Present | **Doctoral Researcher** at International Max Planck Research School for the Science of Human History (IMPRS-SHH) and Friedrich-Schiller-Universität Jena.
-Supervisor: Dr. Johann-Mattis List
+in progress | Ph.D. in Linguistics at International Max Planck Research School for the Science of Human History (IMPRS-SHH) and Friedrich-Schiller-Universität Jena
+Dissertation (_working title_): Language variation in word meanings: Cross-linguistic patterns and causes of colexifications
+Supervisors: Dr. Johann-Mattis List
 
-2016 - 2019 | **Master of Arts in Linguistics** at
-Humboldt-Universität zu Berlin
+2019 | Master of Arts in Linguistics at Humboldt-Universität zu Berlin
+Master's thesis: Body-part metaphors as a window to cognition: A cross-linguistic study of object and landscape terms
+Supervisors: Prof. Dr. Elisabeth Verhoeven and Dr. Kilu von Prince
 
-2012 - 2016 | **Bachelor of Arts in German Linguistics and Scandinavian Studies** at
-Humboldt-Universität zu Berlin
+2016 | Bachelor of Arts in German Linguistics and Scandinavian Studies at Humboldt-Universität zu Berlin
+Bachelor's thesis: Emotionalisation through texts
+Supervisors: Prof. Dr. Katharina Spalek and Prof. Dr. Manfred Krifka
+
+
+**Academic Positions**
+
+2019 - Present | **Doctoral Researcher** at Max Planck Institute for the Science of Human History, Department of Linguistic and Cultural Evolution, Jena.
+
+2019 | Research Associate in the FAHMRRR project, funded by ERC, Humboldt-Universität zu Berlin: The project investigates the questions of how focus alternatives are retrieved from our mental lexicon, how they are represented in the brain and how they are remembered.
+
+2017 - 2019 | Student research assistant in the MelaTAMP project, funded by DFG, Humboldt-Universität zu Berlin: The project explores the expression of tense, aspect, modality and polarity in oceanic languages of Melanesia.
+
+2016 - 2019 | Student research assistant in the FAHMRRR project, funded by ERC, Humboldt-Universität zu Berlin.
+
+2018 | Internship and student research assistant at Max Planck Institute for Human Cognitive and Brain Sciences, Leipzig.
 
 [View full CV](CV_tjuka.pdf) <br/><br/><br/>
 
