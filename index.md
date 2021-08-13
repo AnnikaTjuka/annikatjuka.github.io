@@ -36,7 +36,7 @@ I’m a linguist and currently working as a doctoral researcher at the MPI for t
 
 in progress | Ph.D. in Linguistics at International Max Planck Research School for the Science of Human History (IMPRS-SHH) and Friedrich-Schiller-Universität Jena
 Dissertation (_working title_): Language variation in word meanings: Cross-linguistic patterns and causes of colexifications
-Supervisors: Dr. Johann-Mattis List
+Supervisor: Dr. Johann-Mattis List
 
 2019 | Master of Arts in Linguistics at Humboldt-Universität zu Berlin
 Master's thesis: Body-part metaphors as a window to cognition: A cross-linguistic study of object and landscape terms
