@@ -166,10 +166,10 @@ April. _[Similarity as the basis for meaning extensions.](/slides/tjuka2020_simi
 
 ## Teaching
 
-upcoming (August) | Introduction to linguistics & cultural evolution, Lecture, MA/PhD,
+August | [Introduction to linguistics & cultural evolution](https://github.com/MPI-SHH-SummerSchool/dlce-material/blob/main/Introduction%20to%20Linguistic%20%26%20Cultural%20Evolution/slides-Intro-LinguisticAndCulturalEvolution.pdf), Lecture, MA/PhD,
 Max Planck Institute for the Science of Human History, [Summer School](https://summerschool.shh.mpg.de/) _Doorway to Human History_, online.
 
-upcoming (August) | Bayesian phylogenetic linguistics, Class, MA/PhD,
+August | Bayesian phylogenetic linguistics, Class, MA/PhD,
 Max Planck Institute for the Science of Human History, [Summer School](https://summerschool.shh.mpg.de/) _Doorway to Human History_, online.
 
 Summer Semester 2021 | _Words and their meanings across languages_, Seminar, BA, 
