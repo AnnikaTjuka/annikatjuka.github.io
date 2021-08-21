@@ -6,9 +6,9 @@ _"A curious mind is limitless."_ <br/><br/><br/>
 
 ## News
 
-+++ Our article introducing the Database of Cross-Linguistic Norms, Ratings, and Relations for Words and Concepts was published in Behavior Research Methods! The full article is avalable [here](https://doi.org/10.3758/s13428-021-01650-1). +++
++++ The recording of my lecture on "Linguistic and Cultural Evolution" is available on [YouTube](https://youtu.be/pAb9vXQZsNE). ++++
 
-+++ Check out my new blog post on "[Adding data sets to NoRaRe: A guide for beginners](https://calc.hypotheses.org/2890)" in Computer-Assisted Language Comparison in Practice. +++
++++ Our article introducing the Database of Cross-Linguistic Norms, Ratings, and Relations for Words and Concepts was published in Behavior Research Methods! The full article is avalable [here](https://doi.org/10.3758/s13428-021-01650-1). +++
 
 +++ I won the Farzad Sharifian PhD Student Award for my presentation on body part extensions in Vietnamese at the Third Cultural Linguistics International Conference ([CLIC-2021](https://scitope.com/clic-2020/))! +++
 
@@ -166,8 +166,11 @@ April. _[Similarity as the basis for meaning extensions.](/slides/tjuka2020_simi
 
 ## Teaching
 
-August | [Introduction to linguistics & cultural evolution](https://github.com/MPI-SHH-SummerSchool/dlce-material/blob/main/Introduction%20to%20Linguistic%20%26%20Cultural%20Evolution/slides-Intro-LinguisticAndCulturalEvolution.pdf), Lecture, MA/PhD,
-Max Planck Institute for the Science of Human History, _[SHH Summer School - A doorway to human history](https://summerschool.shh.mpg.de/)_, online.
+Winter Semester 2021/22 | _Same same but different: Semantic relations in language and thought_, Seminar, BA, 
+Friedrich Schiller University Jena, online.
+
+August | [Introduction to Linguistic & Cultural Evolution](https://github.com/MPI-SHH-SummerSchool/dlce-material/blob/main/Introduction%20to%20Linguistic%20%26%20Cultural%20Evolution/slides-Intro-LinguisticAndCulturalEvolution.pdf), Lecture, MA/PhD,
+Max Planck Institute for the Science of Human History, _[SHH Summer School - A doorway to human history](https://summerschool.shh.mpg.de/)_, online. Video available [here](https://youtu.be/pAb9vXQZsNE).
 
 August | Bayesian phylogenetic linguistics, Class, MA/PhD,
 Max Planck Institute for the Science of Human History, _[SHH Summer School - A doorway to human history](https://summerschool.shh.mpg.de/)_, online.
