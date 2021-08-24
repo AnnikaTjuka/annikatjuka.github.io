@@ -172,7 +172,7 @@ Friedrich Schiller University Jena, online.
 August | [Introduction to Linguistic & Cultural Evolution](https://github.com/MPI-SHH-SummerSchool/dlce-material/blob/main/Introduction%20to%20Linguistic%20%26%20Cultural%20Evolution/slides-Intro-LinguisticAndCulturalEvolution.pdf), Lecture, MA/PhD,
 Max Planck Institute for the Science of Human History, _[SHH Summer School - A doorway to human history](https://summerschool.shh.mpg.de/)_, online. Video available [here](https://youtu.be/pAb9vXQZsNE).
 
-August | Bayesian phylogenetic linguistics, Class, MA/PhD,
+August | [Bayesian phylogenetic linguistics](https://github.com/MPI-SHH-SummerSchool/dlce-material/blob/main/Bayesian%20Phylogenetic%20Linguistics/slides-BayesianPhylogeneticLinguistics.pdf), Class, MA/PhD,
 Max Planck Institute for the Science of Human History, _[SHH Summer School - A doorway to human history](https://summerschool.shh.mpg.de/)_, online.
 
 Summer Semester 2021 | _Words and their meanings across languages_, Seminar, BA, 
