@@ -6,7 +6,9 @@ _"A curious mind is limitless."_ <br/><br/><br/>
 
 ## News
 
-+++ The recording of my lecture on "Linguistic and Cultural Evolution" is available on [YouTube](https://youtu.be/pAb9vXQZsNE). ++++
++++ The recording of my lecture on "Linguistic and Cultural Evolution" is available on [YouTube](https://youtu.be/pAb9vXQZsNE). +++
+
++++ The recording of our class on "Bayesian Phylogenetic Linguistics" taught together with Nataliia Hübler and Olena Shcherbakova is available on [YouTube](https://youtu.be/KOZDaFM_MnY). +++
 
 +++ Our article introducing the Database of Cross-Linguistic Norms, Ratings, and Relations for Words and Concepts was published in Behavior Research Methods! The full article is avalable [here](https://doi.org/10.3758/s13428-021-01650-1). +++
 
@@ -173,7 +175,7 @@ August | [Introduction to Linguistic & Cultural Evolution](https://github.com/MP
 Max Planck Institute for the Science of Human History, _[SHH Summer School - A doorway to human history](https://summerschool.shh.mpg.de/)_, online. Video available [here](https://youtu.be/pAb9vXQZsNE).
 
 August | [Bayesian phylogenetic linguistics](https://github.com/MPI-SHH-SummerSchool/dlce-material/blob/main/Bayesian%20Phylogenetic%20Linguistics/slides-BayesianPhylogeneticLinguistics.pdf), Class, MA/PhD,
-Max Planck Institute for the Science of Human History, _[SHH Summer School - A doorway to human history](https://summerschool.shh.mpg.de/)_, online.
+Max Planck Institute for the Science of Human History, _[SHH Summer School - A doorway to human history](https://summerschool.shh.mpg.de/)_, online. Video available [here](https://youtu.be/KOZDaFM_MnY).
 
 Summer Semester 2021 | _Words and their meanings across languages_, Seminar, BA, 
 Friedrich Schiller University Jena, online. Syllabus available [here](https://annikatjuka.notion.site/Syllabus-35ec90dab75f4770bc6ead65d9a871f2).
