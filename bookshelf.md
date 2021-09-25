@@ -8,6 +8,10 @@ I've noticed that many people are curious about bookshelves. I'm no exception. T
 - [Linguistic Theory](#linguistic-theory)
 - [Theoretical Works](#theoretical-works)
 - [Science as an Adventure](#science-as-an-adventure)
+- [Communication](#communication)
+- [Teaching and Training](#teaching-and-training)
+- [For Students and Researchers](#for-students-and-researchers)
+- [Inspiring Biographies](#inspiring-biographies)
 
 ## Language and Mind
 
@@ -51,7 +55,7 @@ I've noticed that many people are curious about bookshelves. I'm no exception. T
 | [<img src="bookshelf/SchulzvonThun1981b.jpg" width="200" height="270">](https://www.schulz-von-thun.de/veroeffentlichungen/miteinander-reden) | [<img src="bookshelf/SchulzvonThun1981a.jpg" width="200" height="270">](https://www.schulz-von-thun.de/veroeffentlichungen/miteinander-reden) | [<img src="bookshelf/watzlawick1978.jpg" width="200" height="270">](https://g.co/kgs/ix7kXv) |
 
 
-## Teaching & Training
+## Teaching and Training
 
 | | |
 |---|---|
