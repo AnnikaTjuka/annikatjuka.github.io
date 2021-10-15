@@ -66,15 +66,15 @@ I've noticed that many people are curious about bookshelves. I'm no exception. T
 
 | | | |
 |---|---|---|
-| [<img src="bookshelf/Cairo2016.jpeg" width="200" height="270"/>](https://g.co/kgs/DEuz58) | [<img src="bookshelf/Graff2018.jpg" width="200" height="270">](https://g.co/kgs/DsnUve) | |
+| [<img src="bookshelf/bakewell2010.jpg" width="200" height="270"/>](https://g.co/kgs/DEuz58) | [<img src="bookshelf/Graff2018.jpg" width="200" height="270">](https://g.co/kgs/DsnUve) | |
 | [<img src="bookshelf/Belcher2019.jpeg" width="200" height="270">](https://g.co/kgs/bkH93p) | [<img src="bookshelf/Weston2017.jpg" width="200" height="270">](https://g.co/kgs/LQWcQW) | [<img src="bookshelf/Ahrens2017.jpg" width="200" height="270">](https://g.co/kgs/gd1fka) | 
 
 
-## Inspiring Biographies
+## Biographies
 
 | | | |
 |---|---|---|
-| [<img src="bookshelf/obama2020.jpg" width="200" height="270">](https://g.co/kgs/QjYqSJ) | | |
+| [<img src="bookshelf/obama2020.jpg" width="200" height="270">](https://g.co/kgs/qhiuLq) | [<img src="bookshelf/obama2020.jpg" width="200" height="270">](https://g.co/kgs/QjYqSJ) | |
 | [<img src="bookshelf/goodall2000.jpg" width="200" height="270">](https://g.co/kgs/dYRQd1) | [<img src="bookshelf/obama2018.jpeg" width="200" height="270">](https://g.co/kgs/1f2bPB) | [<img src="bookshelf/noah2016.jpeg" width="200" height="270">](https://g.co/kgs/oA5p9n) | 
 
 
