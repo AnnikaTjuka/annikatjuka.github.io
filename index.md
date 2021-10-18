@@ -168,19 +168,19 @@ April. _[Similarity as the basis for meaning extensions.](/slides/tjuka2020_simi
 
 ## Teaching
 
-Winter Semester 2021/22 | _Same same but different: Semantic relations in language and thought_, Seminar, BA, 
-Friedrich Schiller University Jena, online.
+Winter Semester 2021/22 | _Same same but different: Semantic relations in language and thought_, Seminar, Bachelor's students, Department of English Studies, 
+Friedrich Schiller University Jena, online. Syllabus available [here](https://annikatjuka.notion.site/Syllabus-ce3997d2d32343e89e7e0f7673666928)
 
-August | [Introduction to Linguistic & Cultural Evolution](https://github.com/MPI-SHH-SummerSchool/dlce-material/blob/main/Introduction%20to%20Linguistic%20%26%20Cultural%20Evolution/slides-Intro-LinguisticAndCulturalEvolution.pdf), Lecture, MA/PhD,
+August | [Introduction to Linguistic & Cultural Evolution](https://github.com/MPI-SHH-SummerSchool/dlce-material/blob/main/Introduction%20to%20Linguistic%20%26%20Cultural%20Evolution/slides-Intro-LinguisticAndCulturalEvolution.pdf), Lecture, Master's and PhD students,
 Max Planck Institute for the Science of Human History, _[SHH Summer School - A doorway to human history](https://summerschool.shh.mpg.de/)_, online. Video available [here](https://youtu.be/pAb9vXQZsNE).
 
-August | [Bayesian phylogenetic linguistics](https://github.com/MPI-SHH-SummerSchool/dlce-material/blob/main/Bayesian%20Phylogenetic%20Linguistics/slides-BayesianPhylogeneticLinguistics.pdf), Class, MA/PhD,
+August | [Bayesian phylogenetic linguistics](https://github.com/MPI-SHH-SummerSchool/dlce-material/blob/main/Bayesian%20Phylogenetic%20Linguistics/slides-BayesianPhylogeneticLinguistics.pdf), Class, Master's and PhD students,
 Max Planck Institute for the Science of Human History, _[SHH Summer School - A doorway to human history](https://summerschool.shh.mpg.de/)_, online. Video available [here](https://youtu.be/KOZDaFM_MnY).
 
-Summer Semester 2021 | _Words and their meanings across languages_, Seminar, BA, 
+Summer Semester 2021 | Words and their meanings across languages, Seminar, Bachelor's students, Department of English Studies, 
 Friedrich Schiller University Jena, online. Syllabus available [here](https://annikatjuka.notion.site/Syllabus-35ec90dab75f4770bc6ead65d9a871f2).
 
-Winter Semester 2020/21 | _The mental lexicon from a cross-linguistic perspective_, Seminar, BA, 
+Winter Semester 2020/21 | _The mental lexicon from a cross-linguistic perspective_, Seminar, Bachelor's students, Department of English Studies, 
 Friedrich Schiller University Jena, online. Syllabus available [here](https://annikatjuka.notion.site/Syllabus-812dc77904e849059d4639d484eecd88). <br/><br/><br/>
 
 
