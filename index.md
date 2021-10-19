@@ -6,9 +6,9 @@ _"A curious mind is limitless."_ <br/><br/><br/>
 
 ## News
 
-+++ The recording of my lecture on "Linguistic and Cultural Evolution" is available on [YouTube](https://youtu.be/pAb9vXQZsNE). +++
++++ I will present my talk on "Patterns of body~object colexifications across languages" at the Emerging Topics in Typology workshop series (between 25th October and 22nd November). [Registration](https://elomake.helsinki.fi/lomakkeet/114007/lomake.html) is free of charge. +++
 
-+++ The recording of our class on "Bayesian Phylogenetic Linguistics" taught together with Nataliia Hübler and Olena Shcherbakova is available on [YouTube](https://youtu.be/KOZDaFM_MnY). +++
++++ The recording of my lecture on "Linguistic and Cultural Evolution" is available on [YouTube](https://youtu.be/pAb9vXQZsNE). +++
 
 +++ Our article introducing the Database of Cross-Linguistic Norms, Ratings, and Relations for Words and Concepts was published in Behavior Research Methods! The full article is avalable [here](https://doi.org/10.3758/s13428-021-01650-1). +++
 
