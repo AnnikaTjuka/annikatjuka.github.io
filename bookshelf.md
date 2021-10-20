@@ -57,9 +57,9 @@ I've noticed that many people are curious about bookshelves. I'm no exception. T
 
 ## Teaching and Training
 
-| | |
-|---|---|
-| [<img src="bookshelf/darby2019.jpeg" width="200" height="270">](https://g.co/kgs/7J6Rqh) | [<img src="bookshelf/HBR2019.jpg" width="200" height="270">](https://g.co/kgs/CfxGNz) |
+| | | |
+|---|---|---|
+|[<img src="bookshelf/Mollett2017.jpeg" width="200" height="270">](https://g.co/kgs/yanvzH)| [<img src="bookshelf/darby2019.jpeg" width="200" height="270">](https://g.co/kgs/7J6Rqh) | [<img src="bookshelf/HBR2019.jpg" width="200" height="270">](https://g.co/kgs/CfxGNz) |
 
 
 ## For Students and Researchers
