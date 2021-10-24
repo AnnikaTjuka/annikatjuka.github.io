@@ -6,7 +6,7 @@ _"A curious mind is limitless."_ <br/><br/><br/>
 
 ## News
 
-+++ I will present my talk on "Patterns of body~object colexifications across languages" at the Emerging Topics in Typology workshop series (between 25th October and 22nd November). [Registration](https://elomake.helsinki.fi/lomakkeet/114007/lomake.html) is free of charge. +++
++++ I will present my talk on "Patterns of body~object colexifications across languages" at the Emerging Topics in Typology workshop series (between 25th October and 22nd November). [Registration](https://elomake.helsinki.fi/lomakkeet/114007/lomake.html) is free of charge. My slides are available [here](/slides/tjuka2021_body-object-colexification_ETT.pdf).+++
 
 +++ The recording of my lecture on "Linguistic and Cultural Evolution" is available on [YouTube](https://youtu.be/pAb9vXQZsNE). +++
 
