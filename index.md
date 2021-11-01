@@ -97,21 +97,21 @@ Tjuka, Annika, Lena Weißmann, and Kilu von Prince (2019). [Habitual aspect as a
 
 **Blog posts**
 
-Tjuka, Annika. "A list of color, emotion, and human body part concepts," in Computer-Assisted Language Comparison in Practice, 01/11/2021, [https://calc.hypotheses.org/3023](https://calc.hypotheses.org/3023).
+Tjuka, Annika. "A list of color, emotion, and human body part concepts," in_ Computer-Assisted Language Comparison in Practice_, 01/11/2021, [https://calc.hypotheses.org/3023](https://calc.hypotheses.org/3023).
 
-Tjuka, Annika. "Adding data sets to NoRaRe: A guide for beginners," in Computer-Assisted Language Comparison in Practice, 11/08/2021, [https://calc.hypotheses.org/2890](https://calc.hypotheses.org/2890).
+Tjuka, Annika. "Adding data sets to NoRaRe: A guide for beginners," in _Computer-Assisted Language Comparison in Practice_, 11/08/2021, [https://calc.hypotheses.org/2890](https://calc.hypotheses.org/2890).
 
-Tjuka, Annika. "A multilingual body part concept list," in Computer-Assisted Language Comparison in Practice, 14/06/2021, [https://calc.hypotheses.org/2788](https://calc.hypotheses.org/2788).
+Tjuka, Annika. "A multilingual body part concept list," in _Computer-Assisted Language Comparison in Practice_, 14/06/2021, [https://calc.hypotheses.org/2788](https://calc.hypotheses.org/2788).
 
-Tjuka, Annika. "How to review concept lists in collaboration (How to do X in linguistics 6)," in Computer-Assisted Language Comparison in Practice, 15/03/2021, [https://calc.hypotheses.org/2680](https://calc.hypotheses.org/2680).
+Tjuka, Annika. "How to review concept lists in collaboration (How to do X in linguistics 6)," in _Computer-Assisted Language Comparison in Practice_, 15/03/2021, [https://calc.hypotheses.org/2680](https://calc.hypotheses.org/2680).
 
-Tjuka, Annika. "How to organize a virtual journal club (How to do X in linguistics 4)," in Computer-Assisted Language Comparison in Practice, 20/01/2021, [https://calc.hypotheses.org/2613](https://calc.hypotheses.org/2613).
+Tjuka, Annika. "How to organize a virtual journal club (How to do X in linguistics 4)," in _Computer-Assisted Language Comparison in Practice_, 20/01/2021, [https://calc.hypotheses.org/2613](https://calc.hypotheses.org/2613).
 
-Tjuka, Annika. "Possibilities of digital communication in linguistics (How to do X in linguistics 2)," in Computer-Assisted Language Comparison in Practice, 07/12/2020, [https://calc.hypotheses.org/2556](https://calc.hypotheses.org/2556).
+Tjuka, Annika. "Possibilities of digital communication in linguistics (How to do X in linguistics 2)," in _Computer-Assisted Language Comparison in Practice_, 07/12/2020, [https://calc.hypotheses.org/2556](https://calc.hypotheses.org/2556).
 
-Tjuka, Annika. "A list of 171 body part concepts," in Computer-Assisted Language Comparison in Practice, 28/09/2020, [https://calc.hypotheses.org/2512](https://calc.hypotheses.org/2512).
+Tjuka, Annika. "A list of 171 body part concepts," in _Computer-Assisted Language Comparison in Practice_, 28/09/2020, [https://calc.hypotheses.org/2512](https://calc.hypotheses.org/2512).
 
-Tjuka, Annika. "Adding concept lists to Concepticon: A guide for beginners," in Computer-Assisted Language Comparison in Practice, 29/01/2020, [https://calc.hypotheses.org/2225](https://calc.hypotheses.org/2225). <br/><br/><br/>
+Tjuka, Annika. "Adding concept lists to Concepticon: A guide for beginners," in _Computer-Assisted Language Comparison in Practice_, 29/01/2020, [https://calc.hypotheses.org/2225](https://calc.hypotheses.org/2225). <br/><br/><br/>
 
 
 ## Selected Talks
