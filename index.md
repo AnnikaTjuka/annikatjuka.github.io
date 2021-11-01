@@ -6,6 +6,8 @@ _"A curious mind is limitless."_ <br/><br/><br/>
 
 ## News
 
++++ My blog post introducing a list of color, emotion, and human body part concepts was published [here](https://calc.hypotheses.org/3023). ++++
+
 +++ I presented my talk on "Patterns of body~object colexifications across languages" at the Emerging Topics in Typology conference. My slides are available [here](/slides/tjuka2021_body-object-colexification_ETT.pdf).+++
 
 +++ The recording of my lecture on "Linguistic and Cultural Evolution" is available on [YouTube](https://youtu.be/pAb9vXQZsNE). +++
@@ -94,6 +96,8 @@ Tjuka, Annika, Lena Weißmann, and Kilu von Prince (2019). [Tagging modality in 
 Tjuka, Annika, Lena Weißmann, and Kilu von Prince (2019). [Habitual aspect as a property of text spans](/papers/tjuka2019_LTC_habitual_aspect.pdf). In Z. Vetulani and P. Paroubek (Eds.), _Human language technologies as a challenge for computer science and linguistics. Proceedings of 9<sup>th</sup> Language & Technology Conference_ (pp. 195-199). Poznań: Wydawnictwo Nauka i Innowacje.
 
 **Blog posts**
+
+Tjuka, Annika. "A list of color, emotion, and human body part concepts," in Computer-Assisted Language Comparison in Practice, 01/11/2021, [https://calc.hypotheses.org/3023](https://calc.hypotheses.org/3023).
 
 Tjuka, Annika. "Adding data sets to NoRaRe: A guide for beginners," in Computer-Assisted Language Comparison in Practice, 11/08/2021, [https://calc.hypotheses.org/2890](https://calc.hypotheses.org/2890).
 
