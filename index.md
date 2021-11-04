@@ -40,15 +40,15 @@ I’m a linguist and currently working as a doctoral researcher at the MPI for t
 
 in progress | Ph.D. in Linguistics at International Max Planck Research School for the Science of Human History (IMPRS-SHH) and Friedrich-Schiller-Universität Jena <br/>
 Dissertation (_working title_): Language variation in word meanings: Cross-linguistic patterns and causes of colexifications <br/>
-Supervisors: PD Dr. Johann-Mattis List and Prof. Dr. Stephen C. Levinson
+Supervisors: Johann-Mattis List and Stephen C. Levinson
 
 2019 | Master of Arts in Linguistics at Humboldt-Universität zu Berlin <br/>
 Master's thesis: Body-part metaphors as a window to cognition: A cross-linguistic study of object and landscape terms <br/>
-Supervisors: Prof. Dr. Elisabeth Verhoeven and Dr. Kilu von Prince
+Supervisors: Elisabeth Verhoeven and Kilu von Prince
 
 2016 | Bachelor of Arts in German Linguistics and Scandinavian Studies at Humboldt-Universität zu Berlin <br/>
 Bachelor's thesis: Emotionalisation through texts <br/>
-Supervisors: Prof. Dr. Katharina Spalek and Prof. Dr. Manfred Krifka
+Supervisors: Katharina Spalek and Manfred Krifka
 
 
 **Academic Positions**
