@@ -6,9 +6,7 @@ _"A curious mind is limitless."_ <br/><br/><br/>
 
 ## News
 
-+++ My blog post introducing a list of color, emotion, and human body part concepts was published [here](https://calc.hypotheses.org/3023). ++++
-
-+++ I presented my talk on "Patterns of body~object colexifications across languages" at the Emerging Topics in Typology conference. My slides are available [here](/slides/tjuka2021_body-object-colexification_ETT.pdf).+++
++++ I will give an online presentation introducing the NoRaRe database and a case study on ratings for arousal and valence at _[The Words in the World (WoW) International Conference](https://wordsintheworld.ca/wow-conference/)_ +++
 
 +++ The recording of my lecture on "Linguistic and Cultural Evolution" is available on [YouTube](https://youtu.be/pAb9vXQZsNE). +++
 
@@ -119,6 +117,8 @@ Tjuka, Annika. "Adding concept lists to Concepticon: A guide for beginners," in 
 Some of my talks are available on [YouTube](https://www.youtube.com/channel/UCTwJm5tJzG7TX4sma-5qnBw).
 
 **2021**
+
+October. _[Patterns of body~object colexifications across languages](/slides/tjuka2021_body-object-colexification_ETT.pdf)_. Emerging Topics in Typology conference, University of Helsinki, Finland, online.
 
 July. _[Norms, Ratings, and Relations for multiple languages](https://pad.gwdg.de/s/rU284KqaY)_. Meeting of the Department of Linguistic and Cultural Evolution, Max Planck Institute for the Science of Human History, online.
 
