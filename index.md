@@ -32,7 +32,7 @@ I’m a linguist and currently working as a doctoral researcher at the MPI for t
 [Twitter](https://twitter.com/AnnikaTjuka) 
 
 
-## Curriculum Vitae
+## Curriculum Vitae ([.pdf](CV_tjuka.pdf))
 
 **Academic Degrees**
 
