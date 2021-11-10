@@ -6,7 +6,7 @@ _"A curious mind is limitless."_ <br/><br/><br/>
 
 ## News
 
-+++ I will give an online presentation introducing the NoRaRe database and a case study on ratings for arousal and valence at _[The Words in the World (WoW) International Conference](https://wordsintheworld.ca/wow-conference/)_ +++
++++ Myself, Robert Forkel, and Johann-Mattis List will give an online presentation introducing the NoRaRe database and a case study on ratings for arousal and valence at _[The Words in the World (WoW) International Conference](https://wordsintheworld.ca/wow-conference/)_ +++
 
 +++ The recording of my lecture on "Linguistic and Cultural Evolution" is available on [YouTube](https://youtu.be/pAb9vXQZsNE). +++
 
