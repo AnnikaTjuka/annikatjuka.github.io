@@ -25,6 +25,7 @@ I've noticed that many people are curious about bookshelves. I'm no exception. T
 
 | | | |
 |---|---|---|
+| [<img src="bookshelf/Saussure1893.jpeg" width="200" height="270"/>](https://g.co/kgs/baq4aq) | | |
 | [<img src="bookshelf/Frege1892.jpeg" width="200" height="270"/>](https://de.wikipedia.org/wiki/%C3%9Cber_Sinn_und_Bedeutung) | [<img src="bookshelf/pustejovsky1995.jpeg" width="200" height="270"/>](https://g.co/kgs/rgUZRf) | [<img src="bookshelf/Sweetser1990.jpeg" width="200" height="270">](https://g.co/kgs/HNqYxy) |
 | [<img src="bookshelf/geeraerts2010.jpg" alt="Sublime's custom image" width="200" height="270">](https://g.co/kgs/fLwXcy) | [<img src="bookshelf/joseph2001.jpg" width="200" height="270">](https://g.co/kgs/v7VcUY) | [<img src="bookshelf/austin1962.jpeg" width="200" height="270">](https://g.co/kgs/BJ8S5T) |
 
