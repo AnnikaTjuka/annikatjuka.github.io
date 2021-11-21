@@ -95,7 +95,7 @@ Tjuka, Annika, Lena Weißmann, and Kilu von Prince (2019). [Habitual aspect as a
 
 **Blog posts**
 
-Tjuka, Annika. "A list of color, emotion, and human body part concepts," in_ Computer-Assisted Language Comparison in Practice_, 01/11/2021, [https://calc.hypotheses.org/3023](https://calc.hypotheses.org/3023).
+Tjuka, Annika. "A list of color, emotion, and human body part concepts," in _Computer-Assisted Language Comparison in Practice_, 01/11/2021, [https://calc.hypotheses.org/3023](https://calc.hypotheses.org/3023).
 
 Tjuka, Annika. "Adding data sets to NoRaRe: A guide for beginners," in _Computer-Assisted Language Comparison in Practice_, 11/08/2021, [https://calc.hypotheses.org/2890](https://calc.hypotheses.org/2890).
 
