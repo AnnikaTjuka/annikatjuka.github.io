@@ -3,7 +3,15 @@ _"A curious mind is limitless."_ <br/><br/><br/>
 
 # Annika Tjuka, Linguist <br/><br/>
 
-[News](#news) | [About me](#about-me) | [Curriculum Vitae](#curriculum-vitae) | [Publications](#publications) | [Selected Talks](#selected-talks) | [Projects](#projects) | [Teaching](#teaching) | [Outreach Activities](#outreach-activities) | [Inspiration](#inspiration)
+- [News](#news) 
+- [About me](#about-me) 
+- [Curriculum Vitae](#curriculum-vitae)
+- [Publications](#publications) 
+- [Selected Talks](#selected-talks) 
+- [Projects](#projects) 
+- [Teaching](#teaching) 
+- [Outreach Activities](#outreach-activities) 
+- [Inspiration](#inspiration)
 
 ## News
 
