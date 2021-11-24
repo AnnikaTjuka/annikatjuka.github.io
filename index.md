@@ -6,6 +6,8 @@ _"A curious mind is limitless."_ <br/><br/><br/>
 
 ## News
 
++++ New blog post on how to compare NoRaRe data sets available here: [https://calc.hypotheses.org/3109](https://calc.hypotheses.org/3109) +++
+
 +++ Myself, Robert Forkel, and Johann-Mattis List will give an online presentation introducing the NoRaRe database and a case study on ratings for arousal and valence at _[The Words in the World (WoW) International Conference](https://wordsintheworld.ca/wow-conference/)_ +++
 
 +++ The recording of my lecture on "Linguistic and Cultural Evolution" is available on [YouTube](https://youtu.be/pAb9vXQZsNE). +++
@@ -94,6 +96,8 @@ Tjuka, Annika, Lena Weißmann, and Kilu von Prince (2019). [Tagging modality in 
 Tjuka, Annika, Lena Weißmann, and Kilu von Prince (2019). [Habitual aspect as a property of text spans](/papers/tjuka2019_LTC_habitual_aspect.pdf). In Z. Vetulani and P. Paroubek (Eds.), _Human language technologies as a challenge for computer science and linguistics. Proceedings of 9<sup>th</sup> Language & Technology Conference_ (pp. 195-199). Poznań: Wydawnictwo Nauka i Innowacje.
 
 **Blog posts**
+
+Tjuka, Annika. "Comparing NoRaRe data sets: Calculation of correlations and creation of plots in R," in _Computer-Assisted Language Comparison in Practice_, 24/11/2021, [https://calc.hypotheses.org/3109](https://calc.hypotheses.org/3109).
 
 Tjuka, Annika. "A list of color, emotion, and human body part concepts," in _Computer-Assisted Language Comparison in Practice_, 01/11/2021, [https://calc.hypotheses.org/3023](https://calc.hypotheses.org/3023).
 
