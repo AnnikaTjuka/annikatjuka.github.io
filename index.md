@@ -3,6 +3,7 @@ _"A curious mind is limitless."_ <br/><br/><br/>
 
 # Annika Tjuka, Linguist <br/><br/>
 
+[News](#news) | [About me](#about-me) | [Curriculum Vitae](#curriculum-vitae) | [Publications](#publications) | [Selected Talks](#selected-talks) | [Projects](#projects) | [Teaching](#teaching) | [Outreach Activities](#outreach-activities) | [Inspiration](#inspiration)
 
 ## News
 
@@ -34,7 +35,9 @@ I’m a linguist and currently working as a doctoral researcher at the MPI for t
 [Twitter](https://twitter.com/AnnikaTjuka) 
 
 
-## Curriculum Vitae ([.pdf](CV_tjuka.pdf))
+## Curriculum Vitae 
+
+[View full pdf](CV_tjuka.pdf)
 
 **Academic Degrees**
 
@@ -66,9 +69,7 @@ funded by DFG.
 funded by ERC.
 
 2018 | Internship and student research assistant at Max Planck Institute for 
-Human Cognitive and Brain Sciences, Leipzig.
-
-[View full CV](CV_tjuka.pdf) <br/><br/><br/>
+Human Cognitive and Brain Sciences, Leipzig. <br/><br/><br/>
 
 
 ## Publications
@@ -142,13 +143,15 @@ April. _[Similarity as the basis for meaning extensions.](/slides/tjuka2020_simi
 
 [View full CV for a complete list](CV_tjuka.pdf) <br/><br/><br/>
 
-## Master's Thesis
+## Projects
+
+**Master's Thesis**
 
 <img src="projects/tableleg.png" width="150" height="100"> 
 
-[Body-part metaphors as a window to cognition: A cross-linguistic study of object and landscape terms](ma-thesis.md) <br/><br/><br/>
+[Body-part metaphors as a window to cognition: A cross-linguistic study of object and landscape terms](ma-thesis.md)
 
-## Project Affiliation
+**Affiliation**
 
 <img src="projects/calc.jpeg" width="150" height="100"> 
 
@@ -160,10 +163,9 @@ April. _[Similarity as the basis for meaning extensions.](/slides/tjuka2020_simi
 
 <img src="projects/melatamp.png" width="150" height="100"> 
 
-[MelaTAMP](https://www.projekte.hu-berlin.de/en/melatamp) <br/><br/><br/>
+[MelaTAMP](https://www.projekte.hu-berlin.de/en/melatamp)
 
-
-## Databases
+**Databases**
 
 <img src="projects/logo-norare.png" width="150" height="80"> 
 
@@ -171,7 +173,16 @@ April. _[Similarity as the basis for meaning extensions.](/slides/tjuka2020_simi
 
 <img src="projects/logo-concepticon.png" width="150" height="100"> 
 
-[Concepticon. A Resource for the Linking of Concept Lists.](https://concepticon.clld.org/) <br/><br/><br/>
+[Concepticon. A Resource for the Linking of Concept Lists.](https://concepticon.clld.org/) 
+
+**Organization**
+
+2021 | Organizing committee of the _[SHH Summer School - A doorway to human history](https://summerschool.shh.mpg.de/)_ 
+Max Planck Institute for the Science of Human History, online.
+
+2019-2020 | Main coordinator of the DLCE departmental _Journal Club_ 
+Max Planck Institute for the Science of Human History, Jena/online.
+<br/><br/><br/>
 
 
 ## Teaching
@@ -192,16 +203,7 @@ Winter Semester 2020/21 | _The mental lexicon from a cross-linguistic perspectiv
 Friedrich Schiller University Jena, online. Syllabus available [here](https://annikatjuka.notion.site/Syllabus-812dc77904e849059d4639d484eecd88). <br/><br/><br/>
 
 
-## Organization
-
-2021 | Organizing committee of the _[SHH Summer School - A doorway to human history](https://summerschool.shh.mpg.de/)_ 
-Max Planck Institute for the Science of Human History, online.
-
-2019-2020 | Main coordinator of the DLCE departmental _Journal Club_ 
-Max Planck Institute for the Science of Human History, Jena/online. <br/><br/><br/>
-
-
-## Outreach activities
+## Outreach Activities
 
 **Tea with teachers**
 
