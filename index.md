@@ -17,7 +17,7 @@ _"A curious mind is limitless."_ <br/><br/><br/>
 
 +++ New blog post on how to compare NoRaRe data sets available here: [https://calc.hypotheses.org/3109](https://calc.hypotheses.org/3109) +++
 
-+++ Myself, Robert Forkel, and Johann-Mattis List will give an online presentation introducing the NoRaRe database and a case study on ratings for arousal and valence at _[The Words in the World (WoW) International Conference](https://wordsintheworld.ca/wow-conference/)_ +++
++++ Myself, Robert Forkel, and Johann-Mattis List will give an online presentation introducing the NoRaRe database and a case study on ratings for arousal and valence at _[The Words in the World (WoW) International Conference](https://wordsintheworld.ca/wow-conference/)_. Presentation notes are available [here](https://pad.gwdg.de/s/KLgI9TLrP). +++
 
 +++ The recording of my lecture on "Linguistic and Cultural Evolution" is available on [YouTube](https://youtu.be/pAb9vXQZsNE). +++
 
@@ -131,6 +131,8 @@ Some of my talks are available on [YouTube](https://www.youtube.com/channel/UCTw
 
 **2021**
 
+November. _[Comparing word properties across languages: A case study on ratings for arousal and valence](https://pad.gwdg.de/s/KLgI9TLrP)_. 2<sup>nd</sup> Words in the World ([WoW](http://wordsintheworld.ca/wow-conference-2020/)) International Conference, Canada, online.
+
 October. _[Patterns of body~object colexifications across languages](/slides/tjuka2021_body-object-colexification_ETT.pdf)_. Emerging Topics in Typology conference, University of Helsinki, Finland, online.
 
 July. _[Norms, Ratings, and Relations for multiple languages](https://pad.gwdg.de/s/rU284KqaY)_. Meeting of the Department of Linguistic and Cultural Evolution, Max Planck Institute for the Science of Human History, online.
@@ -143,7 +145,7 @@ May. _[Meanings of body part terms: Cross-linguistic colexifications between bod
 
 December. _[General patterns and language variation: Word frequencies across English, German, and Chinese](/slides/tjuka2020_frequencies_CogALex.pdf)_. 6<sup>th</sup> Cognitive Aspects of the Lexicon Workshop ([CogALex](https://sites.google.com/view/cogalex-2020/home)) at COLING 2020, online. Video available [here](https://youtu.be/AMqc9b4pY4g).
 
-October. _[The eye/ear of the needle – Cross-linguistic differences in body part extensions.](/slides/tjuka2020_body_object_colexifications_WoW.pdf)_ 1<sup>st</sup> Words in the World ([WoW](http://wordsintheworld.ca/wow-conference-2020/)) International Conference, online. Video available [here](https://youtu.be/ldQKwfyImYU).
+October. _[The eye/ear of the needle – Cross-linguistic differences in body part extensions.](/slides/tjuka2020_body_object_colexifications_WoW.pdf)_ 1<sup>st</sup> Words in the World ([WoW](http://wordsintheworld.ca/wow-conference-2020/)) International Conference, Canada, online. Video available [here](https://youtu.be/ldQKwfyImYU).
 
 September. _[Defining the obvious: How to measure similarity?](/slides/tjuka2020_similarity_STaPs.pdf)_ 16<sup>th</sup> Sprachwissenschaftliche Tagung für Promotionsstudierende, online.
 
