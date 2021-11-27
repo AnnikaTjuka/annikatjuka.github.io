@@ -131,7 +131,7 @@ Some of my talks are available on [YouTube](https://www.youtube.com/channel/UCTw
 
 **2021**
 
-November. _[Comparing word properties across languages: A case study on ratings for arousal and valence](https://pad.gwdg.de/s/KLgI9TLrP)_. 2<sup>nd</sup> Words in the World ([WoW](http://wordsintheworld.ca/wow-conference-2020/)) International Conference, Canada, online.
+November. _[Comparing word properties across languages: A case study on ratings for arousal and valence](https://pad.gwdg.de/s/KLgI9TLrP)_. 2<sup>nd</sup> Words in the World ([WoW](http://wordsintheworld.ca/wow-conference-2020/)) International Conference, Canada, online. Video available [here](https://youtu.be/3yQj0Jtmszs).
 
 October. _[Patterns of body~object colexifications across languages](/slides/tjuka2021_body-object-colexification_ETT.pdf)_. Emerging Topics in Typology conference, University of Helsinki, Finland, online.
 
