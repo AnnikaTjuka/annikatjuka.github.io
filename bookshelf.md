@@ -8,9 +8,8 @@ I've noticed that many people are curious about bookshelves. I'm no exception. T
 - [Linguistic Theory](#linguistic-theory)
 - [Theoretical Works](#theoretical-works)
 - [Science as an Adventure](#science-as-an-adventure)
+- [Training for Research and Teaching](#training-for-research-and-teaching)
 - [Communication](#communication)
-- [Teaching and Training](#teaching-and-training)
-- [For Students and Researchers](#for-students-and-researchers)
 - [Biographies](#biographies)
 
 ## Language and Mind
@@ -46,6 +45,14 @@ I've noticed that many people are curious about bookshelves. I'm no exception. T
 | [<img src="bookshelf/goodall2000.jpg" width="200" height="270">](https://g.co/kgs/dYRQd1) | [<img src="bookshelf/krause2019.jpg" width="200" height="270">](https://www.ullstein-buchverlage.de/nc/buch/details/die-reise-unserer-gene-9783549100028.html) | [<img src="bookshelf/sacks1997.jpg" width="200" height="270">](https://g.co/kgs/U5JgkH) |
 | [<img src="bookshelf/sacks1989.jpg" width="200" height="270">](https://g.co/kgs/Bpb6Dy) | [<img src="bookshelf/tegmark2014.jpeg" width="200" height="270">](https://g.co/kgs/37WyMj) | [<img src="bookshelf/enders2014.jpg" width="200" height="270">](https://g.co/kgs/LvsV8K) |
 
+## Training for Research and Teaching
+
+| | | |
+|---|---|---|
+| [<img src="bookshelf/Thomson2016.jpeg" width="200" height="270">](https://g.co/kgs/B1ygSJ) | [<img src="bookshelf/Mollett2017.jpeg" width="200" height="270">](https://g.co/kgs/yanvzH) | [<img src="bookshelf/Cairo2016.jpeg" width="200" height="270"/>](https://g.co/kgs/DEuz58) |
+| [<img src="bookshelf/Graff2018.jpg" width="200" height="270">](https://g.co/kgs/DsnUve) | [<img src="bookshelf/Belcher2019.jpeg" width="200" height="270">](https://g.co/kgs/bkH93p) | [<img src="bookshelf/darby2019.jpeg" width="200" height="270">](https://g.co/kgs/7J6Rqh) |
+| [<img src="bookshelf/Weston2017.jpg" width="200" height="270">](https://g.co/kgs/LQWcQW) | [<img src="bookshelf/Ahrens2017.jpg" width="200" height="270">](https://g.co/kgs/gd1fka) | [<img src="bookshelf/HBR2019.jpg" width="200" height="270">](https://g.co/kgs/CfxGNz) |
+
 
 ## Communication
 
@@ -54,22 +61,6 @@ I've noticed that many people are curious about bookshelves. I'm no exception. T
 | [<img src="bookshelf/eurich2017.png" width="200" height="270">](https://g.co/kgs/zQ5F28) | | | 
 | [<img src="bookshelf/cain2011.jpg" width="200" height="270">](https://g.co/kgs/G7dkHE) | [<img src="bookshelf/SchulzvonThun1998.jpg" width="200" height="270">](https://www.schulz-von-thun.de/veroeffentlichungen/miteinander-reden) | [<img src="bookshelf/SchulzvonThun2007.jpg" width="200" height="270">](https://www.schulz-von-thun.de/veroeffentlichungen/miteinander-reden) |
 | [<img src="bookshelf/SchulzvonThun1981b.jpg" width="200" height="270">](https://www.schulz-von-thun.de/veroeffentlichungen/miteinander-reden) | [<img src="bookshelf/SchulzvonThun1981a.jpg" width="200" height="270">](https://www.schulz-von-thun.de/veroeffentlichungen/miteinander-reden) | [<img src="bookshelf/watzlawick1978.jpg" width="200" height="270">](https://g.co/kgs/ix7kXv) |
-
-
-## Teaching and Training
-
-| | | |
-|---|---|---|
-| [<img src="bookshelf/darby2019.jpeg" width="200" height="270">](https://g.co/kgs/7J6Rqh) | [<img src="bookshelf/HBR2019.jpg" width="200" height="270">](https://g.co/kgs/CfxGNz) |
-
-
-## For Students and Researchers
-
-| | | |
-|---|---|---|
-| [<img src="bookshelf/Mollett2017.jpeg" width="200" height="270">](https://g.co/kgs/yanvzH) | [<img src="bookshelf/Cairo2016.jpeg" width="200" height="270"/>](https://g.co/kgs/DEuz58) | [<img src="bookshelf/Graff2018.jpg" width="200" height="270">](https://g.co/kgs/DsnUve) |
-| [<img src="bookshelf/Belcher2019.jpeg" width="200" height="270">](https://g.co/kgs/bkH93p) | [<img src="bookshelf/Weston2017.jpg" width="200" height="270">](https://g.co/kgs/LQWcQW) | [<img src="bookshelf/Ahrens2017.jpg" width="200" height="270">](https://g.co/kgs/gd1fka) | 
-
 
 ## Biographies
 
