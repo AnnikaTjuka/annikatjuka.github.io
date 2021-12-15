@@ -10,7 +10,7 @@ I've noticed that many people are curious about bookshelves. I'm no exception. T
 - [Science as an Adventure](#science-as-an-adventure)
 - [Training for Research and Teaching](#training-for-research-and-teaching)
 - [Communication](#communication)
-- [Biographies](#biographies)
+- [Inspiration](#inspiration)
 
 ## Language and Mind
 
@@ -63,11 +63,11 @@ I've noticed that many people are curious about bookshelves. I'm no exception. T
 | [<img src="bookshelf/cain2011.jpg" width="200" height="270">](https://g.co/kgs/G7dkHE) | [<img src="bookshelf/SchulzvonThun1998.jpg" width="200" height="270">](https://www.schulz-von-thun.de/veroeffentlichungen/miteinander-reden) | [<img src="bookshelf/SchulzvonThun2007.jpg" width="200" height="270">](https://www.schulz-von-thun.de/veroeffentlichungen/miteinander-reden) |
 | [<img src="bookshelf/SchulzvonThun1981b.jpg" width="200" height="270">](https://www.schulz-von-thun.de/veroeffentlichungen/miteinander-reden) | [<img src="bookshelf/SchulzvonThun1981a.jpg" width="200" height="270">](https://www.schulz-von-thun.de/veroeffentlichungen/miteinander-reden) | [<img src="bookshelf/watzlawick1978.jpg" width="200" height="270">](https://g.co/kgs/ix7kXv) |
 
-## Biographies
+## Inspiration
 
 | | | |
 |---|---|---|
-| [<img src="bookshelf/bakewell2010.jpg" width="200" height="270">](https://g.co/kgs/qhiuLq) | [<img src="bookshelf/obama2020.jpg" width="200" height="270">](https://g.co/kgs/QjYqSJ) | |
+| [<img src="bookshelf/Woolf 1929.jpeg" width="200" height="270">](https://g.co/kgs/RKyKgN) | [<img src="bookshelf/bakewell2010.jpg" width="200" height="270">](https://g.co/kgs/qhiuLq) | [<img src="bookshelf/obama2020.jpg" width="200" height="270">](https://g.co/kgs/QjYqSJ) |
 | [<img src="bookshelf/goodall2000.jpg" width="200" height="270">](https://g.co/kgs/dYRQd1) | [<img src="bookshelf/obama2018.jpeg" width="200" height="270">](https://g.co/kgs/1f2bPB) | [<img src="bookshelf/noah2016.jpeg" width="200" height="270">](https://g.co/kgs/oA5p9n) | 
 
 
