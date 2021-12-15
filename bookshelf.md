@@ -67,7 +67,7 @@ I've noticed that many people are curious about bookshelves. I'm no exception. T
 
 | | | |
 |---|---|---|
-| [<img src="bookshelf/Woolf 1929.jpeg" width="200" height="270">](https://g.co/kgs/RKyKgN) | [<img src="bookshelf/bakewell2010.jpg" width="200" height="270">](https://g.co/kgs/qhiuLq) | [<img src="bookshelf/obama2020.jpg" width="200" height="270">](https://g.co/kgs/QjYqSJ) |
+| [<img src="bookshelf/Woolf1929.jpeg" width="200" height="270">](https://g.co/kgs/RKyKgN) | [<img src="bookshelf/bakewell2010.jpg" width="200" height="270">](https://g.co/kgs/qhiuLq) | [<img src="bookshelf/obama2020.jpg" width="200" height="270">](https://g.co/kgs/QjYqSJ) |
 | [<img src="bookshelf/goodall2000.jpg" width="200" height="270">](https://g.co/kgs/dYRQd1) | [<img src="bookshelf/obama2018.jpeg" width="200" height="270">](https://g.co/kgs/1f2bPB) | [<img src="bookshelf/noah2016.jpeg" width="200" height="270">](https://g.co/kgs/oA5p9n) | 
 
 
