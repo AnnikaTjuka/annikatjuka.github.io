@@ -38,7 +38,7 @@ I've noticed that many people are curious about bookshelves. I'm no exception. T
 
 | | | |
 |---|---|---|
-| [<img src="bookshelf/Criado-Perez 2019.jpeg" width="200" height="270"/>](https://g.co/kgs/YDe2ke) | [<img src="bookshelf/Mitchell2009.jpeg" width="200" height="270"/>](https://g.co/kgs/KZCjYM) | |
+| [<img src="bookshelf/Pullum2018.jpeg" width="200" height="270"/>](https://g.co/kgs/rQf5go) | [<img src="bookshelf/Criado-Perez 2019.jpeg" width="200" height="270"/>](https://g.co/kgs/YDe2ke) | [<img src="bookshelf/Mitchell2009.jpeg" width="200" height="270"/>](https://g.co/kgs/KZCjYM) |
 | [<img src="bookshelf/Pearl2019.jpeg" width="200" height="270"/>](https://g.co/kgs/ijy3W2) | [<img src="bookshelf/Spiegelhalter2019.jpeg" alt="Your image title" width="200" height="270"/>](https://g.co/kgs/9qPyCL) | [<img src="bookshelf/kuhn1962.jpeg" alt="Your image title" width="200" height="270"/>](https://g.co/kgs/3YsznE) |
 | [<img src="bookshelf/Rosling2018.jpg" alt="Your image title" width="200" height="270"/>](https://g.co/kgs/AQdmWN) | [<img src="bookshelf/evans2009.jpeg" alt="Your image title" width="200" height="270"/>](https://g.co/kgs/FQZM2N) | [<img src="bookshelf/feynman1992.jpg" width="200" height="270">](https://g.co/kgs/V3F4xp) | 
 | [<img src="bookshelf/McGonigal2012.jpeg" width="200" height="270">](https://g.co/kgs/YUuSKp) | [<img src="bookshelf/slaughter2017.jpg" width="200" height="270">](https://g.co/kgs/5KYjsw) | [<img src="bookshelf/deutscher2010.jpg" width="200" height="270">](https://g.co/kgs/GiMA4H) |
