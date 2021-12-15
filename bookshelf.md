@@ -49,6 +49,7 @@ I've noticed that many people are curious about bookshelves. I'm no exception. T
 
 | | | |
 |---|---|---|
+| [<img src="bookshelf/Booth2016.jpeg" width="200" height="270">](https://g.co/kgs/Vj4vP8) | | |
 | [<img src="bookshelf/Thomson2016.jpeg" width="200" height="270">](https://g.co/kgs/B1ygSJ) | [<img src="bookshelf/Mollett2017.jpeg" width="200" height="270">](https://g.co/kgs/yanvzH) | [<img src="bookshelf/Cairo2016.jpeg" width="200" height="270"/>](https://g.co/kgs/DEuz58) |
 | [<img src="bookshelf/Graff2018.jpg" width="200" height="270">](https://g.co/kgs/DsnUve) | [<img src="bookshelf/Belcher2019.jpeg" width="200" height="270">](https://g.co/kgs/bkH93p) | [<img src="bookshelf/darby2019.jpeg" width="200" height="270">](https://g.co/kgs/7J6Rqh) |
 | [<img src="bookshelf/Weston2017.jpg" width="200" height="270">](https://g.co/kgs/LQWcQW) | [<img src="bookshelf/Ahrens2017.jpg" width="200" height="270">](https://g.co/kgs/gd1fka) | [<img src="bookshelf/HBR2019.jpg" width="200" height="270">](https://g.co/kgs/CfxGNz) |
