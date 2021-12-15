@@ -11,7 +11,7 @@ _"A curious mind is limitless."_ <br/><br/><br/>
 - [Projects](#projects) 
 - [Teaching](#teaching) 
 - [Outreach Activities](#outreach-activities) 
-- [Inspiration](#inspiration)
+- [Bookshelf](#bookshelf)
 
 ## News
 
@@ -226,9 +226,7 @@ Department of English Studies, online.
 Max Planck Institute for the Science of Human History, Jena. <br/><br/><br/>
 
 
-## Inspiration
-
-**My virtual bookshelf**
+## Bookshelf
 
 [Click here](bookshelf.md)
 
