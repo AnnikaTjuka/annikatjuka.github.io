@@ -150,9 +150,18 @@ projects:
         link: "http://dx.doi.org/10.17613/j95n-c998"
         tagline: "A systematic typological study of body-part metaphors in object and landscape terms. The study consisted of 53 pictures illustrating object and landscape parts which were based on 93 body-part metaphors. The analysis showed that some metaphors are far more consistent across languages than others. For example, ‘leg of the chair/table’ is present throughout the whole language sample."
 
-      - title: Affiliate in Computer-Assisted Language Comparison (CALC)
+      - title: Affiliated with Computer-Assisted Language Comparison (CALC)
         link: "https://digling.org/calc/"
         tagline: "A responsive website template designed to help web developers/designers market their services."
+
+      - title: Affiliated with Computer-Assisted Language Comparison (CALC)
+        link: "https://digling.org/calc/"
+        tagline: "A responsive website template designed to help web developers/designers market their services."
+
+      - title: Affiliated with Computer-Assisted Language Comparison (CALC)
+        link: "https://digling.org/calc/"
+        tagline: "A responsive website template designed to help web developers/designers market their services."
+
 
 skills:
     title: Skills &amp; Proficiency
@@ -160,6 +169,3 @@ skills:
     toolset:
       - name: Python
         level: 70%
-
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
