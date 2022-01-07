@@ -16,19 +16,19 @@
   </div><!--//intro-->
   {% endif %}
 
-  {% for project in databases.assignments %}
+  {% for database in databases.assignments %}
     <div class="item">
 
-      <span class="project-title">
-        {% if project.link %}
-        <a href="{{ project.link }}" target="_blank">{{ project.title }}</a>
+      <span class="database-title">
+        {% if database.link %}
+        <a href="{{ database.link }}" target="_blank">{{ database.title }}</a>
         {% else %}
-        {{ project.title }}
+        {{ database.title }}
         {% endif %}
       </span>
 
-      {% if project.tagline %}
-      - <span class="project-tagline">{{ project.tagline }}</span>
+      {% if database.tagline %}
+      - <span class="database-tagline">{{ database.tagline }}</span>
       {% endif %}
 
     </div><!--//item-->
