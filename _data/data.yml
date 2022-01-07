@@ -40,6 +40,11 @@ sidebar:
       - item: Cooking
         link:
 
+news:
+    title: News
+    summary: |
+      
+
 career-profile:
     title: Career Profile
     summary: |
@@ -112,6 +117,16 @@ publications:
         link: "https://www.researchgate.net/publication/333210593_Habitual_aspect_as_a_property_of_text_spans"
         authors: Annika Tjuka, Lena Weißmann, and Kilu von Prince
         conference: Zygmunt Vetulani and Patrick Paroubek (eds.), Human language technologies as a challenge for computer science and linguistics. Proceedings of 9th Language and Technology Conference, 195–199. Poznań. Wydawnictwo Nauka i Innowacje. (2019)  
+
+blogposts:
+    title: Blog Posts
+    intro: |
+      
+    papers:
+      - title: Comparing NoRaRe data sets Calculation of correlations and creation of plots in R
+        link: "https://calc.hypotheses.org/3109"
+        authors: Annika Tjuka
+        conference: Computer-Assisted Language Comparison in Practice (24/11/2021)
 
 talks:
     title: Talks (most recent)  
