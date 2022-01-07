@@ -165,5 +165,17 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
+      - name: R
+        level: 96%
       - name: Python
         level: 70%
+      - name: Cytoscape
+        level: 60%
+      - name: PRAAT
+        level: 90%
+      - name: Presentation
+        level: 90%
+      - name: ELAN
+        level: 70%
+      - name: LATEX
+        level: 100%
