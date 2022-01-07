@@ -101,7 +101,7 @@ publications:
       - title: General patterns and language variation - Word frequencies across English, German, and Chinese
         link: "https://aclanthology.org/2020.cogalex-1.3/"
         authors: Annika Tjuka
-        conference: M. Zock, E. Chersoni, A. Lenci, and E. Santus (Eds.), Proceedings of the Workshop on the Cognitive Aspects of the Lexicon (pp. 23-32). Stroudsburg, Association for Computational Linguistics. (2020)
+        conference: Michael Zock, Emmanuele Chersoni, Alessandro Lenci, and Enrico Santus (Eds.), Proceedings of the Workshop on the Cognitive Aspects of the Lexicon (pp. 23-32). Stroudsburg, Association for Computational Linguistics. (2020)
 
       - title: Tagging modality in Oceanic languages of Melanesia
         link: "https://doi.org/10.18653/v1/W19-4008"
@@ -135,9 +135,9 @@ projects:
         tagline: "We explore corpus data from seven Oceanic languages of Melanesia, which have been known to be mood-prominent, for an areal typological study of their TAMP systems."
 
 teaching:
-    - degree: Seminar: Same same but different: Semantic relations in language and thought, for Bachelor’s students
-      university: Humboldt-Universität zu Berlin
-      time: 2016 - 2019
+    - degree: Seminar. Same same but different - Semantic relations in language and thought, for Bachelor’s students
+      university: Friedrich Schiller University, Department of English Studies, Jena, online.
+      time: Winter Semester 2021/22
       details: |
         Master’s thesis: Body-part metaphors as a window to cognition: A cross-linguistic study of object and landscape terms
         Supervisors: Elisabeth Verhoeven and Kilu von Prince
