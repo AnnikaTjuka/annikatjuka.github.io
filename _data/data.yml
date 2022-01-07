@@ -135,18 +135,31 @@ projects:
         tagline: "We explore corpus data from seven Oceanic languages of Melanesia, which have been known to be mood-prominent, for an areal typological study of their TAMP systems."
 
 teaching:
-    - degree: Seminar. Same same but different - Semantic relations in language and thought, for Bachelor’s students
+    - degree: Seminar for Bachelor students
       university: Friedrich Schiller University, Department of English Studies, Jena, online.
       time: Winter Semester 2021/22
       details: |
-        Master’s thesis: Body-part metaphors as a window to cognition: A cross-linguistic study of object and landscape terms
-        Supervisors: Elisabeth Verhoeven and Kilu von Prince
-    - degree: BA in German Linguistics and Scandinavian Studies
-      university: Humboldt-Universität zu Berlin
-      time: 2012 - 2016
+        Title: Same same but different - Semantic relations in language and thought
+    - degree: Lecture for Master and PhD students
+      university: SHH Summer School - A doorway to human history, Max Planck Institute for the Science of Human History, Jena, online.
+      time: August 2021
       details: |
-        Bachelor’s thesis: Emotionalisation through texts
-        Supervisors: Katharina Spalek and Manfred Krifka
+        Title: Introduction to Linguistic and Cultural Evolution
+    - degree: Class for Master and PhD students
+      university: SHH Summer School - A doorway to human history, Max Planck Institute for the Science of Human History, Jena, online.
+      time: August 2021
+      details: |
+        Title: Bayesian Phylogenetic Linguistics
+    - degree: Seminar for Bachelor students
+      university: Friedrich Schiller University, Department of English Studies, Jena, online.
+      time: Summer Semester 2021
+      details: |
+        Title: Words and their meanings across languages
+    - degree: Seminar for Bachelor students
+      university: Friedrich Schiller University, Department of English Studies, Jena, online.
+      time: Winter Semester 2021/22
+      details: |
+        Title: The mental lexicon from a cross-linguistic perspective
 
 skills:
     title: Skills &amp; Proficiency
