@@ -48,7 +48,7 @@ news:
 career-profile:
     title: Career Profile
     summary: |
-      I’m a language scientist and currently working as a doctoral researcher at the MPI for the Science of Human History. I studied linguistics at Humboldt University Berlin, focusing on psycholinguistics and typology. My research interest is the diversity of language variation in word meanings. In my master’s thesis, I conducted the first systematic study of body part extensions such as the table leg and foot of the mountain. I examined the frequency of these expressions in 13 languages and the preferences for the underlying similarity dimensions (shape, spatial orientation, function). For my doctoral research, I collaborated in establishing the Database of Cross-Linguistic Norms, Ratings, and Relations for Words and Concepts (NoRaRe), which contains 98 datasets from linguistics and psychology across 40 languages including 65 properties (e.g., frequency, sensorimotor ratings, borrowability).
+      My research interest is the diversity of language variation in word meanings. In my master’s thesis, I conducted the first systematic study of body part extensions such as the table leg and foot of the mountain. I examined the frequency of these expressions in 13 languages and the preferences for the underlying similarity dimensions (shape, spatial orientation, function). For my doctoral research, I collaborated in establishing the Database of Cross-Linguistic Norms, Ratings, and Relations for Words and Concepts (NoRaRe), which contains 98 datasets from linguistics and psychology across 40 languages including 65 properties (e.g., frequency, sensorimotor ratings, borrowability).
 
 education:
     - degree: MA in Linguistics
@@ -167,6 +167,31 @@ blogposts:
         link: "https://calc.hypotheses.org/2225"
         authors: Annika Tjuka
         conference: Computer-Assisted Language Comparison in Practice (29/01/2020)
+
+talks:
+    title: Talks (most recent)  
+    intro: |
+      
+    papers:
+      - title: Comparing word properties across languages - A case study on ratings for arousal and valence
+        link: "https://pad.gwdg.de/s/KLgI9TLrP"
+        authors: Annika Tjuka, Robert Forkel, and Johann-Mattis List
+        conference: 2nd Words in the World (WoW) International Conference, Canada, online.
+
+      - title: Patterns of body-object colexifications across languages
+        link: "/assets/pdfs/slides/tjuka2021_body-object-colexification_ETT.pdf"
+        authors: Annika Tjuka
+        conference: Emerging Topics in Typology conference, University of Helsinki, Finland, online.
+
+      - title: The face of the moon - Body part extensions in Vietnamese
+        link: "/assets/pdfs/slides/tjuka2021-face-Vietnamese-CLIC.pdf"
+        authors: Annika Tjuka
+        conference: 3rd Cultural Linguistics International Conference (CLIC-2021), online.
+
+     - title: Meanings of body part terms - Cross-linguistic colexifications between body parts and objects
+        link: "/assets/pdfs/slides/tjuka2021-body-colexifications-DUCOG.pdf"
+        authors: Annika Tjuka
+        conference: 12th Dubrovnik Conference on Cognitive Science – Linguistic and Cognitive Foundations of Meaning (DUCOG2021), online.
 
 projects:
     title: Projects
