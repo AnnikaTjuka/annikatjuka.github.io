@@ -14,9 +14,10 @@ sidebar:
     # Sidebar links
     email: mail@annikatjuka.com
     website: annikatjuka.com #do not add http://
-    linkedin: annikatjuka
-    github: AnnikaTjuka
     twitter: '@AnnikaTjuka'
+    ResearchGate: Annika-Tjuka-2
+    linkedin: annika-tjuka-101286bb
+    github: AnnikaTjuka
     pdf: /assets/pdfs/CV_tjuka.pdf
 
     languages:
@@ -63,8 +64,7 @@ experiences:
       time: 2019 - Present
       company: Max Planck Institute for the Science of Human History, Department of Linguistic and Cultural Evolution, Jena
       details: |
-        Cumulative dissertation ‘Language variation in word meanings: Cross-linguistic patterns and causes of colexifications’ (working title)
-        Supervisors: Johann-Mattis List and Stephen C. Levinson
+        Cumulative dissertation with the working title "Language variation in word meanings: Cross-linguistic patterns and causes of colexifications." My supervisors are Johann-Mattis List and Stephen C. Levinson.
     - role: Research Associate
       time: 2019
       company: Humboldt-Universität zu Berlin in the FAHMRRR project, funded by ERC.
@@ -98,11 +98,20 @@ publications:
         authors: Annika Tjuka
         conference: Kelsie Pattillo and Maɫgorzata Waśniewska (eds). Embodiment in Cross-Linguistic Studies - The ‘Face’. Brill Studies in Language, Cognition and Culture. Brill.
 
-      - title: General patterns and language variation - Word frequencies across English, German, and Chinese.
+      - title: General patterns and language variation - Word frequencies across English, German, and Chinese
         link: "https://aclanthology.org/2020.cogalex-1.3/"
         authors: Annika Tjuka
         conference: M. Zock, E. Chersoni, A. Lenci, and E. Santus (Eds.), Proceedings of the Workshop on the Cognitive Aspects of the Lexicon (pp. 23-32). Stroudsburg, Association for Computational Linguistics. (2020)
 
+      - title: Tagging modality in Oceanic languages of Melanesia
+        link: "https://doi.org/10.18653/v1/W19-4008"
+        authors: Annika Tjuka, Lena Weißmann, and Kilu von Prince
+        conference: Annemarie Friedrich, Deniz Zeyrek & Jet Hoek (eds.), Proceedings of the 13th Linguistic Annotation Workshop, 65–70. Florence, Italy. Association for Computational Linguistics. (2019)
+
+      - title:  Habitual aspect as a property of text spans
+        link: "https://www.researchgate.net/publication/333210593_Habitual_aspect_as_a_property_of_text_spans"
+        authors: Annika Tjuka, Lena Weißmann, and Kilu von Prince
+        conference: Zygmunt Vetulani and Patrick Paroubek (eds.), Human language technologies as a challenge for computer science and linguistics. Proceedings of 9th Language & Technology Conference, 195–199. Poznań. Wydawnictwo Nauka i Innowacje. (2019)  
 
 
 projects:
@@ -114,15 +123,15 @@ projects:
         link: "http://dx.doi.org/10.17613/j95n-c998"
         tagline: "A systematic typological study of body-part metaphors in object and landscape terms. The study consisted of 53 pictures illustrating object and landscape parts which were based on 93 body-part metaphors. The analysis showed that some metaphors are far more consistent across languages than others. For example, ‘leg of the chair/table’ is present throughout the whole language sample."
 
-      - title: Affiliated with Computer-Assisted Language Comparison (CALC)
+      - title: Computer-Assisted Language Comparison (CALC, Affiliate)
         link: "https://digling.org/calc/"
         tagline: "A computer-assisted framework for historical linguistics, which we apply to address key questions in historical linguistics, linguistic typology, and human cognition."
 
-      - title: Affiliated with Focus alternatives in the human mind - Retrieval, Representation and Recall (FAHMRRR)
+      - title: Focus alternatives in the human mind - Retrieval, Representation and Recall (FAHMRRR, Project Member)
         link: "https://www.projekte.hu-berlin.de/en/fahmrrr/index.html"
         tagline: "In our project, we use a variety of experimental methods. That is, speakers of German solve language tasks (mostly computer based), and we measure how quickly and accurately they can solve these tasks. Sometimes, we also measure their brain waves (with electroencephalography, EEG for short) or the involvement of certain brain areas in the language tasks (with functional magnetic resonance imaging, fMRI for short)."
 
-      - title: Affiliated with MelaTAMP
+      - title: MelaTAMP (Project Member)
         link: "https://www.projekte.hu-berlin.de/en/melatamp/project%20description"
         tagline: "We explore corpus data from seven Oceanic languages of Melanesia, which have been known to be mood-prominent, for an areal typological study of their TAMP systems."
 
