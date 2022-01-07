@@ -116,7 +116,7 @@ publications:
 talks:
     title: Talks (most recent)
     intro: |
-      Some of my talks are available on <a href="https://www.youtube.com/channel/UCTwJm5tJzG7TX4sma-5qnBw">YouTube</a>.
+      
     papers:
       - title: Comparing word properties across languages - A case study on ratings for arousal and valence
         link: "https://pad.gwdg.de/s/KLgI9TLrP"
@@ -131,12 +131,12 @@ talks:
       - title: The face of the moon - Body part extensions in Vietnamese
         link: "/assets/pdfs/slides/tjuka2021-face-Vietnamese-CLIC.pdf"
         authors: Annika Tjuka
-        conference: 3rd Cultural Linguistics International Conference (<a href="https://scitope.com/clic-2020/">CLIC-2021</a>), online.
+        conference: 3rd Cultural Linguistics International Conference , online.
     
      - title: Meanings of body part terms - Cross-linguistic colexifications between body parts and objects
         link: "/assets/pdfs/slides/tjuka2021-body-colexifications-DUCOG.pdf"
         authors: Annika Tjuka
-        conference: 12<sup>th</sup> Dubrovnik Conference on Cognitive Science – Linguistic & Cognitive Foundations of Meaning (<a href="https://ducog.cecog.eu/programme">DUCOG2021</a>), online.
+        conference: 12th Dubrovnik Conference on Cognitive Science – Linguistic & Cognitive Foundations of Meaning  online.
 
 projects:
     title: Projects
@@ -196,10 +196,10 @@ skills:
         level: 98%
       - name: PRAAT
         level: 90%
-      - name: Presentation
-        level: 90%
       - name: Python
-        level: 80%      
+        level: 85%   
+      - name: Presentation
+        level: 80%   
       - name: ELAN
         level: 70%
       - name: Cytoscape
