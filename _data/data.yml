@@ -131,7 +131,7 @@ blogposts:
     papers:
       - title: Comparing NoRaRe data sets Calculation of correlations and creation of plots in R
         link: "https://calc.hypotheses.org/3109"
-        authors: Annika Tjuka
+        authors:
         conference: Computer-Assisted Language Comparison in Practice (24/11/2021)
 
       - title: A list of color, emotion, and human body part concepts
