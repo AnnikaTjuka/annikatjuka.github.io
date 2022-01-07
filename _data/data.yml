@@ -136,42 +136,42 @@ blogposts:
 
       - title: A list of color, emotion, and human body part concepts
         link: "https://calc.hypotheses.org/3023"
-        authors: Annika Tjuka
+        authors:
         conference: Computer-Assisted Language Comparison in Practice (01/11/2021)
 
       - title: Adding data sets to NoRaRe - A guide for beginners
         link: "https://calc.hypotheses.org/2890"
-        authors: Annika Tjuka
+        authors:
         conference: Computer-Assisted Language Comparison in Practice (11/08/2021)
 
       - title: A multilingual body part concept list
         link: "https://calc.hypotheses.org/2788"
-        authors: Annika Tjuka
+        authors:
         conference: Computer-Assisted Language Comparison in Practice (14/06/2021)
 
       - title: How to review concept lists in collaboration (How to do X in linguistics 6)
         link: "https://calc.hypotheses.org/2680"
-        authors: Annika Tjuka
+        authors:
         conference: Computer-Assisted Language Comparison in Practice (15/03/2021)
 
       - title: How to organize a virtual journal club (How to do X in linguistics 4)
         link: "https://calc.hypotheses.org/2613"
-        authors: Annika Tjuka
+        authors:
         conference: Computer-Assisted Language Comparison in Practice (20/01/2021)
 
       - title: Possibilities of digital communication in linguistics (How to do X in linguistics 2)
         link: "https://calc.hypotheses.org/2556"
-        authors: Annika Tjuka
+        authors:
         conference: Computer-Assisted Language Comparison in Practice (07/12/2020)
 
       - title: A list of 171 body part concepts
         link: "https://calc.hypotheses.org/2512"
-        authors: Annika Tjuka
+        authors:
         conference: Computer-Assisted Language Comparison in Practice (28/09/2020)
 
       - title: Adding concept lists to Concepticon - A guide for beginners
         link: "https://calc.hypotheses.org/2225"
-        authors: Annika Tjuka
+        authors:
         conference: Computer-Assisted Language Comparison in Practice (29/01/2020)
 
 talks:
@@ -181,22 +181,22 @@ talks:
     papers:
       - title: Comparing word properties across languages - A case study on ratings for arousal and valence
         link: "https://pad.gwdg.de/s/KLgI9TLrP"
-        authors: Annika Tjuka, Robert Forkel, and Johann-Mattis List
+        authors: with contributions by Robert Forkel, and Johann-Mattis List
         conference: 2nd Words in the World (WoW) International Conference, Canada, online
 
       - title: Patterns of body-object colexifications across languages
         link: "/assets/pdfs/slides/tjuka2021-body-object-colexification-ETT.pdf"
-        authors: Annika Tjuka
+        authors:
         conference: Emerging Topics in Typology conference, University of Helsinki, Finland, online
 
       - title: The face of the moon - Body part extensions in Vietnamese
         link: "/assets/pdfs/slides/tjuka2021-face-Vietnamese-CLIC.pdf"
-        authors: Annika Tjuka
+        authors:
         conference: 3rd Cultural Linguistics International Conference (CLIC-2021), online
 
       - title: Meanings of body part terms - Cross-linguistic colexifications between body parts and objects
         link: "/assets/pdfs/slides/tjuka2021-body-colexifications-DUCOG.pdf"
-        authors: Annika Tjuka
+        authors:
         conference: 12th Dubrovnik Conference on Cognitive Science (DUCOG), online
 
 projects:
