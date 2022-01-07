@@ -113,6 +113,16 @@ publications:
         authors: Annika Tjuka, Lena Weißmann, and Kilu von Prince
         conference: Zygmunt Vetulani and Patrick Paroubek (eds.), Human language technologies as a challenge for computer science and linguistics. Proceedings of 9th Language & Technology Conference, 195–199. Poznań. Wydawnictwo Nauka i Innowacje. (2019)  
 
+talks:
+    title: Talks (most recent)
+    intro: |
+      Some of my talks are available on <a href="https://www.youtube.com/channel/UCTwJm5tJzG7TX4sma-5qnBw">YouTube</a>.
+    papers:
+      - title: Comparing word properties across languages - A case study on ratings for arousal and valence
+        link: "https://pad.gwdg.de/s/KLgI9TLrP"
+        authors: Annika Tjuka, Robert Forkel, and Johann-Mattis List
+        conference: 2nd Words in the World (WoW) International Conference, Canada, online.
+
 projects:
     title: Projects
     intro: |
@@ -165,17 +175,17 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
+      - name: LATEX
+        level: 100%
       - name: R
-        level: 96%
-      - name: Python
-        level: 70%
-      - name: Cytoscape
-        level: 60%
+        level: 98%
       - name: PRAAT
         level: 90%
       - name: Presentation
         level: 90%
+      - name: Python
+        level: 80%      
       - name: ELAN
         level: 70%
-      - name: LATEX
-        level: 100%
+      - name: Cytoscape
+        level: 60%
