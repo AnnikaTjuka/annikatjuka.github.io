@@ -224,11 +224,11 @@ databases:
     intro: |
       
     assignments:
-      - title: NoRaRe 0.2.
+      - title: NoRaRe 0.2
         link: "https://digling.org/norare/"
         tagline: "A database of Cross-Linguistic Norms, Ratings, and Relations for Words and Concepts."
 
-      - title: Concepticon 2.5.0. 
+      - title: Concepticon 2.5.0
         link: "https://concepticon.clld.org"
         tagline: "A Resource for the Linking of Concept Lists."
 
