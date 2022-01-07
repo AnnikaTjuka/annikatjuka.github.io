@@ -108,9 +108,7 @@ publications:
 projects:
     title: Projects
     intro: |
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      
     assignments:
       - title: Body-part metaphors as a window to cognition - A cross-linguistic study of object and landscape terms (Master’s Thesis)
         link: "http://dx.doi.org/10.17613/j95n-c998"
