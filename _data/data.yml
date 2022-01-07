@@ -111,33 +111,15 @@ publications:
       - title:  Habitual aspect as a property of text spans
         link: "https://www.researchgate.net/publication/333210593_Habitual_aspect_as_a_property_of_text_spans"
         authors: Annika Tjuka, Lena Weißmann, and Kilu von Prince
-        conference: Zygmunt Vetulani and Patrick Paroubek (eds.), Human language technologies as a challenge for computer science and linguistics. Proceedings of 9th Language & Technology Conference, 195–199. Poznań. Wydawnictwo Nauka i Innowacje. (2019)  
+        conference: Zygmunt Vetulani and Patrick Paroubek (eds.), Human language technologies as a challenge for computer science and linguistics. Proceedings of 9th Language and Technology Conference, 195–199. Poznań. Wydawnictwo Nauka i Innowacje. (2019)  
 
 talks:
-    title: Talks (most recent)
-    intro: |
-      
+    title: Talks (most recent)           
     papers:
-      - title: Comparing word properties across languages - A case study on ratings for arousal and valence
-        link: "https://pad.gwdg.de/s/KLgI9TLrP"
-        authors: Annika Tjuka, Robert Forkel, and Johann-Mattis List
-        conference: 2nd Words in the World (WoW) International Conference, Canada, online.
-
-      - title: Patterns of body-object colexifications across languages
-        link: "/assets/pdfs/slides/tjuka2021_body-object-colexification_ETT.pdf"
-        authors: Annika Tjuka
-        conference: Emerging Topics in Typology conference, University of Helsinki, Finland, online.
-
-      - title: The face of the moon - Body part extensions in Vietnamese
-        link: "/assets/pdfs/slides/tjuka2021-face-Vietnamese-CLIC.pdf"
-        authors: Annika Tjuka
-        conference: 3rd Cultural Linguistics International Conference (CLIC-2021), online.
-    
      - title: Meanings of body part terms - Cross-linguistic colexifications between body parts and objects
         link: "/assets/pdfs/slides/tjuka2021-body-colexifications-DUCOG.pdf"
         authors: Annika Tjuka
-        conference: 12th Dubrovnik Conference on Cognitive Science – Linguistic & Cognitive Foundations of Meaning (DUCOG2021), online.
-
+        conference: 12th Dubrovnik Conference on Cognitive Science – Linguistic and Cognitive Foundations of Meaning (DUCOG2021), online.
 
 projects:
     title: Projects
