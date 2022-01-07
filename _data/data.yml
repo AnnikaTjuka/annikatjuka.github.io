@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -13,9 +13,8 @@ sidebar:
 
     # Sidebar links
     email: mail@annikatjuka.com
-    phone: 012 345 6789
     website: annikatjuka.com #do not add http://
-    linkedin: annika-tjuka
+    linkedin: annikatjuka
     github: AnnikaTjuka
     twitter: '@AnnikaTjuka'
     pdf: http://www.africau.edu/images/default/sample.pdf
