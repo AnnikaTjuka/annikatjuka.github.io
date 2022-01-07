@@ -37,6 +37,12 @@
     </li>
     {% endif %}
 
+    {% if sidebar.researchgate %}
+    <li class="ResearchGate"><i class="fab fa-researchgate"></i>
+      <a href="https://www.researchgate.net/profile/{{ sidebar.researchgate }}" target="_blank">{{ sidebar.researchgate }}</a>
+    </li>
+    {% endif %}
+
     {% if sidebar.github %}
     <li class="github"><i class="fab fa-github"></i>
       <a href="http://github.com/{{ sidebar.github }}" target="_blank">{{ sidebar.github }}</a>
