@@ -218,18 +218,18 @@ projects:
       - title: MelaTAMP (Project Member)
         link: "https://www.projekte.hu-berlin.de/en/melatamp/project%20description"
         tagline: "We explore corpus data from seven Oceanic languages of Melanesia, which have been known to be mood-prominent, for an areal typological study of their TAMP systems."
-
+        
 databases:
     title: Databases
     intro: |
       
     assignments:
-      - title: NoRaRe
+      - title: NoRaRe 0.2
         link: "https://digling.org/norare/"
         tagline: "A database of Cross-Linguistic Norms, Ratings, and Relations for Words and Concepts."
 
-      - title: Concepticon
-        link: "https://concepticon.clld.org"
+      - title: Concepticon 2.5.0
+        link: "https://concepticon.clld.org/"
         tagline: "A Resource for the Linking of Concept Lists."
 
 teaching:
