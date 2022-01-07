@@ -192,12 +192,7 @@ talks:
         link: "/assets/pdfs/slides/tjuka2021-face-Vietnamese-CLIC.pdf"
         authors: Annika Tjuka
         conference: 3rd Cultural Linguistics International Conference (CLIC-2021), online
-
-     - title: Meanings of body part terms - Cross-linguistic colexifications between body parts and objects
-        link: "/assets/pdfs/slides/tjuka2021-body-colexifications-DUCOG.pdf"
-        authors: Annika Tjuka
-        conference: 12th Dubrovnik Conference on Cognitive Science - Linguistic and Cognitive Foundations of Meaning (DUCOG2021), online
-
+        
 projects:
     title: Projects
     intro: |
@@ -218,7 +213,7 @@ projects:
       - title: MelaTAMP (Project Member)
         link: "https://www.projekte.hu-berlin.de/en/melatamp/project%20description"
         tagline: "We explore corpus data from seven Oceanic languages of Melanesia, which have been known to be mood-prominent, for an areal typological study of their TAMP systems."
-        
+
 databases:
     title: Databases
     intro: |
