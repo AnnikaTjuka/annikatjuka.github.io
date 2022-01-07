@@ -118,25 +118,10 @@ talks:
     intro: |
       
     papers:
-      - title: Comparing word properties across languages - A case study on ratings for arousal and valence
-        link: "https://pad.gwdg.de/s/KLgI9TLrP"
-        authors: Annika Tjuka, Robert Forkel, and Johann-Mattis List
-        conference: 2nd Words in the World (WoW) International Conference, Canada, online.
-
       - title: Patterns of body-object colexifications across languages
         link: "/assets/pdfs/slides/tjuka2021_body-object-colexification_ETT.pdf"
         authors: Annika Tjuka
         conference: Emerging Topics in Typology conference, University of Helsinki, Finland, online.
-
-      - title: The face of the moon - Body part extensions in Vietnamese
-        link: "/assets/pdfs/slides/tjuka2021-face-Vietnamese-CLIC.pdf"
-        authors: Annika Tjuka
-        conference: 3rd Cultural Linguistics International Conference , online.
-    
-     - title: Meanings of body part terms - Cross-linguistic colexifications between body parts and objects
-        link: "/assets/pdfs/slides/tjuka2021-body-colexifications-DUCOG.pdf"
-        authors: Annika Tjuka
-        conference: 12th Dubrovnik Conference on Cognitive Science – Linguistic & Cognitive Foundations of Meaning  online.
 
 projects:
     title: Projects
