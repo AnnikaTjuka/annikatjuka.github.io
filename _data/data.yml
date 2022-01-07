@@ -219,6 +219,19 @@ projects:
         link: "https://www.projekte.hu-berlin.de/en/melatamp/project%20description"
         tagline: "We explore corpus data from seven Oceanic languages of Melanesia, which have been known to be mood-prominent, for an areal typological study of their TAMP systems."
 
+projects:
+    title: Databases
+    intro: |
+      
+    assignments:
+      - title: NoRaRe 0.2.
+        link: "https://digling.org/norare/"
+        tagline: "A database of Cross-Linguistic Norms, Ratings, and Relations for Words and Concepts."
+
+      - title: Concepticon 2.5.0. 
+        link: "https://concepticon.clld.org"
+        tagline: "A Resource for the Linking of Concept Lists."
+
 teaching:
     - degree: Seminar for Bachelor students
       university: Friedrich Schiller University, Department of English Studies, Jena, online.
@@ -250,17 +263,20 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: LATEX
-        level: 100%
-      - name: R
-        level: 98%
-      - name: PRAAT
-        level: 90%
-      - name: Python
-        level: 85%   
-      - name: Presentation
-        level: 80%   
-      - name: ELAN
-        level: 70%
       - name: Cytoscape
         level: 60%
+      - name: ELAN
+        level: 70%
+      - name: Presentation
+        level: 80%       
+      - name: Python
+        level: 85% 
+      - name: PRAAT
+        level: 90%
+      - name: R
+        level: 98%
+      - name: LATEX
+        level: 100%
+      - name: git
+        level: 100%
+
