@@ -62,6 +62,9 @@ experiences:
     - role: Doctoral Researcher
       time: 2019 - Present
       company: Max Planck Institute for the Science of Human History, Department of Linguistic and Cultural Evolution, Jena
+      details: |
+        Cumulative dissertation ‘Language variation in word meanings: Cross-linguistic patterns and causes of colexifications’ (working title)
+        Supervisors: Johann-Mattis List and Stephen C. Levinson
     - role: Research Associate
       time: 2019
       company: Humboldt-Universität zu Berlin in the FAHMRRR project, funded by ERC.
@@ -108,7 +111,7 @@ projects:
 
       - title: Affiliated with Computer-Assisted Language Comparison (CALC)
         link: "https://digling.org/calc/"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "A computer-assisted framework for historical linguistics, which we apply to address key questions in historical linguistics, linguistic typology, and human cognition."
 
       - title: Affiliated with Focus alternatives in the human mind - Retrieval, Representation and Recall (FAHMRRR)
         link: "https://www.projekte.hu-berlin.de/en/fahmrrr/index.html"
