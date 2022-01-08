@@ -77,16 +77,22 @@ experiences:
         Cumulative dissertation with the working title "Language variation in word meanings: Cross-linguistic patterns and causes of colexifications." My supervisors are Johann-Mattis List and Stephen C. Levinson.
     - role: Research Associate
       time: 2019
-      company: Humboldt-Universität zu Berlin in the FAHMRRR project, funded by ERC.
+      company: Humboldt-Universität zu Berlin
+      details: |
+        A research project on Focus Alternatives in the Human Mind - Retrieval, Representation and Recall (FAHMRRR) funded by ERC and lead by Katharina Spalek.
     - role: Student Research Assistant
       time: 2017 - 2019
-      company: Humboldt-Universität zu Berlin in the MelaTAMP project, funded by DFG.
+      company: Humboldt-Universität zu Berlin
+      details: |
+        A research project on Tense, Aspect, Mood, and Polarity systems in Melanesian languages (MelaTAMP) funded by DFG and lead by Kilu von Prince and Manfred Krifka.
     - role: Student Research Assistant
       time: 2016 - 2019
-      company: Humboldt-Universität zu Berlin in the FAHMRRR project, funded by ERC.
+      company: Humboldt-Universität zu Berlin
+      details: |
+        A research project on Focus Alternatives in the Human Mind - Retrieval, Representation and Recall (FAHMRRR) funded by ERC and lead by Katharina Spalek.
     - role: Internship and Student Research Assistant
       time: 2018
-      company: Max Planck Institute for Human Cognitive and Brain Sciences, Leipzig.
+      company: Max Planck Institute for Human Cognitive and Brain Sciences, Department of Neuropsychology, Leipzig
 
 publications:
     title: Publications
@@ -106,27 +112,27 @@ publications:
       - title: The representation of foot/leg polysemy in the mind — Insights from Vietnamese body part extensions with chân
         link: "http://dx.doi.org/10.17613/21y2-yz64"
         authors: Annika Tjuka
-        conference: Mateus Cruz Maciel de Carvalho (ed). Embodiment in Cross-Linguistic Studies - The ‘Foot/Leg’. Brill Studies in Language, Cognition and Culture. Brill. (preprint)
+        conference: In Mateus Cruz Maciel de Carvalho (ed). Embodiment in Cross-Linguistic Studies - The ‘Foot/Leg’. Brill Studies in Language, Cognition and Culture. Brill. (preprint)
 
       - title: Body part extensions with mặt ‘face’ in Vietnamese
         link: "http://dx.doi.org/10.17613/23np-nt91"
         authors: Annika Tjuka
-        conference: Kelsie Pattillo and Maɫgorzata Waśniewska (eds). Embodiment in Cross-Linguistic Studies - The ‘Face’. Brill Studies in Language, Cognition and Culture. Brill. (preprint)
+        conference: In Kelsie Pattillo and Maɫgorzata Waśniewska (eds). Embodiment in Cross-Linguistic Studies - The ‘Face’. Brill Studies in Language, Cognition and Culture. Brill. (preprint)
 
       - title: General patterns and language variation - Word frequencies across English, German, and Chinese
         link: "https://aclanthology.org/2020.cogalex-1.3/"
         authors: Annika Tjuka
-        conference: Michael Zock, Emmanuele Chersoni, Alessandro Lenci, and Enrico Santus (Eds.), Proceedings of the Workshop on the Cognitive Aspects of the Lexicon (pp. 23-32). Stroudsburg, Association for Computational Linguistics. (2020)
+        conference: In Michael Zock, Emmanuele Chersoni, Alessandro Lenci, and Enrico Santus (Eds.), Proceedings of the Workshop on the Cognitive Aspects of the Lexicon (pp. 23-32). Stroudsburg, Association for Computational Linguistics. (2020)
 
       - title: Tagging modality in Oceanic languages of Melanesia
         link: "https://doi.org/10.18653/v1/W19-4008"
         authors: Annika Tjuka, Lena Weißmann, and Kilu von Prince
-        conference: Annemarie Friedrich, Deniz Zeyrek & Jet Hoek (eds.), Proceedings of the 13th Linguistic Annotation Workshop, 65–70. Florence, Italy. Association for Computational Linguistics. (2019)
+        conference: In Annemarie Friedrich, Deniz Zeyrek & Jet Hoek (eds.), Proceedings of the 13th Linguistic Annotation Workshop, 65–70. Florence, Italy. Association for Computational Linguistics. (2019)
 
       - title:  Habitual aspect as a property of text spans
         link: "https://www.researchgate.net/publication/333210593_Habitual_aspect_as_a_property_of_text_spans"
         authors: Annika Tjuka, Lena Weißmann, and Kilu von Prince
-        conference: Zygmunt Vetulani and Patrick Paroubek (eds.), Human language technologies as a challenge for computer science and linguistics. Proceedings of 9th Language and Technology Conference, 195–199. Poznań. Wydawnictwo Nauka i Innowacje. (2019)  
+        conference: In Zygmunt Vetulani and Patrick Paroubek (eds.), Human language technologies as a challenge for computer science and linguistics. Proceedings of 9th Language and Technology Conference, 195–199. Poznań. Wydawnictwo Nauka i Innowacje. (2019)  
 
 blogposts:
     title: Blog Posts
@@ -216,7 +222,7 @@ projects:
         link: "https://digling.org/calc/"
         tagline: "A computer-assisted framework for historical linguistics, which we apply to address key questions in historical linguistics, linguistic typology, and human cognition."
 
-      - title: Focus alternatives in the human mind - Retrieval, Representation and Recall (FAHMRRR, Project Member)
+      - title: Focus Alternatives in the Human Mind - Retrieval, Representation and Recall (FAHMRRR, Project Member)
         link: "https://www.projekte.hu-berlin.de/en/fahmrrr/index.html"
         tagline: "In our project, we use a variety of experimental methods. That is, speakers of German solve language tasks (mostly computer based), and we measure how quickly and accurately they can solve these tasks. Sometimes, we also measure their brain waves (with electroencephalography, EEG for short) or the involvement of certain brain areas in the language tasks (with functional magnetic resonance imaging, fMRI for short)."
 
