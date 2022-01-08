@@ -53,6 +53,7 @@ career-profile:
     title: Career Profile
     summary: |
       My research interest is the diversity of language variation in word meanings. In my master’s thesis, I conducted the first systematic study of body part extensions such as the table leg and foot of the mountain. I examined the frequency of these expressions in 13 languages and the preferences for the underlying similarity dimensions (shape, spatial orientation, function). For my doctoral research, I collaborated in establishing the Database of Cross-Linguistic Norms, Ratings, and Relations for Words and Concepts (NoRaRe), which contains 98 datasets from linguistics and psychology across 40 languages including 65 properties (e.g., frequency, sensorimotor ratings, borrowability).
+      A video in which I present my reearch profile is avialable on YouTube: <a href="https://youtu.be/KieYIwMyNc0">youtu.be/KieYIwMyNc0</a>
 
 education:
     - degree: MA in Linguistics
@@ -200,7 +201,7 @@ talks:
       - title: Meanings of body part terms - Cross-linguistic colexifications between body parts and objects
         link: "/assets/pdfs/slides/tjuka2021-body-colexifications-DUCOG.pdf"
         authors:
-        conference: 12th Dubrovnik Conference on Cognitive Science (DUCOG), online
+        conference: 12th Dubrovnik Conference on Cognitive Science (DUCOG), online. Video available - <a href="https://youtu.be/AdaagTy00M8">click here</a>
 
 projects:
     title: Projects
