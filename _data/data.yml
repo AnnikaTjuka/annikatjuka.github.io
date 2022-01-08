@@ -72,7 +72,7 @@ education:
 experiences:
     - role: Doctoral Researcher
       time: 2019 - Present
-      company: Max Planck Institute for the Science of Human History, Department of Linguistic and Cultural Evolution, Jena
+      company: Max Planck Institute for the Science of Human History, International Max Planck Research School (IMPRS), Department of Linguistic and Cultural Evolution, Jena.
       details: |
         Cumulative dissertation with the working title "Language variation in word meanings: Cross-linguistic patterns and causes of colexifications." My supervisors are Johann-Mattis List and Stephen C. Levinson.
     - role: Research Associate
@@ -250,27 +250,27 @@ teaching:
       university: Friedrich Schiller University, Department of English Studies, Jena, online.
       time: Winter Semester 2021/22
       details: |
-        Title: Same same but different - Semantic relations in language and thought
+        Title: <a href="https://annikatjuka.notion.site/Syllabus-ce3997d2d32343e89e7e0f7673666928">Same same but different - Semantic relations in language and thought</a>
     - degree: Lecture for Master and PhD students
       university: SHH Summer School - A doorway to human history, Max Planck Institute for the Science of Human History, Jena, online.
       time: August 2021
       details: |
-        Title: Introduction to Linguistic and Cultural Evolution. Video available - <a href="https://youtu.be/pAb9vXQZsNE">click here</a>
+        Title: <a href="https://github.com/MPI-SHH-SummerSchool/dlce-material/blob/main/Introduction%20to%20Linguistic%20%26%20Cultural%20Evolution/slides-Intro-LinguisticAndCulturalEvolution.pdf">Introduction to Linguistic and Cultural Evolution</a>. Video available - <a href="https://youtu.be/pAb9vXQZsNE">click here</a>
     - degree: Class for Master and PhD students
       university: SHH Summer School - A doorway to human history, Max Planck Institute for the Science of Human History, Jena, online.
       time: August 2021
       details: |
-        Title: Bayesian Phylogenetic Linguistics. Video available - <a href="https://youtu.be/KOZDaFM_MnY">click here</a>
+        Title: <a href="https://github.com/MPI-SHH-SummerSchool/dlce-material/blob/main/Bayesian%20Phylogenetic%20Linguistics/slides-BayesianPhylogeneticLinguistics.pdf">Bayesian Phylogenetic Linguistics</a>. Video available - <a href="https://youtu.be/KOZDaFM_MnY">click here</a>
     - degree: Seminar for Bachelor students
       university: Friedrich Schiller University, Department of English Studies, Jena, online.
       time: Summer Semester 2021
       details: |
-        Title: Words and their meanings across languages
+        Title: <a href="https://annikatjuka.notion.site/Syllabus-35ec90dab75f4770bc6ead65d9a871f2">Words and their meanings across languages</a>
     - degree: Seminar for Bachelor students
       university: Friedrich Schiller University, Department of English Studies, Jena, online.
       time: Winter Semester 2021/22
       details: |
-        Title: The mental lexicon from a cross-linguistic perspective
+        Title: <a href="https://annikatjuka.notion.site/Syllabus-812dc77904e849059d4639d484eecd88">The mental lexicon from a cross-linguistic perspective</a>
 
 skills:
     title: Skills &amp; Proficiency
