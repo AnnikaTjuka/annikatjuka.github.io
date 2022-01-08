@@ -24,13 +24,16 @@ sidebar:
         level: Native
 
       - idiom: English
-        level: Professional
+        level: Aktive and passive knowledge
 
       - idiom: Vietnamese
-        level: Good passive knowledge
+        level: Passive knowledge
+
+      - idiom: Danish
+        level: Passive knowledge
 
     interests:
-      - item: Gardening
+      - item: Hiking
         link:
 
       - item: Yoga
