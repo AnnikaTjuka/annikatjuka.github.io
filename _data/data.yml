@@ -21,10 +21,10 @@ sidebar:
 
     languages:
       - idiom: German
-        level: Native
+        level: Fluent
 
       - idiom: English
-        level: Aktive and passive knowledge
+        level: Fluent
 
       - idiom: Vietnamese
         level: Passive knowledge
@@ -39,8 +39,11 @@ sidebar:
       - item: Yoga
         link:
 
-      - item: Cooking
+      - item: Jigsaw puzzles
         link:
+
+      - item: Cooking
+        link: 
 
 news:
     title: News
