@@ -44,16 +44,16 @@ sidebar:
 news:
     title: News
     summary: |
-      - Together with my co-editor Johann-Mattis List, we published <a href="https://doi.org/10.17613/a0ew-0n98">Volume 4 of the blog Computer-Assisted Language Comparison in Practice</a> on Hcommons.
-      - In an interview with the Stuttgarter Kinderzeitung, I anwered a <a href="/assets/pdfs/outreach/Seite-18-S_KIND-1-KIND-KIND-22-01-07-FRAG-1-S_KIND-1.pdf">question about language evolution</a> asked by 8-year-old Tilda. 
-      - Our article <a href="https://doi.org/10.3758/s13428-021-01650-1">Linking norms, ratings, and relations of words and concepts across multiple language varieties</a> was published in Behavior Research Methods.
-      - I won the Farzad Sharifian PhD Student Award for my presentation on <a href="/assets/pdfs/slides/tjuka2021-face-Vietnamese-CLIC.pdf">Body Part Extensions in Vietnamese</a> at the Third Cultural Linguistics International Conference!
+      - Together with my co-editor Johann-Mattis List, we published <a href="https://doi.org/10.17613/a0ew-0n98" target="_blank">Volume 4 of the blog Computer-Assisted Language Comparison in Practice</a> on Hcommons.
+      - In an interview with the Stuttgarter Kinderzeitung, I anwered a <a href="/assets/pdfs/outreach/Seite-18-S_KIND-1-KIND-KIND-22-01-07-FRAG-1-S_KIND-1.pdf" target="_blank">question about language evolution</a> asked by 8-year-old Tilda. 
+      - Our article <a href="https://doi.org/10.3758/s13428-021-01650-1" target="_blank">Linking norms, ratings, and relations of words and concepts across multiple language varieties</a> was published in Behavior Research Methods.
+      - I won the Farzad Sharifian PhD Student Award for my presentation on <a href="/assets/pdfs/slides/tjuka2021-face-Vietnamese-CLIC.pdf" target="_blank">Body Part Extensions in Vietnamese</a> at the Third Cultural Linguistics International Conference!
 
 career-profile:
     title: Research Profile
     summary: |
         My main goal is to answer questions about linguistic diversity with a focus on language variation in word meanings. I have a BA and MA degree in linguistics from the Humboldt University Berlin and am currently pursuing a doctorate at the Max Planck Institute for the Science of Human History. I am a language scientist studying patterns and causes of words with multiple meanings. For my work, I use data from language documentation, large-scale databases, and computational methods. In my Master’s thesis, I conducted the first systematic study of body part extensions such as table leg and foot of the mountain. I examined the frequency of 95 expressions in 13 languages and the preferences for underlying analogy patterns based on similarity in shape, spatial orientation, and function. The first project of my doctoral research established the Database of Cross-Linguistic Norms, Ratings, and Relations for Words and Concepts (NoRaRe), which contains 98 datasets from linguistics and psychology across 40 languages including 65 word properties.
-        - A video in which I present my research profile can be viewed on YouTube: <a href="https://youtu.be/KieYIwMyNc0">youtu.be/KieYIwMyNc0</a>
+        - A video in which I present my research profile can be viewed on YouTube: <a href="https://youtu.be/KieYIwMyNc0" target="_blank">youtu.be/KieYIwMyNc0</a>
 
 education:
     - degree: MA in Linguistics
@@ -189,12 +189,12 @@ blogposts:
 talks:
     title: Talks (most recent)
     intro: |
-      Some of my talks are available on <a href="https://www.youtube.com/channel/UCTwJm5tJzG7TX4sma-5qnBw">YouTube</a>.
+      Some of my talks are available on <a href="https://www.youtube.com/channel/UCTwJm5tJzG7TX4sma-5qnBw" target="_blank">YouTube</a>.
     papers:
       - title: Comparing word properties across languages - A case study on ratings for arousal and valence
         link: "https://pad.gwdg.de/s/KLgI9TLrP"
         authors: with contributions by Robert Forkel, and Johann-Mattis List
-        conference: 2nd Words in the World (WoW) International Conference, Canada, online. Video available - <a href="https://youtu.be/3yQj0Jtmszs">click here</a>
+        conference: 2nd Words in the World (WoW) International Conference, Canada, online. Video available - <a href="https://youtu.be/3yQj0Jtmszs" target="_blank">click here</a>
 
       - title: Patterns of body-object colexifications across languages
         link: "/assets/pdfs/slides/tjuka2021-body-object-colexification-ETT.pdf"
@@ -209,7 +209,7 @@ talks:
       - title: Meanings of body part terms - Cross-linguistic colexifications between body parts and objects
         link: "/assets/pdfs/slides/tjuka2021-body-colexifications-DUCOG.pdf"
         authors:
-        conference: 12th Dubrovnik Conference on Cognitive Science (DUCOG), online. Video available - <a href="https://youtu.be/AdaagTy00M8">click here</a>
+        conference: 12th Dubrovnik Conference on Cognitive Science (DUCOG), online. Video available - <a href="https://youtu.be/AdaagTy00M8" target="_blank">click here</a>
 
 projects:
     title: Projects
@@ -250,27 +250,27 @@ teaching:
       university: Friedrich Schiller University, Department of English Studies, Jena, online.
       time: Winter Semester 2021/22
       details: |
-        Title: <a href="https://annikatjuka.notion.site/Syllabus-ce3997d2d32343e89e7e0f7673666928">Same same but different - Semantic relations in language and thought</a>
+        Title: <a href="https://annikatjuka.notion.site/Syllabus-ce3997d2d32343e89e7e0f7673666928" target="_blank">Same same but different - Semantic relations in language and thought</a>
     - degree: Lecture for Master and PhD students
       university: SHH Summer School - A doorway to human history, Max Planck Institute for the Science of Human History, Jena, online.
       time: August 2021
       details: |
-        Title: <a href="https://github.com/MPI-SHH-SummerSchool/dlce-material/blob/main/Introduction%20to%20Linguistic%20%26%20Cultural%20Evolution/slides-Intro-LinguisticAndCulturalEvolution.pdf">Introduction to Linguistic and Cultural Evolution</a>. Video available - <a href="https://youtu.be/pAb9vXQZsNE">click here</a>
+        Title: <a href="https://github.com/MPI-SHH-SummerSchool/dlce-material/blob/main/Introduction%20to%20Linguistic%20%26%20Cultural%20Evolution/slides-Intro-LinguisticAndCulturalEvolution.pdf" target="_blank">Introduction to Linguistic and Cultural Evolution</a>. Video available - <a href="https://youtu.be/pAb9vXQZsNE" target="_blank">click here</a>
     - degree: Class for Master and PhD students
       university: SHH Summer School - A doorway to human history, Max Planck Institute for the Science of Human History, Jena, online.
       time: August 2021
       details: |
-        Title: <a href="https://github.com/MPI-SHH-SummerSchool/dlce-material/blob/main/Bayesian%20Phylogenetic%20Linguistics/slides-BayesianPhylogeneticLinguistics.pdf">Bayesian Phylogenetic Linguistics</a>. Video available - <a href="https://youtu.be/KOZDaFM_MnY">click here</a>
+        Title: <a href="https://github.com/MPI-SHH-SummerSchool/dlce-material/blob/main/Bayesian%20Phylogenetic%20Linguistics/slides-BayesianPhylogeneticLinguistics.pdf" target="_blank">Bayesian Phylogenetic Linguistics</a>. Video available - <a href="https://youtu.be/KOZDaFM_MnY" target="_blank">click here</a>
     - degree: Seminar for Bachelor students
       university: Friedrich Schiller University, Department of English Studies, Jena, online.
       time: Summer Semester 2021
       details: |
-        Title: <a href="https://annikatjuka.notion.site/Syllabus-35ec90dab75f4770bc6ead65d9a871f2">Words and their meanings across languages</a>
+        Title: <a href="https://annikatjuka.notion.site/Syllabus-35ec90dab75f4770bc6ead65d9a871f2" target="_blank">Words and their meanings across languages</a>
     - degree: Seminar for Bachelor students
       university: Friedrich Schiller University, Department of English Studies, Jena, online.
       time: Winter Semester 2021/22
       details: |
-        Title: <a href="https://annikatjuka.notion.site/Syllabus-812dc77904e849059d4639d484eecd88">The mental lexicon from a cross-linguistic perspective</a>
+        Title: <a href="https://annikatjuka.notion.site/Syllabus-812dc77904e849059d4639d484eecd88" target="_blank">The mental lexicon from a cross-linguistic perspective</a>
 
 skills:
     title: Skills &amp; Proficiency
@@ -297,5 +297,5 @@ bookshelf:
     title: Bookshelf
     summary: |
         I noticed that many people are curious about bookshelves. I'm no exception. The first thing I check out at a party is the host's bookshelf. So I'm not surprised that bookshelves have become a popular background for [YouTube videos](https://youtu.be/QmdXN2FR2eY). A bookshelf is a great opportunity to indirectly illustrate your interests and knowledge. As a student, I would have loved to take a look at the bookshelves of my favorite professors.
-        - You can check out a collection of my favourite books <a href="https://annikatjuka-bookshelf.github.io/">here</a>.
+        - You can check out a collection of my favourite books <a href="https://annikatjuka-bookshelf.github.io/" target="_blank">here</a>.
 
