@@ -293,3 +293,8 @@ skills:
       - name: git
         level: 100%
 
+bookshelf:
+    title: Bookshelf
+    summary: |
+        - A <a href="bookshelf/bookshelf.md">book</a>
+
