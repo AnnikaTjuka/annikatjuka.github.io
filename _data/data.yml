@@ -194,8 +194,8 @@ blogposts:
 talks:
     title: Talks (most recent)
     intro: |
-      A list of all my talks including links to slides and videos is available here: <a href="https://annikatjuka-talks.github.io/" target="_blank">https://annikatjuka-talks.github.io/</a>.
-      Some of my talks are available on <a href="https://www.youtube.com/channel/UCTwJm5tJzG7TX4sma-5qnBw" target="_blank">YouTube</a>.
+      A list of all my talks including links to slides is available here: <a href="https://annikatjuka-talks.github.io/" target="_blank">https://annikatjuka-talks.github.io/</a>.
+      For videos, check out my <a href="https://www.youtube.com/channel/UCTwJm5tJzG7TX4sma-5qnBw" target="_blank">YouTube channel</a>.
     papers:
       - title: Comparing word properties across languages - A case study on ratings for arousal and valence
         link: "https://pad.gwdg.de/s/KLgI9TLrP"
