@@ -121,6 +121,11 @@ publications:
         authors: Annika Tjuka
         conference: In Kelsie Pattillo and Maɫgorzata Waśniewska (eds). Embodiment in Cross-Linguistic Studies - The ‘Face’. Brill Studies in Language, Cognition and Culture. Brill. (preprint)
 
+      - title: Body-part metaphors as a window to cognition - A cross-linguistic study of object and landscape terms
+        link: "https://doi.org/10.17613/j95n-c998"
+        authors: Annika Tjuka
+        conference: Master's thesis, Humboldt-Universität zu Berlin.
+
       - title: General patterns and language variation - Word frequencies across English, German, and Chinese
         link: "https://aclanthology.org/2020.cogalex-1.3/"
         authors: Annika Tjuka
@@ -189,6 +194,7 @@ blogposts:
 talks:
     title: Talks (most recent)
     intro: |
+      A list of all my talks including links to slides and videos is available here: <a href="https://annikatjuka-talks.github.io/" target="_blank">https://annikatjuka-talks.github.io/</a>.
       Some of my talks are available on <a href="https://www.youtube.com/channel/UCTwJm5tJzG7TX4sma-5qnBw" target="_blank">YouTube</a>.
     papers:
       - title: Comparing word properties across languages - A case study on ratings for arousal and valence
