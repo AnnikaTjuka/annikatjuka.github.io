@@ -146,51 +146,51 @@ blogposts:
     intro: |
       
     papers:
-      - title: Extending the List of Color, Emotion, and Human Body Part Concepts
+      - title: Extending the list of color, emotion, and human body Pprt concepts
         link: "https://calc.hypotheses.org/3913"
         authors:
         conference: Computer-Assisted Language Comparison in Practice (28/02/2022)
-      - title: Comparing NoRaRe Data Sets - Calculation of Correlations and Creation of Plots in R
+      - title: Comparing NoRaRe data sets - calculation of correlations and creation of plots in R
         link: "https://calc.hypotheses.org/3109"
         authors:
         conference: Computer-Assisted Language Comparison in Practice (24/11/2021)
 
-      - title: A List of Color, Emotion, and Human Body Part cCncepts
+      - title: A list of color, emotion, and human body part concepts
         link: "https://calc.hypotheses.org/3023"
         authors:
         conference: Computer-Assisted Language Comparison in Practice (01/11/2021)
 
-      - title: Adding Data Sets to NoRaRe - A Guide for Beginners
+      - title: Adding data sets to NoRaRe - A guide for beginners
         link: "https://calc.hypotheses.org/2890"
         authors:
         conference: Computer-Assisted Language Comparison in Practice (11/08/2021)
 
-      - title: A multilingual Body Part Concept List
+      - title: A multilingual body part concept list
         link: "https://calc.hypotheses.org/2788"
         authors:
         conference: Computer-Assisted Language Comparison in Practice (14/06/2021)
 
-      - title: How to Review Concept Lists in Collaboration (How to do X in linguistics 6)
+      - title: How to review concept lists in collaboration (How to do X in linguistics 6)
         link: "https://calc.hypotheses.org/2680"
         authors:
         conference: Computer-Assisted Language Comparison in Practice (15/03/2021)
 
-      - title: How to Organize a Virtual Journal Club (How to do X in linguistics 4)
+      - title: How to organize a virtual journal club (How to do X in linguistics 4)
         link: "https://calc.hypotheses.org/2613"
         authors:
         conference: Computer-Assisted Language Comparison in Practice (20/01/2021)
 
-      - title: Possibilities of Digital Communication in Linguistics (How to do X in linguistics 2)
+      - title: Possibilities of digital communication in linguistics (How to do X in linguistics 2)
         link: "https://calc.hypotheses.org/2556"
         authors:
         conference: Computer-Assisted Language Comparison in Practice (07/12/2020)
 
-      - title: A List of 171 Body Part Concepts
+      - title: A list of 171 body part concepts
         link: "https://calc.hypotheses.org/2512"
         authors:
         conference: Computer-Assisted Language Comparison in Practice (28/09/2020)
 
-      - title: Adding Concept Lists to Concepticon - A Guide for Beginners
+      - title: Adding concept lists to Concepticon - A guide for beginners
         link: "https://calc.hypotheses.org/2225"
         authors:
         conference: Computer-Assisted Language Comparison in Practice (29/01/2020)
