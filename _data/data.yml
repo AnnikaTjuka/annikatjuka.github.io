@@ -151,7 +151,7 @@ blogposts:
     intro: |
       
     papers:
-      - title: Extending the list of color, emotion, and human body Pprt concepts
+      - title: Extending the list of color, emotion, and human body part concepts
         link: "https://calc.hypotheses.org/3913"
         authors:
         conference: Computer-Assisted Language Comparison in Practice (28/02/2022)
