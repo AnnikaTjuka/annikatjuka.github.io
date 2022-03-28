@@ -28,6 +28,16 @@ sidebar:
 
       - idiom: Danish
 
+    coding:
+      - item: R
+        link:
+
+      - item: Python
+        link:
+
+      - item: MATLAB
+        link:
+
     interests:
       - item: Hiking
         link:
@@ -40,16 +50,6 @@ sidebar:
 
       - item: Cooking
         link: 
-
-    coding:
-      - item: Python
-        link:
-
-      - item: R
-        link:
-
-      - item: MATLAB
-        link:
 
 news:
     title: News
