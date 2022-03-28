@@ -41,6 +41,16 @@ sidebar:
       - item: Cooking
         link: 
 
+    coding:
+      - item: Python
+        link:
+
+      - item: R
+        link:
+
+      - item: MATLAB
+        link:
+
 news:
     title: News
     summary: |
