@@ -54,10 +54,10 @@ sidebar:
 news:
     title: News
     summary: |
+      - I wrote a new <a href="https://calc.hypotheses.org/3840" target="_blank">blog post</a> that presents the <a href="https://doi.org/10.5281/zenodo.6365495" target="_blank">list of concepts</a> that I will use for my study on body-object colexifications.
       - I presented my talk on <a href="https://annikatjuka-talks.github.io/slides/tjuka2022-body-object-colexification-DGKL.pdf" target="_blank">Body-part extensions from a cross-linguistic perspective</a> at the <a href="https://www.uni-erfurt.de/en/philosophische-fakultaet/seminare-professuren/sprachwissenschaft/research/9th-international-conference-of-the-german-cognitive-linguistics-association-dgkl-gcla-9" target="_blank">9th International Conference of the German Cognitive Linguistics Association</a>.
       - In an interview with the <em>Stuttgarter Kinderzeitung</em>, I anwered a <a href="/assets/pdfs/outreach/Seite-18-S_KIND-1-KIND-KIND-22-01-07-FRAG-1-S_KIND-1.pdf" target="_blank">question about language evolution</a> asked by 8-year-old Tilda. 
       - Our article <a href="https://doi.org/10.3758/s13428-021-01650-1" target="_blank">Linking norms, ratings, and relations of words and concepts across multiple language varieties</a> was published in <em>Behavior Research Methods</em>.
-      - I won the Farzad Sharifian PhD Student Award for my presentation on <a href="/assets/pdfs/slides/tjuka2021-face-Vietnamese-CLIC.pdf" target="_blank">Body Part Extensions in Vietnamese</a> at the <em>Third Cultural Linguistics International Conference</em>!
 
 career-profile:
     title: Research Profile
@@ -166,6 +166,11 @@ blogposts:
     intro: |
       
     papers:
+      - title: A concept list for the study of semantic extensions from body to objects
+        link: "https://calc.hypotheses.org/3840"
+        authors:
+        conference: Computer-Assisted Language Comparison in Practice (04/04/2022)
+
       - title: Extending the list of color, emotion, and human body part concepts
         link: "https://calc.hypotheses.org/3913"
         authors:
