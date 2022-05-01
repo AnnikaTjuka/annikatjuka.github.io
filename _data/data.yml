@@ -54,10 +54,10 @@ sidebar:
 news:
     title: News
     summary: |
+      - Our article <a href="https://doi.org/10.3758/s13428-021-01650-1" target="_blank">Linking norms, ratings, and relations of words and concepts across multiple language varieties</a> was published in <em>Behavior Research Methods</em>.      
       - I wrote a new <a href="https://calc.hypotheses.org/3840" target="_blank">blog post</a> that presents the <a href="https://doi.org/10.5281/zenodo.6365495" target="_blank">list of concepts</a> that I will use for my study on body-object colexifications.
       - I presented my talk on <a href="https://annikatjuka-talks.github.io/slides/tjuka2022-body-object-colexification-DGKL.pdf" target="_blank">Body-part extensions from a cross-linguistic perspective</a> at the <a href="https://www.uni-erfurt.de/en/philosophische-fakultaet/seminare-professuren/sprachwissenschaft/research/9th-international-conference-of-the-german-cognitive-linguistics-association-dgkl-gcla-9" target="_blank">9th International Conference of the German Cognitive Linguistics Association</a>.
       - In an interview with the <em>Stuttgarter Kinderzeitung</em>, I anwered a <a href="/assets/pdfs/outreach/Seite-18-S_KIND-1-KIND-KIND-22-01-07-FRAG-1-S_KIND-1.pdf" target="_blank">question about language evolution</a> asked by 8-year-old Tilda. 
-      - Our article <a href="https://doi.org/10.3758/s13428-021-01650-1" target="_blank">Linking norms, ratings, and relations of words and concepts across multiple language varieties</a> was published in <em>Behavior Research Methods</em>.
 
 career-profile:
     title: Research Profile
@@ -112,34 +112,24 @@ experiences:
         Project on conceptual-semantic knowledge processing in the human brain led by Philipp Kuhnke in the group of Gesa Hartwigsen "Modulation of Language Networks."
 
 publications:
-    title: Publications
+    title: Preprints
     intro: |
       
     papers:
-      - title: Computer-Assisted Language Comparison in Practice. Volume 4
-        link: "https://doi.org/10.17613/a0ew-0n98"
-        authors: Johann-Mattis List and Annika Tjuka (eds.)
-        conference: Humanities Commons. (2021)
-
       - title: Linking norms, ratings, and relations of words and concepts across multiple language varieties
         link: "https://doi.org/10.3758/s13428-021-01650-1"
         authors: Annika Tjuka, Robert Forkel, and Johann-Mattis List
         conference: Behavior Research Methods 54. 864–884. (2022)
 
+      - title: Computer-Assisted Language Comparison in Practice. Volume 4
+        link: "https://doi.org/10.17613/a0ew-0n98"
+        authors: Johann-Mattis List and Annika Tjuka (eds.)
+        conference: Humanities Commons. (2021)
+
       - title: Foxes, deer, and hedgehogs - The recall of focus alternatives in Vietnamese
         link: "https://doi.org/10.5334/labphon.253"
         authors: Annika Tjuka, Huong Thi Thu Nguyen, and Katharina Spalek
         conference: Laboratory Phonology - Journal of the Association for Laboratory Phonology (Prosody and Speech Processing across Languages and Varieties, Special Issue) 11(1). 1–29. (2020)
-
-      - title: The representation of foot/leg polysemy in the mind — Insights from Vietnamese body part extensions with chân
-        link: "http://dx.doi.org/10.17613/21y2-yz64"
-        authors: Annika Tjuka
-        conference: In Mateus Cruz Maciel de Carvalho (ed). Embodiment in Cross-Linguistic Studies - The ‘Foot/Leg’. Brill Studies in Language, Cognition and Culture. Brill. (preprint)
-
-      - title: Body part extensions with mặt ‘face’ in Vietnamese
-        link: "http://dx.doi.org/10.17613/23np-nt91"
-        authors: Annika Tjuka
-        conference: In Kelsie Pattillo and Maɫgorzata Waśniewska (eds). Embodiment in Cross-Linguistic Studies - The ‘Face’. Brill Studies in Language, Cognition and Culture. Brill. (preprint)
 
       - title: General patterns and language variation - Word frequencies across English, German, and Chinese
         link: "https://aclanthology.org/2020.cogalex-1.3/"
@@ -160,6 +150,21 @@ publications:
         link: "https://www.researchgate.net/publication/333210593_Habitual_aspect_as_a_property_of_text_spans"
         authors: Annika Tjuka, Lena Weißmann, and Kilu von Prince
         conference: In Zygmunt Vetulani and Patrick Paroubek (eds.), Human language technologies as a challenge for computer science and linguistics. Proceedings of 9th Language and Technology Conference, 195–199. Poznań. Wydawnictwo Nauka i Innowacje. (2019)  
+
+publications:
+    title: Preprints
+    intro: |
+      
+    papers:
+      - title: The representation of foot/leg polysemy in the mind — Insights from Vietnamese body part extensions with chân
+        link: "http://dx.doi.org/10.17613/21y2-yz64"
+        authors: Annika Tjuka
+        conference: In Mateus Cruz Maciel de Carvalho (ed). Embodiment in Cross-Linguistic Studies - The ‘Foot/Leg’. Brill Studies in Language, Cognition and Culture. Brill.
+
+      - title: Body part extensions with mặt ‘face’ in Vietnamese
+        link: "http://dx.doi.org/10.17613/23np-nt91"
+        authors: Annika Tjuka
+        conference: In Kelsie Pattillo and Maɫgorzata Waśniewska (eds). Embodiment in Cross-Linguistic Studies - The ‘Face’. Brill Studies in Language, Cognition and Culture. Brill. (preprint)
 
 blogposts:
     title: Blog Posts
