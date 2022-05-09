@@ -171,6 +171,11 @@ blogposts:
     intro: |
       
     papers:
+      - title: Blog post style guide
+        link: "https://calc.hypotheses.org/4084"
+        authors:
+        conference: Computer-Assisted Language Comparison in Practice (09/05/2022)
+
       - title: A concept list for the study of semantic extensions from body to objects
         link: "https://calc.hypotheses.org/3840"
         authors:
