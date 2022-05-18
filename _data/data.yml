@@ -291,9 +291,9 @@ databases:
         link: "https://digling.org/norare/"
         tagline: "Tjuka, Annika, Robert Forkel, and Johann-Mattis List (eds.) 2021. NoRaRe. A database of Cross-Linguistic Norms, Ratings, and Relations for Words and Concepts (Version 0.2)."
         
-      - title: Concepticon 2.5.0
+      - title: Concepticon 2.6.0
         link: "https://concepticon.clld.org/"
-        tagline: "List, Johann Mattis, Christoph Rzymski, Simon Greenhill, Nathanael Schweikhard, Kristina Pianykh, Annika Tjuka, Carolin Hundt, and Robert Forkel (eds.) 2021. Concepticon. A resource for the linking of concept lists (Version 2.5.0)."
+        tagline: "List, Johann-Mattis, Annika Tjuka, Christoph Rzymski, Simon Greenhill, Nathanael Schweikhard, and Robert Forkel (eds.) 2022. Concepticon. A resource for the linking of concept lists (Version 2.6.0)."
 
 teaching:
     - degree: Seminar for Bachelor students
