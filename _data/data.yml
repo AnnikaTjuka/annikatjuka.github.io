@@ -54,8 +54,8 @@ sidebar:
 news:
     title: News
     summary: |
+      - We uploaded a new preprint to PsyArXiv: "<a href="https://psyarxiv.com/dpkmg/" target="_blank">Pitch contours of Northern Vietnamese tones vary with focus marking</a>".      
       - Our article <a href="https://doi.org/10.3758/s13428-021-01650-1" target="_blank">Linking norms, ratings, and relations of words and concepts across multiple language varieties</a> was published in <em>Behavior Research Methods</em>.      
-      - I wrote a new <a href="https://calc.hypotheses.org/3840" target="_blank">blog post</a> that presents the <a href="https://doi.org/10.5281/zenodo.6365495" target="_blank">list of concepts</a> that I will use for my study on body-object colexifications.
       - I presented my talk on <a href="https://annikatjuka-talks.github.io/slides/tjuka2022-body-object-colexification-DGKL.pdf" target="_blank">Body-part extensions from a cross-linguistic perspective</a> at the <a href="https://www.uni-erfurt.de/en/philosophische-fakultaet/seminare-professuren/sprachwissenschaft/research/9th-international-conference-of-the-german-cognitive-linguistics-association-dgkl-gcla-9" target="_blank">9th International Conference of the German Cognitive Linguistics Association</a>.
       - In an interview with the <em>Stuttgarter Kinderzeitung</em>, I anwered a <a href="/assets/pdfs/outreach/Seite-18-S_KIND-1-KIND-KIND-22-01-07-FRAG-1-S_KIND-1.pdf" target="_blank">question about language evolution</a> asked by 8-year-old Tilda. 
 
@@ -154,7 +154,13 @@ publications:
 preprints:
     title: Preprints
     intro: |
-      
+
+    papers:
+      - title: Pitch contours of Northern Vietnamese tones vary with focus marking
+        link: "https://psyarxiv.com/dpkmg/"
+        authors: Annika Tjuka, Huong T. T. Nguyen, Ruben van de Vijver, and Katharina Spalek
+        conference: PsyArXiv
+
     papers:
       - title: The representation of foot/leg polysemy in the mind — Insights from Vietnamese body part extensions with chân
         link: "http://dx.doi.org/10.17613/21y2-yz64"
