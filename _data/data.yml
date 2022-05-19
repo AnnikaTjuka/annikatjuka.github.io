@@ -154,13 +154,13 @@ publications:
 preprints:
     title: Preprints
     intro: |
-    papers:
+    
+  papers:
       - title: Pitch contours of Northern Vietnamese tones vary with focus marking
         link: "https://psyarxiv.com/dpkmg/"
         authors: Annika Tjuka, Huong T. T. Nguyen, Ruben van de Vijver, and Katharina Spalek
-        conference: PsyArXiv.
+        conference: PsyArXiv
 
-    papers:
       - title: The representation of foot/leg polysemy in the mind — Insights from Vietnamese body part extensions with chân
         link: "http://dx.doi.org/10.17613/21y2-yz64"
         authors: Annika Tjuka
