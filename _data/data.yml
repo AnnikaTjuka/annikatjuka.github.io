@@ -304,6 +304,11 @@ databases:
         tagline: "List, Johann-Mattis, Annika Tjuka, Christoph Rzymski, Simon Greenhill, Nathanael Schweikhard, and Robert Forkel (eds.) 2022. Concepticon. A resource for the linking of concept lists (Version 2.6.0)."
 
 teaching:
+    - degree: Workshop for Master and PhD students
+      university: Semantic Shifts Summer School, Fréjus, France.
+      time: Summer 2022
+      details: |
+        Title: <a href="https://annikatjuka.notion.site/Syllabus-ce3997d2d32343e89e7e0f7673666928" target="_blank">Same same but different - Semantic relations in language and thought</a>
     - degree: Seminar for Bachelor students
       university: Friedrich Schiller University, Department of English Studies, Jena, online.
       time: Winter Semester 2021/22
@@ -313,7 +318,7 @@ teaching:
       university: SHH Summer School - A doorway to human history, Max Planck Institute for the Science of Human History, Jena, online.
       time: August 2021
       details: |
-        Title: <a href="https://github.com/MPI-SHH-SummerSchool/dlce-material/blob/main/Introduction%20to%20Linguistic%20%26%20Cultural%20Evolution/slides-Intro-LinguisticAndCulturalEvolution.pdf" target="_blank">Introduction to Linguistic and Cultural Evolution</a>. Video available - <a href="https://youtu.be/pAb9vXQZsNE" target="_blank">click here</a>
+        Title: Computer-assisted approaches to lexical typology
     - degree: Class for Master and PhD students
       university: SHH Summer School - A doorway to human history, Max Planck Institute for the Science of Human History, Jena, online.
       time: August 2021
