@@ -58,6 +58,7 @@ news:
     title: News
     summary: |
       - We made a major release of [Concepticon 3.0](https://concepticon.clld.org/) and [NoRaRe 1.0](https://norare.clld.org/). New data, new web app, and new CLDF datasets.
+      - My [edited volume article](https://brill.com/display/book/9789004521971/BP000011.xml) on the use of *mặt* 'face' in Vietnamese is published in [Brill's Studies in Language, Cognition and Culture, Volume: 34](https://brill.com/display/title/63212?language=en).
       - This semester, I'm teaching an undergrad course on linguistic methods at Freie Universität Berlin.
       - We uploaded a new preprint to PsyArXiv: "<a href="https://psyarxiv.com/dpkmg/" target="_blank">Pitch contours of Northern Vietnamese tones vary with focus marking</a>".      
       - Our article <a href="https://doi.org/10.3758/s13428-021-01650-1" target="_blank">Linking norms, ratings, and relations of words and concepts across multiple language varieties</a> was published in <em>Behavior Research Methods</em>.      
@@ -125,6 +126,11 @@ publications:
     intro: |
       
     papers:
+      - title: Body part extensions with mặt ‘face’ in Vietnamese
+        link: "https://doi.org/10.1163/9789004521971_012"
+        authors: Annika Tjuka
+        conference: In Kelsie Pattillo and Maɫgorzata Waśniewska (eds). Embodiment in Cross-Linguistic Studies - The ‘Face’. Brill Studies in Language, Cognition and Culture, Volume 34. pp. 237–255.
+
       - title: Linking norms, ratings, and relations of words and concepts across multiple language varieties
         link: "https://doi.org/10.3758/s13428-021-01650-1"
         authors: Annika Tjuka, Robert Forkel, and Johann-Mattis List
@@ -174,11 +180,6 @@ preprints:
         link: "http://dx.doi.org/10.17613/21y2-yz64"
         authors: Annika Tjuka
         conference: In Mateus Cruz Maciel de Carvalho (ed). Embodiment in Cross-Linguistic Studies - The ‘Foot/Leg’. Brill Studies in Language, Cognition and Culture. Brill.
-
-      - title: Body part extensions with mặt ‘face’ in Vietnamese
-        link: "http://dx.doi.org/10.17613/23np-nt91"
-        authors: Annika Tjuka
-        conference: In Kelsie Pattillo and Maɫgorzata Waśniewska (eds). Embodiment in Cross-Linguistic Studies - The ‘Face’. Brill Studies in Language, Cognition and Culture. Brill.
 
 blogposts:
     title: Blog Posts
