@@ -127,6 +127,11 @@ publications:
     intro: |
       
     papers:
+      - title: Computer-Assisted Language Comparison in Practice. Volume 5
+        link: "https://doi.org/10.17613/0df3-gm47"
+        authors: Johann-Mattis List and Annika Tjuka (eds.)
+        conference: Humanities Commons. (2022)
+
       - title: Body part extensions with mặt ‘face’ in Vietnamese
         link: "https://brill.com/display/book/9789004521971/BP000011.xml"
         authors: Annika Tjuka
