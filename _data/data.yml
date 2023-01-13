@@ -127,11 +127,6 @@ publications:
     intro: |
       
     papers:
-      - title: Computer-Assisted Language Comparison in Practice. Volume 5
-        link: "https://doi.org/10.17613/0df3-gm47"
-        authors: Johann-Mattis List and Annika Tjuka (eds.)
-        conference: Humanities Commons. (2022)
-
       - title: Body part extensions with mặt ‘face’ in Vietnamese
         link: "https://brill.com/display/book/9789004521971/BP000011.xml"
         authors: Annika Tjuka
@@ -141,11 +136,6 @@ publications:
         link: "https://doi.org/10.3758/s13428-021-01650-1"
         authors: Annika Tjuka, Robert Forkel, and Johann-Mattis List
         conference: Behavior Research Methods 54. 864–884. (2022)
-
-      - title: Computer-Assisted Language Comparison in Practice. Volume 4
-        link: "https://doi.org/10.17613/a0ew-0n98"
-        authors: Johann-Mattis List and Annika Tjuka (eds.)
-        conference: Humanities Commons. (2021)
 
       - title: Foxes, deer, and hedgehogs - The recall of focus alternatives in Vietnamese
         link: "https://doi.org/10.5334/labphon.253"
@@ -192,6 +182,11 @@ blogposts:
     intro: |
       
     papers:
+      - title: Computer-Assisted Language Comparison in Practice. Volume 5
+        link: "https://doi.org/10.17613/0df3-gm47"
+        authors: Johann-Mattis List and Annika Tjuka (eds.)
+        conference: Humanities Commons (2022)
+
       - title: Blog post style guide
         link: "https://calc.hypotheses.org/4084"
         authors:
@@ -206,10 +201,16 @@ blogposts:
         link: "https://calc.hypotheses.org/3913"
         authors:
         conference: Computer-Assisted Language Comparison in Practice (28/02/2022)
+
       - title: Comparing NoRaRe data sets - calculation of correlations and creation of plots in R
         link: "https://calc.hypotheses.org/3109"
         authors:
         conference: Computer-Assisted Language Comparison in Practice (24/11/2021)
+
+      - title: Computer-Assisted Language Comparison in Practice. Volume 4
+        link: "https://doi.org/10.17613/a0ew-0n98"
+        authors: Johann-Mattis List and Annika Tjuka (eds.)
+        conference: Humanities Commons (2021)
 
       - title: A list of color, emotion, and human body part concepts
         link: "https://calc.hypotheses.org/3023"
