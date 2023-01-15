@@ -182,6 +182,11 @@ blogposts:
     intro: |
       
     papers:
+      - title: The origins of cross-linguistic colexifications
+        link: "https://calc.hypotheses.org/5001"
+        authors:
+        conference: Computer-Assisted Language Comparison in Practice (16/01/2023)
+        
       - title: Computer-Assisted Language Comparison in Practice. Volume 5
         link: "https://doi.org/10.17613/0df3-gm47"
         authors: Johann-Mattis List and Annika Tjuka (eds.)
