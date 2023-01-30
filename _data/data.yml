@@ -167,6 +167,11 @@ preprints:
     intro: |
       
     papers:
+      - title: Curating and extending data for language comparison in Concepticon and NoRaRe [version 1; peer review: awaiting peer review]
+        link: "https://doi.org/10.12688/openreseurope.15380.1"
+        authors: Annika Tjuka, Robert Forkel, and Johann-Mattis List
+        conference: Open Research Europe 2022, 2(141)
+        
       - title: Pitch contours of Northern Vietnamese tones vary with focus marking
         link: "https://psyarxiv.com/dpkmg/"
         authors: Annika Tjuka, Huong T. T. Nguyen, Ruben van de Vijver, and Katharina Spalek
