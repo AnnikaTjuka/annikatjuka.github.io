@@ -187,6 +187,11 @@ blogposts:
     intro: |
       
     papers:
+      - title: How to organize literature and notes in Zotero (How to do X in Linguistics 13)
+        link: "https://calc.hypotheses.org/5692"
+        authors:
+        conference: Computer-Assisted Language Comparison in Practice (06/03/2023)
+        
       - title: Cross-linguistic colexifications with body concepts - Metaphor, metonymy, analogy
         link: "https://calc.hypotheses.org/5234"
         authors:
