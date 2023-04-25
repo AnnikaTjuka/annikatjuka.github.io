@@ -273,6 +273,17 @@ blogposts:
         conference: Computer-Assisted Language Comparison in Practice (29/01/2020)
 
 talks:
+    title: Invited Talks
+    intro: |
+      A list of all my talks including links to slides is available here: <a href="https://annikatjuka-talks.github.io/" target="_blank">https://annikatjuka-talks.github.io/</a>.
+      For videos, check out my <a href="https://www.youtube.com/channel/UCTwJm5tJzG7TX4sma-5qnBw" target="_blank">YouTube channel</a>.
+    papers:
+      - title: If a car had feet, where would they be? Using the body as an analogy to name object parts
+        link: "tjuka2023-body-object-colexification-HHU-Colloquium.pdf"
+        authors: 
+        conference: Current Topics in General Linguistics – Research Colloquium at Heinrich Heine University Düsseldorf
+
+talks:
     title: Talks (most recent)
     intro: |
       A list of all my talks including links to slides is available here: <a href="https://annikatjuka-talks.github.io/" target="_blank">https://annikatjuka-talks.github.io/</a>.
