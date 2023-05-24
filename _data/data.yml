@@ -58,11 +58,8 @@ sidebar:
 news:
     title: News
     summary: |
-      - We made a major release of [Concepticon 3.0](https://concepticon.clld.org/) and [NoRaRe 1.0](https://norare.clld.org/). New data, new web app, and new CLDF datasets. The paper is available [here](https://doi.org/10.12688/openreseurope.15380.1).
+      - We made a major release of [Concepticon 3.0](https://concepticon.clld.org/) and [NoRaRe 1.0](https://norare.clld.org/). New data, new web app, and new CLDF datasets. The paper is available [here](https://doi.org/10.12688/openreseurope.15380.3).
       - My [edited volume article](https://brill.com/display/book/9789004521971/BP000011.xml) on the use of *mặt* 'face' in Vietnamese is published in [Brill's Studies in Language, Cognition and Culture, Volume: 34](https://brill.com/display/title/63212?language=en).
-      - This semester, I'm teaching an undergrad course on linguistic methods at Freie Universität Berlin.
-      - We uploaded a new preprint to PsyArXiv: "<a href="https://psyarxiv.com/dpkmg/" target="_blank">Pitch contours of Northern Vietnamese tones vary with focus marking</a>".      
-      - Our article <a href="https://doi.org/10.3758/s13428-021-01650-1" target="_blank">Linking norms, ratings, and relations of words and concepts across multiple language varieties</a> was published in <em>Behavior Research Methods</em>.      
       - In an interview with the <em>Stuttgarter Kinderzeitung</em>, I anwered a <a href="/assets/pdfs/outreach/Seite-18-S_KIND-1-KIND-KIND-22-01-07-FRAG-1-S_KIND-1.pdf" target="_blank">question about language evolution</a> asked by 8-year-old Tilda. 
 
 career-profile:
@@ -127,6 +124,11 @@ publications:
     intro: |
       
     papers:
+      - title: Curating and extending data for language comparison in Concepticon and NoRaRe
+        link: "https://doi.org/10.12688/openreseurope.15380.3"
+        authors: Annika Tjuka, Robert Forkel, and Johann-Mattis List
+        conference: Open Research Europe
+
       - title: Body part extensions with mặt ‘face’ in Vietnamese
         link: "https://brill.com/display/book/9789004521971/BP000011.xml"
         authors: Annika Tjuka
@@ -167,11 +169,6 @@ preprints:
     intro: |
       
     papers:
-      - title: Curating and extending data for language comparison in Concepticon and NoRaRe
-        link: "https://doi.org/10.12688/openreseurope.15380.1"
-        authors: Annika Tjuka, Robert Forkel, and Johann-Mattis List
-        conference: Open Research Europe
-        
       - title: Pitch contours of Northern Vietnamese tones vary with focus marking
         link: "https://psyarxiv.com/dpkmg/"
         authors: Annika Tjuka, Huong T. T. Nguyen, Ruben van de Vijver, and Katharina Spalek
