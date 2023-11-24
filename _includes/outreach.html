@@ -1,0 +1,38 @@
+{% assign outreach = site.data.data.outreach %}
+{% if outreach %}
+<section class="section outreach-section">
+
+  <h2 class="section-title">
+    <span class="fa-stack fa-xs">
+      <i class="fas fa-circle fa-stack-2x"></i>
+      <i class="fas fa-archive fa-stack-1x fa-inverse"></i>
+    </span>
+    {{ outreach.title }}
+  </h2>
+
+  {% if outreach.intro %}
+  <div class="intro">
+      <p>{{ outreach.intro }}</p>
+  </div><!--//intro-->
+  {% endif %}
+
+  {% for outreach in outreach.assignments %}
+    <div class="item">
+
+      <span class="outreach-title">
+        {% if outreach.link %}
+        <a href="{{ outreach.link }}" target="_blank">{{ outreach.title }}</a>
+        {% else %}
+        {{ outreach.title }}
+        {% endif %}
+      </span>
+
+      {% if outreach.tagline %}
+      - <span class="outreach-tagline">{{ outreach.tagline }}</span>
+      {% endif %}
+
+    </div><!--//item-->
+  {% endfor %}
+
+</section><!--//section-->
+{% endif %}
