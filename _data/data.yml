@@ -323,7 +323,7 @@ ourtreach:
     intro: |
       
     assignments:
-      - title: Was wäre, wenn du jede Sprache auf der Welt sprechen könntest? [What if you could speak every language in the world?]
+      - title: Was wäre, wenn du jede Sprache auf der Welt sprechen könntest? What if you could speak every language in the world?
         link: "https://annikatjuka-talks.github.io/slides/tjuka2023_Sprachdiversitaet_ScienceFestival.pdf"
         tagline: "Quantum Entanglement - Science and Music Open Air. Leipzig, Germany."
 
