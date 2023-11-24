@@ -318,15 +318,6 @@ talks:
         authors:
         conference: 12th Dubrovnik Conference on Cognitive Science (DUCOG), online. Video available - <a href="https://youtu.be/AdaagTy00M8" target="_blank">click here</a>
 
-ourtreach:
-    title: Outreach Activities
-    intro: |
-      
-    assignments:
-      - title: Was wäre, wenn du jede Sprache auf der Welt sprechen könntest? What if you could speak every language in the world?
-        link: "https://annikatjuka-talks.github.io/slides/tjuka2023_Sprachdiversitaet_ScienceFestival.pdf"
-        tagline: "Quantum Entanglement - Science and Music Open Air. Leipzig, Germany."
-
 projects:
     title: Projects
     intro: |
