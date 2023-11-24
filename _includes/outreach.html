@@ -16,19 +16,19 @@
   </div><!--//intro-->
   {% endif %}
 
-  {% for outreach in outreach.assignments %}
+  {% for outreacha in outreach.assignments %}
     <div class="item">
 
       <span class="outreach-title">
-        {% if outreach.link %}
-        <a href="{{ outreach.link }}" target="_blank">{{ outreach.title }}</a>
+        {% if outreacha.link %}
+        <a href="{{ outreacha.link }}" target="_blank">{{ outreacha.title }}</a>
         {% else %}
-        {{ outreach.title }}
+        {{ outreacha.title }}
         {% endif %}
       </span>
 
-      {% if outreach.tagline %}
-      - <span class="outreach-tagline">{{ outreach.tagline }}</span>
+      {% if outreacha.tagline %}
+      - <span class="outreacha-tagline">{{ outreacha.tagline }}</span>
       {% endif %}
 
     </div><!--//item-->
