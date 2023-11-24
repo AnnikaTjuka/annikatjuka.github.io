@@ -1,0 +1,32 @@
+{% assign outreacha = site.data.data.outreacha %}
+{% if outreacha %}
+<section class="section outreacha-section">
+
+  <h2 class="section-title">
+    <span class="fa-stack fa-xs">
+      <i class="fas fa-circle fa-stack-2x"></i>
+      <i class="fas fa-file-powerpoint fa-stack-1x fa-inverse"></i>
+    </span>
+    {{ outreacha.title }}
+  </h2>
+
+  {% if outreacha.intro %}
+  <div class="intro">
+    {{ outreacha.intro | markdownify }}
+  </div><!--//intro-->
+  {% endif %}
+
+  {% for outreach in outreacha.papers %}
+  <div class="item">
+    {% if outreach.link %}
+      <li><a href="{{ outreach.link }}">{{ outreach.title }}</a></li>
+    {% else %}
+      <li>{{ outreach.title }}</li>
+    {% endif %}
+    <div class="outreach-authors">{{ outreach.authors }}</div>
+    <div class="outreach-conference">{{ outreach.conference }}</div>
+  </div><!--//item-->
+  {% endfor %}
+
+</section><!--//section-->
+{% endif %}

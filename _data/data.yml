@@ -318,6 +318,17 @@ talks:
         authors:
         conference: 12th Dubrovnik Conference on Cognitive Science (DUCOG), online. Video available - <a href="https://youtu.be/AdaagTy00M8" target="_blank">click here</a>
 
+outreacha:
+    title: Outreach Activities
+    intro: |
+      A list of all my talks including links to slides is available here: <a href="https://annikatjuka-talks.github.io/" target="_blank">https://annikatjuka-talks.github.io/</a>.
+      For videos, check out my <a href="https://www.youtube.com/channel/UCTwJm5tJzG7TX4sma-5qnBw" target="_blank">YouTube channel</a>.
+    papers:
+      - title: Body-part extensions from a cross-linguistic perspective
+        link: "https://annikatjuka-talks.github.io/slides/tjuka2022-body-object-colexification-DGKL.pdf"
+        authors: 
+        conference: 9th International Conference of the German Cognitive Linguistics Association
+
 projects:
     title: Projects
     intro: |
