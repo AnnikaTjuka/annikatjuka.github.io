@@ -60,7 +60,7 @@ news:
     summary: |
       - I submitted my PhD dissertation entitled "Language Variation in Word Meanings: Cross-Linguistic Patterns and Causes of Colexifications".
       - We made a major release of [Concepticon 3.0](https://concepticon.clld.org/) and [NoRaRe 1.0](https://norare.clld.org/). New data, new web app, and new CLDF datasets. The paper is available [here](https://doi.org/10.12688/openreseurope.15380.3).
-      - My [edited volume article](https://brill.com/display/book/9789004521971/BP000011.xml) on the use of *mặt* 'face' in Vietnamese is published in [Brill's Studies in Language, Cognition and Culture, Volume: 34](https://brill.com/display/title/63212?language=en).
+      - My [edited volume article](/assets/pdfs/Tjuka-2023-Face-Vietnamese.pdf) on the use of *mặt* 'face' in Vietnamese is published in [Brill's Studies in Language, Cognition and Culture, Volume: 34](https://brill.com/display/book/9789004521971/BP000011.xml).
 
 career-profile:
     title: Research Profile
@@ -139,8 +139,7 @@ publications:
       - title: Body part extensions with mặt ‘face’ in Vietnamese
         link: "https://brill.com/display/book/9789004521971/BP000011.xml"
         authors: Annika Tjuka
-        conference: In Kelsie Pattillo and Maɫgorzata Waśniewska (eds). Embodiment in Cross-Linguistic Studies - The ‘Face’. Brill Studies in Language, Cognition and Culture, Volume 34. pp. 237–255. (2023)
-
+        conference: In Kelsie Pattillo and Maɫgorzata Waśniewska (eds). Embodiment in Cross-Linguistic Studies - The ‘Face’. Brill Studies in Language, Cognition and Culture, Volume 34. pp. 237–255. (2023). [Author copy](/assets/pdfs/Tjuka-2023-Face-Vietnamese.pdf)
       - title: Linking norms, ratings, and relations of words and concepts across multiple language varieties
         link: "https://doi.org/10.3758/s13428-021-01650-1"
         authors: Annika Tjuka, Robert Forkel, and Johann-Mattis List
