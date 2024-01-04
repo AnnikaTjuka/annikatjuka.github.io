@@ -187,9 +187,10 @@ preprints:
         conference: In Mateus Cruz Maciel de Carvalho (ed). Embodiment in Cross-Linguistic Studies - The ‘Foot/Leg’. Brill Studies in Language, Cognition and Culture. Brill.
 
 blogposts:
-    title: Blog Posts
+    title: Blog Posts (Most recent)
     intro: |
-      
+      A list of all my blog posts is available here: <a href="https://calc.hypotheses.org/author/annikatjuka" target="_blank">https://calc.hypotheses.org/author/annikatjuka</a>.
+
     papers:
       - title: How to organize literature and notes in Zotero (How to do X in Linguistics 13)
         link: "https://calc.hypotheses.org/5692"
@@ -225,56 +226,6 @@ blogposts:
         link: "https://calc.hypotheses.org/3913"
         authors:
         conference: Computer-Assisted Language Comparison in Practice (28/02/2022)
-
-      - title: Comparing NoRaRe data sets - calculation of correlations and creation of plots in R
-        link: "https://calc.hypotheses.org/3109"
-        authors:
-        conference: Computer-Assisted Language Comparison in Practice (24/11/2021)
-
-      - title: Computer-Assisted Language Comparison in Practice. Volume 4
-        link: "https://doi.org/10.17613/a0ew-0n98"
-        authors: Johann-Mattis List and Annika Tjuka (eds.)
-        conference: Humanities Commons (2021)
-
-      - title: A list of color, emotion, and human body part concepts
-        link: "https://calc.hypotheses.org/3023"
-        authors:
-        conference: Computer-Assisted Language Comparison in Practice (01/11/2021)
-
-      - title: Adding data sets to NoRaRe - A guide for beginners
-        link: "https://calc.hypotheses.org/2890"
-        authors:
-        conference: Computer-Assisted Language Comparison in Practice (11/08/2021)
-
-      - title: A multilingual body part concept list
-        link: "https://calc.hypotheses.org/2788"
-        authors:
-        conference: Computer-Assisted Language Comparison in Practice (14/06/2021)
-
-      - title: How to review concept lists in collaboration (How to do X in linguistics 6)
-        link: "https://calc.hypotheses.org/2680"
-        authors:
-        conference: Computer-Assisted Language Comparison in Practice (15/03/2021)
-
-      - title: How to organize a virtual journal club (How to do X in linguistics 4)
-        link: "https://calc.hypotheses.org/2613"
-        authors:
-        conference: Computer-Assisted Language Comparison in Practice (20/01/2021)
-
-      - title: Possibilities of digital communication in linguistics (How to do X in linguistics 2)
-        link: "https://calc.hypotheses.org/2556"
-        authors:
-        conference: Computer-Assisted Language Comparison in Practice (07/12/2020)
-
-      - title: A list of 171 body part concepts
-        link: "https://calc.hypotheses.org/2512"
-        authors:
-        conference: Computer-Assisted Language Comparison in Practice (28/09/2020)
-
-      - title: Adding concept lists to Concepticon - A guide for beginners
-        link: "https://calc.hypotheses.org/2225"
-        authors:
-        conference: Computer-Assisted Language Comparison in Practice (29/01/2020)
 
 invitedtalks:
     title: Invited Talks
@@ -312,11 +263,6 @@ talks:
         link: "https://annikatjuka-talks.github.io/slides/tjuka2021-face-Vietnamese-CLIC.pdf"
         authors:
         conference: 3rd Cultural Linguistics International Conference (CLIC-2021), online
-
-      - title: Meanings of body part terms - Cross-linguistic colexifications between body parts and objects
-        link: "https://annikatjuka-talks.github.io/slides/tjuka2021-body-colexifications-DUCOG.pdf"
-        authors:
-        conference: 12th Dubrovnik Conference on Cognitive Science (DUCOG), online. Video available - <a href="https://youtu.be/AdaagTy00M8" target="_blank">click here</a>
 
 outreacha:
     title: Outreach Activities
@@ -368,6 +314,11 @@ databases:
         tagline: "List, Johann-Mattis, Annika Tjuka, Christoph Rzymski, Simon Greenhill, and Robert Forkel (eds.) 2022. Concepticon. A resource for the linking of concept lists (Version 3.0)."
 
 teaching:
+    - degree: Seminar for Bachelor students
+      university: University of Passau, Germany.
+      time: Winter Semester 2023/24
+      details: |
+        Title: <a href="https://annikatjuka.notion.site/Syllabus-f96f7f25227a47eca5f52df44e51ca74?pvs=74" target="_blank">Sprachdiversität und Mehrsprachigkeit (Linguistic diversity and multilingualism)</a>
     - degree: Introductory course for Bachelor students
       university: Freie Universität Berlin, Germany.
       time: Winter Semester 2022/23
