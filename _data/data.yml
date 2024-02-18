@@ -57,7 +57,6 @@ news:
     summary: |
       - I submitted my PhD dissertation entitled "Language Variation in Word Meanings: Cross-Linguistic Patterns and Causes of Colexifications".
       - We made a major release of [Concepticon 3.0](https://concepticon.clld.org/) and [NoRaRe 1.0](https://norare.clld.org/). New data, new web app, and new CLDF datasets. The paper is available [here](https://doi.org/10.12688/openreseurope.15380.3).
-      - My [edited volume article](/assets/pdfs/Tjuka-2023-Face-Vietnamese.pdf) on the use of *mặt* 'face' in Vietnamese is published in [Brill's Studies in Language, Cognition and Culture, Volume: 34](https://brill.com/display/book/9789004521971/BP000011.xml).
 
 career-profile:
     title: Research Profile
@@ -97,16 +96,17 @@ experiences:
       company: <a href="https://www.geisteswissenschaften.fu-berlin.de/en/we04/index.html" target="_blank">Institute of German and Dutch Languages and Literatures</a> at <a href="https://www.fu-berlin.de/en/" target="_blank">Freie Universität Berlin</a>
       details: |
 
-    - role: Lecturer
+   - role: Lecturer
       time: 2019 - 2022
       company: <a href="https://www.iaa.uni-jena.de/en" target="_blank">Department of English Studies</a> at <a href="https://www.uni-jena.de/en" target="_blank">University of Jena</a>
       details: |
 
-    - role: Research Associate
+   - role: Research Associate
       time: 2019
       company: <a href="https://www.linguistik.hu-berlin.de/en/standardseite-en" target="_blank">Department of German Studies and Linguistics</a> at <a href="https://www.hu-berlin.de/en" target="_blank">Humboldt University Berlin</a>
       details: |
         Project on <a href="https://www.projekte.hu-berlin.de/en/fahmrrr/index.html" target="_blank">Focus Alternatives in the Human Mind - Retrieval, Representation and Recall</a> (FAHMRRR) led by Katharina Spalek, funded by European Research Council (ERC).
+
     - role: Student Research Assistant
       time: 2017 - 2019
       company: <a href="https://www.linguistik.hu-berlin.de/en/standardseite-en" target="_blank">Department of German Studies and Linguistics</a> at <a href="https://www.hu-berlin.de/en" target="_blank">Humboldt University Berlin</a>
@@ -194,6 +194,11 @@ blogposts:
       A list of all my blog posts is available here: <a href="https://calc.hypotheses.org/author/annikatjuka" target="_blank">https://calc.hypotheses.org/author/annikatjuka</a>.
 
     papers:
+      - title: How to visualize colexification networks in Cytoscape (How to do X in Linguistics 14)
+        link: "https://calc.hypotheses.org/6697"
+        authors:
+        conference: Computer-Assisted Language Comparison in Practice (19/02/2024)
+
       - title: How to organize literature and notes in Zotero (How to do X in Linguistics 13)
         link: "https://calc.hypotheses.org/5692"
         authors:
@@ -271,6 +276,11 @@ outreacha:
     intro: |
       
     papers:
+      - title: One Body, Many Words - Linguistic Diversity as a Window into the Mind
+        link: "https://www.uni-jena.de/3mt"
+        authors: 
+        conference: Three Minute Thesis competition ('3MT). Jena, Germany
+
       - title: Was wäre, wenn du jede Sprache auf der Welt sprechen könntest?
         link: "https://annikatjuka-talks.github.io/slides/tjuka2023_Sprachdiversitaet_ScienceFestival.pdf"
         authors: 
