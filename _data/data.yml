@@ -186,6 +186,11 @@ preprints:
     intro: |
       
     papers:
+      - title: Universal and cultural factors shape body part vocabularies
+        link: "https://doi.org/10.31234/osf.io/tu74k"
+        authors: Annika Tjuka, Robert Forkel, and Johann-Mattis List
+        conference: PsyArXiv
+
       - title: Pitch contours of Northern Vietnamese tones vary with focus marking
         link: "https://psyarxiv.com/dpkmg/"
         authors: Annika Tjuka, Huong T. T. Nguyen, Ruben van de Vijver, and Katharina Spalek
