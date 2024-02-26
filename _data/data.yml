@@ -55,7 +55,7 @@ sidebar:
 news:
     title: News
     summary: |
-      - My article titled "[Cognitive science from the perspective of linguistic diversity](https://doi.org/10.1111/cogs.13418)" was published.
+      - Our article titled "[Cognitive science from the perspective of linguistic diversity](https://doi.org/10.1111/cogs.13418)" was published.
       - I submitted my PhD dissertation entitled "Language Variation in Word Meanings: Cross-Linguistic Patterns and Causes of Colexifications".
       - We made a major release of [Concepticon 3.0](https://concepticon.clld.org/) and [NoRaRe 1.0](https://norare.clld.org/). New data, new web app, and new CLDF datasets. The paper is available [here](https://doi.org/10.12688/openreseurope.15380.3).
 
