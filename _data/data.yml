@@ -192,6 +192,11 @@ preprints:
     intro: |
       
     papers:
+      - title: Directional tendencies in semantic change
+        link: "https://doi.org/10.17613/0y0r-f341"
+        authors: Bocklage, Katja, Anna Di Natale, Annika Tjuka, and Johann-Mattis List
+        conference: Humanities Commons
+
       - title: Universal and cultural factors shape body part vocabularies
         link: "https://doi.org/10.31234/osf.io/tu74k"
         authors: Annika Tjuka, Robert Forkel, and Johann-Mattis List
