@@ -192,6 +192,11 @@ preprints:
     intro: |
       
     papers:
+      - title: Partial colexifications reveal directional tendencies in object naming
+        link: "https://doi.org/10.31234/osf.io/hc3j5"
+        authors: Annika Tjuka and Johann-Mattis List
+        conference: PsyArXiv
+
       - title: Directional tendencies in semantic change
         link: "https://doi.org/10.17613/0y0r-f341"
         authors: Katja Bocklage, Anna Di Natale, Annika Tjuka, and Johann-Mattis List
