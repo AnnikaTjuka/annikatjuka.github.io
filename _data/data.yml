@@ -55,9 +55,9 @@ sidebar:
 news:
     title: News
     summary: |
+      - My paper "[Objects as human bodies: Cross-linguistic colexifications between words for body parts and objects]"(https://doi.org/10.1515/lingty-2023-0032) was published in Linguistic Typology.
       - I successfully defended my dissertation entitled "Language Variation in Word Meanings: Cross-Linguistic Patterns and Causes of Colexifications".
       - Our article titled "[Cognitive science from the perspective of linguistic diversity](https://doi.org/10.1111/cogs.13418)" was published.
-      - We made a major release of [Concepticon 3.0](https://concepticon.clld.org/) and [NoRaRe 1.0](https://norare.clld.org/). New data, new web app, and new CLDF datasets. The paper is available [here](https://doi.org/10.12688/openreseurope.15380.3).
 
 career-profile:
     title: Research Profile
@@ -66,18 +66,24 @@ career-profile:
         - A video in which I present my research profile can be viewed on YouTube: <a href="https://youtu.be/KieYIwMyNc0" target="_blank">youtu.be/KieYIwMyNc0</a>
 
 education:
+    - degree: PhD in Linguistics
+      university: Humboldt-Universität zu Berlin
+      time: 2019 - 2024
+      details: |
+        PhD thesis: Language variation in word meanings: Cross-linguistic patterns and causes of colexifications
+        - Reviewers: Johann-Mattis List, Stephen C. Levinson, and Asifa Majid
     - degree: MA in Linguistics
       university: Humboldt-Universität zu Berlin
       time: 2016 - 2019
       details: |
         Master’s thesis: [Body-part metaphors as a window to cognition: A cross-linguistic study of object and landscape terms](http://dx.doi.org/10.17613/j95n-c998)
-        - Supervisors: Elisabeth Verhoeven and Kilu von Prince
+        - Reviewers: Elisabeth Verhoeven and Kilu von Prince
     - degree: BA in German Linguistics and Scandinavian Studies
       university: Humboldt-Universität zu Berlin
       time: 2012 - 2016
       details: |
         Bachelor’s thesis: Emotionalisation through texts
-        - Supervisors: Katharina Spalek and Manfred Krifka
+        - Reviewers: Katharina Spalek and Manfred Krifka
 
 experiences:
     - role: Postdoctoral Researcher
@@ -96,7 +102,7 @@ experiences:
       time: 2019 - 2023
       company: <a href="https://www.eva.mpg.de/linguistic-and-cultural-evolution/index/" target="_blank">Department of Linguistic and Cultural Evolution</a> at <a href="https://www.eva.mpg.de/linguistic-and-cultural-evolution/staff/annika-tjuka/" target="_blank">Max Planck Institute for Evolutionary Anthropology</a>
       details: |
-        Project on Cross-Linguistic Strategies of Denotation funded by International Max Planck Research School (IMPRS). The title of my dissertation is "Language variation in word meanings: Cross-linguistic patterns and causes of colexifications." My supervisors are <a href="https://lingulist.de/" target="_blank">Johann-Mattis List</a> and <a href="https://www.mpi.nl/people/levinson-stephen" target="_blank">Stephen C. Levinson</a>.
+        Project on Cross-Linguistic Strategies of Denotation funded by International Max Planck Research School (IMPRS). 
 
     - role: Lecturer
       time: 2022 - 2023
@@ -137,6 +143,11 @@ publications:
     intro: |
       
     papers:
+      - title: Objects as human bodies - Cross-linguistic colexifications between words for body parts and objects
+        link: "https://doi.org/10.1515/lingty-2023-0032"
+        authors: Annika Tjuka
+        conference: Linguistic Typology. p. 1–40. (2024)
+
       - title: Cognitive science from the perspective of linguistic diversity
         link: "https://doi.org/10.1111/cogs.13418"
         authors: Yoolim Kim and Annika Tjuka (shared authorship)
