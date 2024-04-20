@@ -1,0 +1,22 @@
+{% assign coding = site.data.data.sidebar.coding %}
+{% if coding %}
+<div class="coding-container container-block">
+
+  <h2 class="container-block-title">
+    coding
+  </h2>
+
+  <ul class="list-unstyled coding-list">
+    {% for coding in coding %}
+
+      {% if coding.link %}
+      <li><a href="{{ coding.link }}">{{ coding.item }}</a></li>
+      {% else %}
+      <li>{{ coding.item }}</li>
+      {% endif %}
+
+    {% endfor %}
+  </ul>
+
+</div><!--//coding-->
+{% endif %}

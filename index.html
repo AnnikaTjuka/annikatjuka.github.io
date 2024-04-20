@@ -1,0 +1,33 @@
+---
+layout: default
+---
+
+{% include news.html %}
+
+{% include career-profile.html %}
+
+{% unless site.data.data.sidebar.education %}
+  {% include education.html %}
+{% endunless %}
+
+{% include experiences.html %}
+
+{% include publications.html %}
+
+{% include preprints.html %}
+
+{% include blogposts.html %}
+
+{% include invitedtalks.html %}
+
+{% include talks.html %}
+
+{% include outreacha.html %}
+
+{% include projects.html %}
+
+{% include databases.html %}
+
+{% include teaching.html %}
+
+{% include bookshelf.html %}
