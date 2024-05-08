@@ -55,6 +55,7 @@ sidebar:
 news:
     title: News
     summary: |
+      - Our study on body part vocabularies was published in Scientific Reports: "[Universal and cultural factors shape body part vocabularies](https://doi.org/10.1038/s41598-024-61140-0)".
       - My paper "[Objects as human bodies: Cross-linguistic colexifications between words for body parts and objects](https://doi.org/10.1515/lingty-2023-0032)" was published in Linguistic Typology.
       - I successfully defended my dissertation entitled "Language Variation in Word Meanings: Cross-Linguistic Patterns and Causes of Colexifications".
       - Our article titled "[Cognitive science from the perspective of linguistic diversity](https://doi.org/10.1111/cogs.13418)" was published.
@@ -143,6 +144,11 @@ publications:
     intro: |
       
     papers:
+      - title: Universal and cultural factors shape body part vocabularies
+        link: "https://doi.org/10.1038/s41598-024-61140-0"
+        authors: Annika Tjuka, Robert Forkel, and Johann-Mattis List
+        conference: Scientific Reports 14(1). p. 1–12. (2024)
+
       - title: Objects as human bodies - Cross-linguistic colexifications between words for body parts and objects
         link: "https://doi.org/10.1515/lingty-2023-0032"
         authors: Annika Tjuka
@@ -212,11 +218,6 @@ preprints:
         link: "https://doi.org/10.17613/0y0r-f341"
         authors: Katja Bocklage, Anna Di Natale, Annika Tjuka, and Johann-Mattis List
         conference: Humanities Commons
-
-      - title: Universal and cultural factors shape body part vocabularies
-        link: "https://doi.org/10.31234/osf.io/tu74k"
-        authors: Annika Tjuka, Robert Forkel, and Johann-Mattis List
-        conference: PsyArXiv
 
       - title: Investigating the variation of intonation contours in Northern Vietnamese tones
         link: "https://psyarxiv.com/dpkmg/"
