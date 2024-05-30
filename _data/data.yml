@@ -233,6 +233,11 @@ blogposts:
       A list of all my blog posts is available here: <a href="https://calc.hypotheses.org/author/annikatjuka" target="_blank">https://calc.hypotheses.org/author/annikatjuka</a>.
 
     papers:
+      - title: Von Kopf bis Fuß - Wie Sprachen Körperteile benennen
+        link: "https://scilogs.spektrum.de/thinky-brain/von-kopf-bis-fuss-wie-sprachen-koerperteile-benennen/"
+        authors:
+        conference: Thinky & Brain - SciLogs (30/05/2024)
+
       - title: How to visualize colexification networks in Cytoscape (How to do X in Linguistics 14)
         link: "https://calc.hypotheses.org/6697"
         authors:
