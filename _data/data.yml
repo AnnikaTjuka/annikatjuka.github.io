@@ -142,6 +142,11 @@ publications:
     intro: |
       
     papers:
+      - title: Investigating the variation of intonation contours in Northern Vietnamese tones
+        link: "https://doi.org/10.3389/feduc.2024.1411660"
+        authors: Annika Tjuka, Huong T. T. Nguyen, Ruben van de Vijver, and Katharina Spalek
+        conference: Frontiers in Education 9. p. 1–9. (2024)
+
       - title: Universal and cultural factors shape body part vocabularies
         link: "https://doi.org/10.1038/s41598-024-61140-0"
         authors: Annika Tjuka, Robert Forkel, and Johann-Mattis List
@@ -216,11 +221,6 @@ preprints:
         link: "https://doi.org/10.17613/0y0r-f341"
         authors: Katja Bocklage, Anna Di Natale, Annika Tjuka, and Johann-Mattis List
         conference: Humanities Commons
-
-      - title: Investigating the variation of intonation contours in Northern Vietnamese tones
-        link: "https://psyarxiv.com/dpkmg/"
-        authors: Annika Tjuka, Huong T. T. Nguyen, Ruben van de Vijver, and Katharina Spalek
-        conference: PsyArXiv
 
       - title: The representation of foot/leg polysemy in the mind — Insights from Vietnamese body part extensions with chân
         link: "http://dx.doi.org/10.17613/21y2-yz64"
