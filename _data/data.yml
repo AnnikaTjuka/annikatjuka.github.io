@@ -233,6 +233,11 @@ blogposts:
       A list of all my blog posts on _Computer-Assisted Language Comparison in Practice_ is available here: <a href="https://calc.hypotheses.org/author/annikatjuka" target="_blank">https://calc.hypotheses.org/author/annikatjuka</a>.
 
     papers:
+      - title: An extended concept list of Vietnamese
+        link: "https://calc.hypotheses.org/7208"
+        authors:
+        conference: Computer-Assisted Language Comparison in Practice (19/06/2024)
+
       - title: Von Kopf bis Fuß - Wie Sprachen Körperteile benennen
         link: "https://scilogs.spektrum.de/thinky-brain/von-kopf-bis-fuss-wie-sprachen-koerperteile-benennen/"
         authors:
