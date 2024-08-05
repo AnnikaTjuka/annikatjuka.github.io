@@ -142,6 +142,12 @@ publications:
     intro: |
       
     papers:
+        
+      - title: Partial colexifications reveal directional tendencies in object naming
+        link: "https://doi.org/10.31234/osf.io/hc3j5"
+        authors: Annika Tjuka and Johann-Mattis List
+        conference: Yearbook of the German Cognitive Linguistics Association (forthcoming)
+        
       - title: Investigating the variation of intonation contours in Northern Vietnamese tones
         link: "https://doi.org/10.3389/feduc.2024.1411660"
         authors: Annika Tjuka, Huong T. T. Nguyen, Ruben van de Vijver, and Katharina Spalek
@@ -212,10 +218,6 @@ preprints:
     intro: |
       
     papers:
-      - title: Partial colexifications reveal directional tendencies in object naming
-        link: "https://doi.org/10.31234/osf.io/hc3j5"
-        authors: Annika Tjuka and Johann-Mattis List
-        conference: PsyArXiv
 
       - title: Directional tendencies in semantic change
         link: "https://doi.org/10.17613/0y0r-f341"
