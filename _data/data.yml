@@ -27,8 +27,6 @@ sidebar:
 
       - idiom: Vietnamese
 
-      - idiom: Danish
-
     coding:
       - item: R
         link:
@@ -36,21 +34,12 @@ sidebar:
       - item: Python
         link:
 
-      - item: MATLAB
-        link:
-
     interests:
-      - item: Running
+      - item: Long-distance running
         link:
 
-      - item: Yoga
+      - item: Aerial yoga
         link:
-
-      - item: Jigsaw puzzles
-        link:
-
-      - item: Cooking
-        link: 
 
 news:
     title: News
