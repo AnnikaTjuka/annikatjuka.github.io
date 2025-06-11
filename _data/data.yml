@@ -204,7 +204,7 @@ publications:
       - title: Tagging modality in Oceanic languages of Melanesia
         link: "https://doi.org/10.18653/v1/W19-4008"
         authors: Annika Tjuka, Lena Weißmann, and Kilu von Prince
-        conference: In Annemarie Friedrich, Deniz Zeyrek & Jet Hoek (eds.), Proceedings of the 13th Linguistic Annotation Workshop. Florence, Italy. Association for Computational Linguistics. p. 65–70. (2019)
+        conference: In Annemarie Friedrich, Deniz Zeyrek and Jet Hoek (eds.), Proceedings of the 13th Linguistic Annotation Workshop. Florence, Italy. Association for Computational Linguistics. p. 65–70. (2019)
 
       - title:  Habitual aspect as a property of text spans
         link: "https://www.researchgate.net/publication/333210593_Habitual_aspect_as_a_property_of_text_spans"
@@ -369,11 +369,16 @@ databases:
         link: "https://norare.clld.org/"
         tagline: "Tjuka, Annika, Robert Forkel, and Johann-Mattis List (eds.) 2022. NoRaRe. A database of Cross-Linguistic Norms, Ratings, and Relations for Words and Concepts (Version 1.0)."
         
-      - title: Concepticon 3.0
+      - title: Concepticon 3.4.0
         link: "https://concepticon.clld.org/"
-        tagline: "List, Johann-Mattis, Annika Tjuka, Christoph Rzymski, Simon Greenhill, and Robert Forkel (eds.) 2022. Concepticon. A resource for the linking of concept lists (Version 3.0)."
+        tagline: "List, Johann Mattis and Tjuka, Annika and Blum, Frederic and Kučerová, Alžběta and Ugarte, Carlos Barrientos and Rzymski, Christoph and Greenhill, Simon and Forkel, Robert (eds.) 2022. Concepticon. A resource for the linking of concept lists (Version 3.0)."
 
 teaching:
+    - degree: Teaching Material
+      university: OpenEvo - Educational Innovation Research for Understanding Humans.
+      time: June 2025
+      details: |
+        Title: <a href="https://openevo.eva.mpg.de/teachingbase/the-evolution-of-language/" target="_blank">The Evolution of Language</a>
     - degree: Seminar for Bachelor students
       university: University of Passau, Germany.
       time: Winter Semester 2023/24
