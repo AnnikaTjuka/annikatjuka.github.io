@@ -374,18 +374,18 @@ databases:
         tagline: "List, Johann Mattis and Tjuka, Annika and Blum, Frederic and Kučerová, Alžběta and Ugarte, Carlos Barrientos and Rzymski, Christoph and Greenhill, Simon and Forkel, Robert (eds.) 2022. Concepticon. A resource for the linking of concept lists (Version 3.0)."
 
 teaching:
-    - degree: Teaching Material
+    - degree: Teaching Material for High-School Students
       university: OpenEvo - Educational Innovation Research for Understanding Humans.
       time: June 2025
       details: |
         Title: <a href="https://openevo.eva.mpg.de/teachingbase/the-evolution-of-language/" target="_blank">The Evolution of Language</a>
-    - degree: Guest Lecture
-      university: Seminar on Psychology of Language for Bachelor students at Wellesley College.
+    - degree: Guest Lecture for Bachelor students
+      university: Seminar on Psychology of Language at Wellesley College.
       time: November 2025
       details: |
         Title: Cognitive Science from the Perspective of Linguistic Diversity
-    - degree: Guest Lecture
-      university: Seminar for PhD students as part of the International Max Planck Research School Core Seminar Week.
+    - degree: Guest Lecture for PhD students
+      university: Seminar as part of the International Max Planck Research School Core Seminar Week.
       time: April 2025
       details: |
         Title: Body Part Vocabularies across Languages
