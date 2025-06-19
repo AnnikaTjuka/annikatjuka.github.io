@@ -324,6 +324,21 @@ outreacha:
     intro: |
       
     papers:
+      - title: Der Schatz der Sprachen - Warum wir Wortschätze in Datenbanken sammeln (The treasure of languages – Why we collect vocabularies in databases)
+        link: "https://www.eva.mpg.de/events/20250620-long-night-of-science/"
+        authors: 
+        conference: Long Night of Science. Max Planck Institute for Evolutionary Anthropology. Leipzig, Germany
+
+      - title: Anatomie der Sprache - Eine Reise von Kopf bis Fuß (Anatomy of language - A journey from head to toe)
+        link: ""
+        authors: 
+        conference: School Event organised by SoapBox Science and NeuroCure. Berlin, Germany
+
+      - title: Anatomie der Sprache - Eine Reise von Kopf bis Fuß (Anatomy of language - A journey from head to toe)
+        link: "https://berlinsoapboxscience.wordpress.com/2025/05/30/soapbox-science-event-2025-2/"
+        authors: 
+        conference: SoapBox Science. Berlin, Germany
+
       - title: One body, many words - Linguistic diversity as a window into the mind
         link: "https://www.uni-jena.de/3mt"
         authors: 
