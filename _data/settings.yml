@@ -1,6 +1,7 @@
 menu:
 - {name: 'publications', url: '/publications'}
 - {name: 'cv', url: '/cv'}
+- {name: 'blog posts', url: '/blogposts'}
 - {name: 'contact', url: '/contact'}
 
 courses:
