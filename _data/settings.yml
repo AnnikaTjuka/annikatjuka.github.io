@@ -10,7 +10,8 @@ courses:
 - {name: 'Stellar Structures', url: 'stellar-structures'}
 
 blogposts:
-- {name: 'Adding Concept Lists to Concepticon: A Guide for Beginners. Computer-Assisted Language Comparison in Practice 3(1). 1–5.', url: 'https://calc.hypotheses.org/2225'}
+- {name: 'Link to all my blog posts in Computer-Assisted Language Comparison in Practice', url: 'https://calc.hypotheses.org/author/annikatjuka'}
+- {name: 'Von Kopf bis Fuß - Wie Sprachen Körperteile benennen. In Spektrum.de - Thinky & Brain', url: 'https://scilogs.spektrum.de/thinky-brain/von-kopf-bis-fuss-wie-sprachen-koerperteile-benennen/'}
 
 
 people:
