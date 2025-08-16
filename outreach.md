@@ -1,4 +1,4 @@
 ---
-layout: people
-title: "People"
+layout: outreach
+title: "Outreach"
 ---
