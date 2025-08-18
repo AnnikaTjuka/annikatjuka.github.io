@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Soapbox"
+title: "Soapbox Science Berlin"
 ---
 
 Researcher - Physics & Astronomy

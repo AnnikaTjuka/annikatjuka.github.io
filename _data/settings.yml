@@ -2,6 +2,7 @@ menu:
 - {name: 'publications', url: '/publications'}
 - {name: 'cv', url: '/cv'}
 - {name: 'blog posts', url: '/blogposts'}
+- {name: 'outreach', url: '/outreach'}
 - {name: 'contact', url: '/contact'}
 
 courses:
@@ -14,8 +15,8 @@ blogposts:
 - {name: 'Von Kopf bis Fuß - Wie Sprachen Körperteile benennen. In Spektrum.de - Thinky & Brain', url: 'https://scilogs.spektrum.de/thinky-brain/von-kopf-bis-fuss-wie-sprachen-koerperteile-benennen/'}
 
 
-people:
-- {name: 'Lab Technician', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/lab-technician.jpg', url: 'lab-technician'}
+outreach:
+- {name: 'Soapbox Science Berlin', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/lab-technician.jpg', url: 'lab-technician'}
 - {name: 'Graduate Student', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/graduate-student.jpg', url: 'graduate-student'}
 
 social:
