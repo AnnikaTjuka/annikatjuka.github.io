@@ -16,7 +16,11 @@ blogposts:
 
 
 outreach:
-- {name: 'Long Night of Science Leipzig', title: 'Speaker', department: 'Der Schatz der Sprachen - Warum wir Wortschätze in Datenbanken sammeln', image: 'assets/img/outreach/tjuka2025_LangeNacht.png', url: 'https://www.eva.mpg.de/events/20250620-long-night-of-science/'}
+- {name: 'Computer-Assisted Language Comparison in Practice', title: 'Blog Posts', department: '', image: '', url: 'https://calc.hypotheses.org/author/annikatjuka'}
+- {name: 'Long Night of Science Leipzig 2025', title: 'Speaker', department: '', image: 'assets/img/outreach/tjuka2025_LangeNacht.png', url: 'https://www.eva.mpg.de/events/20250620-long-night-of-science/'}
+- {name: 'Three Minute Thesis Competition 2024', title: 'Speaker', department: 'One Body, Many Words: Linguistic Diversity as a Window into the Mind', image: 'assets/img/outreach/tjuka2024_3MTC.png', url: 'https://www.uni-jena.de/en/293073/three-minute-thesis-competition-2025'}
+
+
 
 social:
 - {icon: 'github', link: 'https://github.com/AnnikaTjuka'}
