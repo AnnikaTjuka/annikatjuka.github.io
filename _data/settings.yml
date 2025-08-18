@@ -12,14 +12,15 @@ courses:
 
 blogposts:
 - {name: 'Link to all my blog posts in Computer-Assisted Language Comparison in Practice', url: 'https://calc.hypotheses.org/author/annikatjuka'}
-- {name: 'Von Kopf bis Fuß - Wie Sprachen Körperteile benennen. In Spektrum.de - Thinky & Brain', url: 'https://scilogs.spektrum.de/thinky-brain/von-kopf-bis-fuss-wie-sprachen-koerperteile-benennen/'}
+- {name: 'Von Kopf bis Fuß - Wie Sprachen Körperteile benennen. In Spektrum.de - Thinky & Brain', url: ''}
 
 
 outreach:
 - {name: 'Computer-Assisted Language Comparison in Practice', title: 'Blog Posts', department: '', image: 'assets/img/outreach/blog.jpg', url: 'https://calc.hypotheses.org/author/annikatjuka'}
-- {name: 'Long Night of Science Leipzig 2025', title: 'Speaker', department: '', image: 'assets/img/outreach/tjuka2025_LangeNacht.png', url: 'https://www.eva.mpg.de/events/20250620-long-night-of-science/'}
-- {name: 'Three Minute Thesis Competition 2024', title: 'Speaker', department: 'One Body, Many Words: Linguistic Diversity as a Window into the Mind', image: 'assets/img/outreach/tjuka2024_3MTC.png', url: 'https://www.uni-jena.de/en/293073/three-minute-thesis-competition-2025'}
 - {name: 'YouTube', title: 'Videos', department: '', image: 'assets/img/outreach/youtube.jpg', url: 'https://www.uni-jena.de/en/293073/three-minute-thesis-competition-2025'}
+- {name: 'Long Night of Science Leipzig 2025', title: 'Speaker', department: '', image: 'assets/img/outreach/tjuka2025_LangeNacht.png', url: 'https://www.eva.mpg.de/events/20250620-long-night-of-science/'}
+- {name: 'Spektrum.de - Thinky & Brain', title: 'Blog Post', department: 'Von Kopf bis Fuß - Wie Sprachen Körperteile benennen', image: 'assets/img/outreach/thinky.png', url: 'https://scilogs.spektrum.de/thinky-brain/von-kopf-bis-fuss-wie-sprachen-koerperteile-benennen/'}
+- {name: 'Three Minute Thesis Competition 2024', title: 'Speaker', department: 'One Body, Many Words: Linguistic Diversity as a Window into the Mind', image: 'assets/img/outreach/tjuka2024_3MTC.png', url: 'https://www.uni-jena.de/en/293073/three-minute-thesis-competition-2025'}
 
 
 
