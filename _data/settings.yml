@@ -25,9 +25,12 @@ outreach:
 - {name: 'YouTube', title: 'Videos', department: '', image: 'assets/img/outreach/youtube.jpg', url: 'https://www.youtube.com/channel/UCTwJm5tJzG7TX4sma-5qnBw'}
 
 talks:
-- {name: 'Keynote', title: 'Emerging Topics in Typology (ETT) conference', department: '', image: 'assets/img/talks/tjuka2025_Keynote_ETT.png', url: 'assets/slides/tjuka2025_Keynote_ETT.pdf'}
+- {name: 'Keynote', title: 'Emerging Topics in Typology (ETT) conference', department: 'Leipzig, Germany', image: 'assets/img/talks/tjuka2025_Keynote_ETT.png', url: 'assets/slides/tjuka2025_Keynote_ETT.pdf'}
 - {name: '', title: 'Talk Series: Diversity in Linguistics', department: 'Online', image: 'assets/img/talks/tjuka2025_BodyObjectAnimal_LingDivSeries.png', url: 'https://div-ling.org/wp-content/uploads/2025/05/Tjuka2025-BodyObjectAnimal-LingDiv-Talk.pdf'}
 - {name: '', title: 'COGSCI 2024', department: 'Rotterdam, Netherlands', image: 'assets/img/talks/tjuka2024_Body_Colexi.png', url: 'assets/slides/tjuka2024_Body_Colexi.pdf'}
+- {name: '', title: 'Graduate Colloquium at Chair of Multilingual Computational Linguistics', department: 'Passau, Germany', image: 'assets/img/talks/tjuka2024_Directional_Tendencies.png', url: 'assets/slides/tjuka2024_Directional_Tendencies.pdf'}
+- {name: '', title: 'Friedrich Schiller University', department: 'Jena, Germany', image: 'assets/img/talks/tjuka2024_Defense.png', url: 'assets/slides/tjuka2024_Defense.pdf'}
+- {name: '', title: 'Workshop on Cross-Linguistic Data Formats 2023 - Graphs and Text', department: 'Leipzig, Germany', image: 'assets/img/talks/tjuka2023_Networks_CLDF.png', url: 'assets/slides/tjuka2023_Networks_CLDF.pdf'}
 
 
 social:
