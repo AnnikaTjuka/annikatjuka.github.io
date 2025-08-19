@@ -25,7 +25,7 @@ outreach:
 - {name: 'YouTube', title: 'Videos', department: '', image: 'assets/img/outreach/youtube.jpg', url: 'https://www.youtube.com/channel/UCTwJm5tJzG7TX4sma-5qnBw'}
 
 talks:
-- {name: 'Long Night of Science Leipzig 2025', title: 'Speaker', department: '', image: 'assets/img/outreach/tjuka2025_LangeNacht.png', url: 'https://www.eva.mpg.de/events/20250620-long-night-of-science/'}
+- {name: 'Lexical Typology at Scale - How Databases Transform the Study of Colexifications', title: 'Emerging Topics in Typology (ETT) conference.', department: 'Leipzig, Germany.', image: 'assets/img/talks/tjuka2025_Keynote_ETT.png', url: 'https://www.eva.mpg.de/linguistic-and-cultural-evolution/events/2025-emerging-topics-in-typology/'}
 
 
 social:
