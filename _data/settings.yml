@@ -27,20 +27,7 @@ outreach:
 talks:
 - {name: 'Keynote', title: 'Emerging Topics in Typology (ETT) conference', department: '', image: 'assets/img/talks/tjuka2025_Keynote_ETT.png', url: 'assets/slides/tjuka2025_Keynote_ETT.pdf'}
 - {name: '', title: 'Talk Series: Diversity in Linguistics', department: 'Online', image: 'assets/img/talks/tjuka2025_BodyObjectAnimal_LingDivSeries.png', url: 'https://div-ling.org/wp-content/uploads/2025/05/Tjuka2025-BodyObjectAnimal-LingDiv-Talk.pdf'}
-- {name: '', title: '', department: '', image: 'assets/img/talks/', url: 'assets/slides/tjuka2025_Keynote_ETT.pdf'}
-- {name: '', title: '', department: '', image: 'assets/img/talks/', url: 'assets/slides/tjuka2025_Keynote_ETT.pdf'}
-- {name: '', title: '', department: '', image: 'assets/img/talks/', url: 'assets/slides/tjuka2025_Keynote_ETT.pdf'}
-- {name: '', title: '', department: '', image: 'assets/img/talks/', url: 'assets/slides/tjuka2025_Keynote_ETT.pdf'}
-- {name: '', title: '', department: '', image: 'assets/img/talks/', url: 'assets/slides/tjuka2025_Keynote_ETT.pdf'}
-- {name: '', title: '', department: '', image: 'assets/img/talks/', url: 'assets/slides/tjuka2025_Keynote_ETT.pdf'}
-- {name: '', title: '', department: '', image: 'assets/img/talks/', url: 'assets/slides/tjuka2025_Keynote_ETT.pdf'}
-- {name: '', title: '', department: '', image: 'assets/img/talks/', url: 'assets/slides/tjuka2025_Keynote_ETT.pdf'}
-- {name: '', title: '', department: '', image: 'assets/img/talks/', url: 'assets/slides/tjuka2025_Keynote_ETT.pdf'}
-- {name: '', title: '', department: '', image: 'assets/img/talks/', url: 'assets/slides/tjuka2025_Keynote_ETT.pdf'}
-- {name: '', title: '', department: '', image: 'assets/img/talks/', url: 'assets/slides/tjuka2025_Keynote_ETT.pdf'}
-- {name: '', title: '', department: '', image: 'assets/img/talks/', url: 'assets/slides/tjuka2025_Keynote_ETT.pdf'}
-- {name: '', title: '', department: '', image: 'assets/img/talks/', url: 'assets/slides/tjuka2025_Keynote_ETT.pdf'}
-- {name: '', title: '', department: '', image: 'assets/img/talks/', url: 'assets/slides/tjuka2025_Keynote_ETT.pdf'}
+- {name: '', title: 'COGSCI 2024', department: 'Rotterdam, Netherlands', image: 'assets/img/talks/tjuka2024_Body_Colexi.png', url: 'assets/slides/tjuka2024_Body_Colexi.pdf'}
 
 
 social:
