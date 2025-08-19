@@ -1,4 +1,4 @@
 ---
-layout: outreach
-title: "Outreach"
+layout: talks
+title: "Talks"
 ---
