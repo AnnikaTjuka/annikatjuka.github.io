@@ -28,11 +28,11 @@ talks:
 - {name: 'Keynote', title: 'Emerging Topics in Typology (ETT) Conference 2025', department: 'Leipzig, Germany', image: 'assets/img/talks/tjuka2025_Keynote_ETT.png', url: 'assets/slides/tjuka2025_Keynote_ETT.pdf'}
 - {name: '', title: 'Talk Series: Diversity in Linguistics', department: 'Online', image: 'assets/img/talks/tjuka2025_BodyObjectAnimal_LingDivSeries.png', url: 'https://div-ling.org/wp-content/uploads/2025/05/Tjuka2025-BodyObjectAnimal-LingDiv-Talk.pdf'}
 - {name: '', title: 'COGSCI 2024', department: 'Rotterdam, Netherlands', image: 'assets/img/talks/tjuka2024_Body_Colexi.png', url: 'assets/slides/tjuka2024_Body_Colexi.pdf'}
-- {name: '', title: 'Graduate Colloquium at Chair of Multilingual Computational Linguistics', department: 'Passau, Germany', image: 'assets/img/talks/tjuka2024_Directional_Tendencies.png', url: 'assets/slides/tjuka2024_Directional_Tendencies.pdf'}
+- {name: 'Invited Talk', title: 'Graduate Colloquium at Chair of Multilingual Computational Linguistics', department: 'Passau, Germany', image: 'assets/img/talks/tjuka2024_Directional_Tendencies.png', url: 'assets/slides/tjuka2024_Directional_Tendencies.pdf'}
 - {name: '', title: 'Friedrich Schiller University', department: 'Jena, Germany', image: 'assets/img/talks/tjuka2024_Defense.png', url: 'assets/slides/tjuka2024_Defense.pdf'}
 - {name: '', title: 'Workshop on Cross-Linguistic Data Formats 2023 - Graphs and Text', department: 'Leipzig, Germany', image: 'assets/img/talks/tjuka2023_Networks_CLDF.png', url: 'assets/slides/tjuka2023_Networks_CLDF.pdf'}
 - {name: '', title: '16th International Cognitive Linguistics Conference 2023', department: 'Düsseldorf, Germany', image: 'assets/img/talks/tjuka2023-body-object-partialcolexification-ICLC16.png', url: 'assets/slides/tjuka2023-body-object-partialcolexification-ICLC16.pdf'}
-- {name: '', title: 'Current Topics in General Linguistics - Research Colloquium at Heinrich Heine University', department: 'Düsseldorf, Germany', image: 'assets/img/talks/tjuka2023-body-object-colexification-HHU-Colloquium.png', url: 'assets/slides/tjuka2023-body-object-colexification-HHU-Colloquium.pdf'}
+- {name: 'Invited Talk', title: 'Current Topics in General Linguistics - Research Colloquium at Heinrich Heine University', department: 'Düsseldorf, Germany', image: 'assets/img/talks/tjuka2023-body-object-colexification-HHU-Colloquium.png', url: 'assets/slides/tjuka2023-body-object-colexification-HHU-Colloquium.pdf'}
 
 
 social:
