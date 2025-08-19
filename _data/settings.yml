@@ -1,6 +1,7 @@
 menu:
 - {name: 'publications', url: '/publications'}
 - {name: 'cv', url: '/cv'}
+- {name: 'talks', url: '/talks'}
 - {name: 'outreach', url: '/outreach'}
 - {name: 'contact', url: '/contact'}
 
@@ -23,6 +24,8 @@ outreach:
 - {name: 'Computer-Assisted Language Comparison in Practice', title: 'Blog Posts', department: '', image: 'assets/img/outreach/blog.jpg', url: 'https://calc.hypotheses.org/author/annikatjuka'}
 - {name: 'YouTube', title: 'Videos', department: '', image: 'assets/img/outreach/youtube.jpg', url: 'https://www.youtube.com/channel/UCTwJm5tJzG7TX4sma-5qnBw'}
 
+talks:
+- {name: 'Long Night of Science Leipzig 2025', title: 'Speaker', department: '', image: 'assets/img/outreach/tjuka2025_LangeNacht.png', url: 'https://www.eva.mpg.de/events/20250620-long-night-of-science/'}
 
 
 social:
