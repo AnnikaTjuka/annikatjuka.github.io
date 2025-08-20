@@ -18,7 +18,7 @@ projects:
 
 teaching:
 - {name: 'The Evolution of Language', title: 'Teaching Material for High-School Students', department: 'OpenEvo - Educational Innovation Research for Understanding Humans',  url: 'https://openevo.eva.mpg.de/teachingbase/the-evolution-of-language/'}
-- {name: 'Body Part Vocabularies across Languages', title: 'Guest Lecture for Bachelor Students', department: 'Seminar on Psychology of Language at Wellesley College, USA, online', url: ''}
+- {name: 'Body Part Vocabularies across Languages', title: 'Guest Lecture for Bachelor Students', department: 'Seminar on Psychology of Language at Wellesley College, USA, online', url: 'assets/slides/teaching/guest-lecture-Wellesey.pdf'}
 - {name: 'Cognitive Science From the Perspective of Linguistic Diversity', title: 'Guest Lecture for PhD Students', department: 'International Max Planck Research School Core Seminar Week, Leipzig, Germany', url: ''}
 - {name: 'Sprachdiversität und Mehrsprachigkeit', title: 'University Seminar for Bachelor Students', department: 'University of Passau, Germany', url: 'https://annikatjuka.notion.site/Syllabus-f96f7f25227a47eca5f52df44e51ca74?pvs=74'}
 - {name: 'Sprachwissenschaftliche Fragestellungen und Methoden', title: 'University Introductory Course for Bachelor Students', department: 'Freie Universität Berlin, Germany', url: 'https://annikatjuka.notion.site/Syllabus-ed5e07e4e1524639b6c06d9b95af2992'}
