@@ -7,11 +7,11 @@ menu:
 - {name: 'contact', url: '/contact'}
 
 projects:
-- {name: 'NoRaRe Database (Editor)', url: 'quantum-mechanics'}
-- {name: 'Concepticon Database (Editor)', url: 'quantum-mechanics'}
-- {name: 'Computer-Assisted Language Comparison (Affiliate)', url: 'stellar-structures'}
-- {name: 'Focus Alternatives in the Human Mind - Retrieval, Representation and Recall (former Research Associate)', url: 'stellar-structures'}
-- {name: 'MelaTAMP (former Student Assisant)', url: 'stellar-structures'}
+- {name: 'NoRaRe Database (Editor)', url: 'https://norare.clld.org/'}
+- {name: 'Concepticon Database (Editor)', url: 'https://concepticon.clld.org/'}
+- {name: 'Computer-Assisted Language Comparison (Affiliate)', url: 'https://calclab.org/'}
+- {name: 'Focus Alternatives in the Human Mind - Retrieval, Representation and Recall (former Research Associate)', url: 'https://www.projekte.hu-berlin.de/en/fahmrrr/index.html'}
+- {name: 'MelaTAMP (former Student Assisant)', url: 'https://www.projekte.hu-berlin.de/en/melatamp/project%20description'}
 
 
 blogposts:
