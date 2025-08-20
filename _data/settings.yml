@@ -8,6 +8,7 @@ menu:
 
 projects:
 - {name: 'NoRaRe Database (Editor)', url: 'https://norare.clld.org/'}
+- {name: 'CLICS Database (Editor)', url: 'https://clics.clld.org/'}
 - {name: 'Concepticon Database (Editor)', url: 'https://concepticon.clld.org/'}
 - {name: 'Computer-Assisted Language Comparison (Affiliate)', url: 'https://calclab.org/'}
 - {name: 'Focus Alternatives in the Human Mind - Retrieval, Representation and Recall (former Research Associate)', url: 'https://www.projekte.hu-berlin.de/en/fahmrrr/index.html'}
