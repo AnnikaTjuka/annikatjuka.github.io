@@ -4,6 +4,7 @@ menu:
 - {name: 'talks', url: '/talks'}
 - {name: 'projects', url: '/projects'}
 - {name: 'outreach', url: '/outreach'}
+- {name: 'teaching', url: '/teaching'}
 - {name: 'contact', url: '/contact'}
 
 projects:
@@ -13,6 +14,11 @@ projects:
 - {name: 'Computer-Assisted Language Comparison (Affiliate)', url: 'https://calclab.org/'}
 - {name: 'Focus Alternatives in the Human Mind - Retrieval, Representation and Recall (former Research Associate)', url: 'https://www.projekte.hu-berlin.de/en/fahmrrr/index.html'}
 - {name: 'MelaTAMP (former Student Assisant)', url: 'https://www.projekte.hu-berlin.de/en/melatamp/project%20description'}
+
+
+teaching:
+- {name: 'NoRaRe Database (Editor)', url: 'https://norare.clld.org/'}
+- {name: 'CLICS Database (Editor)', url: 'https://clics.clld.org/'}
 
 
 blogposts:

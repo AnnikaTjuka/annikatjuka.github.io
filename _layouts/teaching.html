@@ -1,0 +1,15 @@
+---
+layout: default
+---
+
+{{ content }}
+
+<div class="row g-5 mb-5">
+  <div>
+    <h3 class="fw-bold border-bottom pb-3 mb-5">Teaching</h3>
+    {% for courses in site.data.settings.courses %}
+      <h4>{{ courses.name }}</h4>
+      <p><a href="{{ project.url }}">Material</a></p>
+    {% endfor %}
+  </div>
+</div>
