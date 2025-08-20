@@ -2,10 +2,11 @@ menu:
 - {name: 'publications', url: '/publications'}
 - {name: 'cv', url: '/cv'}
 - {name: 'talks', url: '/talks'}
+- {name: 'projects', url: '/projects'}
 - {name: 'outreach', url: '/outreach'}
 - {name: 'contact', url: '/contact'}
 
-courses:
+projects:
 - {name: 'NoRaRe Database (Editor)', url: 'quantum-mechanics'}
 - {name: 'Concepticon Database (Editor)', url: 'quantum-mechanics'}
 - {name: 'Computer-Assisted Language Comparison (Affiliate)', url: 'stellar-structures'}
