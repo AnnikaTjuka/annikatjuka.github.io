@@ -17,8 +17,8 @@ projects:
 
 
 teaching:
-- {name: 'NoRaRe Database (Editor)', url: 'https://norare.clld.org/'}
-- {name: 'CLICS Database (Editor)', url: 'https://clics.clld.org/'}
+- {name: 'NoRaRe Database (Editor)', title: 'FF0', department: 'hh',  url: 'https://norare.clld.org/'}
+- {name: 'CLICS Database (Editor)', title: 'FF0', department: 'hh', url: 'https://clics.clld.org/'}
 
 
 blogposts:
