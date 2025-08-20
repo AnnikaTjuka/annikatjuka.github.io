@@ -6,9 +6,12 @@ menu:
 - {name: 'contact', url: '/contact'}
 
 courses:
-- {name: 'Adding Concept Lists to Concepticon: A Guide for Beginners. Computer-Assisted Language Comparison in Practice 3(1). 1–5.', url: 'https://calc.hypotheses.org/2225'}
-- {name: 'Quantum Mechanics', url: 'quantum-mechanics'}
-- {name: 'Stellar Structures', url: 'stellar-structures'}
+- {name: 'NoRaRe Database (Editor)', url: 'quantum-mechanics'}
+- {name: 'Concepticon Database (Editor)', url: 'quantum-mechanics'}
+- {name: 'Computer-Assisted Language Comparison (Affiliate)', url: 'stellar-structures'}
+- {name: 'Focus Alternatives in the Human Mind - Retrieval, Representation and Recall (former Research Associate)', url: 'stellar-structures'}
+- {name: 'MelaTAMP (former Student Assisant)', url: 'stellar-structures'}
+
 
 blogposts:
 - {name: 'Link to all my blog posts in Computer-Assisted Language Comparison in Practice', url: 'https://calc.hypotheses.org/author/annikatjuka'}
