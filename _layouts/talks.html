@@ -11,10 +11,10 @@ layout: default
     <h4>{{ talk.name }}</h4>
     <h5>{{ talk.title }}</h5>
     <h6>{{ talk.department }}</h6>
-    <p><a href="{{ talk.url }}">Slides</a></p>
+    <p><a href="{{ talk.url }}" target="_blank">Slides</a></p>
   </div>
   <div class="col-md-6">
-    <img src="{{ site.github.url }}/{{ talk.image }}" target="_blank" alt="Contact" width="100%">
+    <img src="{{ site.github.url }}/{{ talk.image }}" alt="Contact" width="100%">
   </div>
 </div>
 {% endfor %}
