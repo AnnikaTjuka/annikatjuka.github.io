@@ -9,7 +9,7 @@
     {% else %}
       {% for item in site.data.publications.index %}
         <p> {{ item.name }} </p>
-        <p><a href="{{ item.url }}">{{ item.url }}</a></p>
+        <p><a href="{{ item.url }}" target="_blank">{{ item.url }}</a></p>
       {% endfor %}
     {% endif %}
   </div>
