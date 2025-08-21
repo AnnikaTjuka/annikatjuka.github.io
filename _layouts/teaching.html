@@ -9,8 +9,8 @@ layout: default
     <h3 class="fw-bold border-bottom pb-3 mb-5">Teaching</h3>
     {% for course in site.data.settings.teaching %}
       <h4>{{ course.name }}</h4>
-      <h5>{{ course.title }}</h5>
-      <h6>{{ course.department }}</h6>
+      <p>{{ course.title }}</p>
+      <p>{{ course.department }}</p>
       <p><a href="{{ course.url }}" target="_blank">Material</a></p>
     {% endfor %}
   </div>
