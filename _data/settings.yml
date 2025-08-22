@@ -33,7 +33,7 @@ outreach:
 - {name: 'Soapbox Science Berlin 2025', title: 'Speaker', department: 'Anatomie der Sprache: Eine Reise von Kopf bis Fuß', image: 'assets/img/outreach/soapbox.jpg', url: 'https://berlinsoapboxscience.wordpress.com/'}
 - {name: 'Three Minute Thesis Competition 2024', title: 'Speaker', department: 'One Body, Many Words: Linguistic Diversity as a Window into the Mind', image: 'assets/img/outreach/tjuka2024_3MTC.png', url: 'https://www.uni-jena.de/en/293073/three-minute-thesis-competition-2025'}
 - {name: 'Quantum Entanglement - Science and Music Open Air 2023', title: 'Speaker', department: 'Was wäre, wenn du jede Sprache auf der Welt sprechen könntest?', image: 'assets/img/outreach/quantum.jpg', url: 'https://www.instagram.com/quantumentanglementfestival/'}
-- {name: 'Spektrum.de - Thinky & Brain', title: 'Blog Post', department: 'Von Kopf bis Fuß - Wie Sprachen Körperteile benennen', image: 'assets/img/outreach/thinky.png', url: 'https://scilogs.spektrum.de/thinky-brain/von-kopf-bis-fuss-wie-sprachen-koerperteile-benennen/'}
+- {name: 'Spektrum.de - Thinky & Brain', title: 'Blog Post', department: '', image: 'assets/img/outreach/thinky.png', url: 'https://scilogs.spektrum.de/thinky-brain/von-kopf-bis-fuss-wie-sprachen-koerperteile-benennen/'}
 - {name: 'Computer-Assisted Language Comparison in Practice', title: 'Blog Posts', department: '', image: 'assets/img/outreach/blog.jpg', url: 'https://calc.hypotheses.org/author/annikatjuka'}
 - {name: 'YouTube', title: 'Videos', department: '', image: 'assets/img/outreach/youtube.jpg', url: 'https://www.youtube.com/channel/UCTwJm5tJzG7TX4sma-5qnBw'}
 
