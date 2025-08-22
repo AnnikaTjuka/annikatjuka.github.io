@@ -2,7 +2,6 @@ menu:
 - {name: 'publications', url: '/publications'}
 - {name: 'cv', url: '/cv'}
 - {name: 'talks', url: '/talks'}
-- {name: 'projects', url: '/projects'}
 - {name: 'outreach', url: '/outreach'}
 - {name: 'teaching', url: '/teaching'}
 - {name: 'contact', url: '/contact'}
