@@ -5,7 +5,7 @@
       {% for item in site.data.publications.featured %}
         <p> {{ item.name }} </p>
         <p><a href="{{ item.url }}" target="_blank">{{ item.url }}</a></p>
-        <p><a href="{{ site.github.url }}/publications/" target="_blank">Full list of publications</a></p>
+        <p><a href="{{ site.github.url }}/publications/">Full list of publications</a></p>
       {% endfor %}
     {% else %}
       {% for item in site.data.publications.index %}
