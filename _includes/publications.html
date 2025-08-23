@@ -2,7 +2,7 @@
   <div>
     {% if page.title == "Home" %}
     <h3 class="fw-bold border-bottom pb-3 mb-5">Selected Publications</h3>
-    <p><a href="https://annikatjuka.github.io/publications" >[Link to all publications]</a></p>
+    <p><a href="https://annikatjuka.github.io/publications" >All publications</a></p>
       {% for item in site.data.publications.featured %}
         <p> {{ item.name }} </p>
         <p><a href="{{ item.url }}" target="_blank">{{ item.url }}</a></p>
