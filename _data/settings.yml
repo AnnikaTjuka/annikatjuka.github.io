@@ -16,6 +16,7 @@ projects:
 
 
 teaching:
+- {name: 'Intro to Open Science', title: 'Guest Lecture for REsearchers', department: 'Bridging Minds: Interdisciplinary Approaches in Anthropology, Evolution and Culture',  url: 'assets/slides/teaching/open-science-2025.pdf'}
 - {name: 'The Evolution of Language', title: 'Teaching Material for High-School Students', department: 'OpenEvo - Educational Innovation Research for Understanding Humans',  url: 'https://openevo.eva.mpg.de/teachingbase/the-evolution-of-language/'}
 - {name: 'Body Part Vocabularies across Languages', title: 'Guest Lecture for Bachelor Students', department: 'Seminar on Psychology of Language at Wellesley College, USA, online', url: 'assets/slides/teaching/guest-lecture-Wellesey-2024.pdf'}
 - {name: 'Cognitive Science From the Perspective of Linguistic Diversity', title: 'Guest Lecture for PhD Students', department: 'International Max Planck Research School Core Seminar Week, Leipzig, Germany', url: 'assets/slides/teaching/IMPRS-lecture-2024.pdf'}
