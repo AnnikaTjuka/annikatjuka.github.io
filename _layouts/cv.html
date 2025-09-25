@@ -15,8 +15,8 @@ layout: default
         {% for section in site.data.cv.education %}
           <p class="fw-bold">{{ section.title }}</p>
           <p>{{ section.description }}</p>
-          <p>Thesis title: {{ section.thesis }}</p>
-          <p><a href="{{ section.url }}" target="_blank">Download</a></p>
+          <p>Thesis: <a href="{{ section.url }}" target="_blank">{{ section.thesis }}</a></p>
+          <p></p>
         {% endfor %}
       </div>
     </div>
