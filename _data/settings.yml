@@ -16,11 +16,11 @@ projects:
 
 
 teaching:
-- {name: 'Sprachdiversität und Mehrsprachigkeit', title: 'University Seminar for Bachelor’s students', department: 'University of Passau, Germany', url: 'https://annikatjuka.notion.site/Syllabus-f96f7f25227a47eca5f52df44e51ca74?pvs=74'}
-- {name: 'Sprachwissenschaftliche Fragestellungen und Methoden', title: 'University Introductory Course for Bachelor’s students', department: 'Freie Universität Berlin, Germany', url: 'https://annikatjuka.notion.site/Syllabus-ed5e07e4e1524639b6c06d9b95af2992'}
-- {name: 'Same Same But Different - Semantic Relations in Language and Thought', title: 'Seminar for Bachelor’s students', department: 'Friedrich Schiller University, Department of English Studies, Jena, online', url: 'https://annikatjuka.notion.site/Syllabus-ce3997d2d32343e89e7e0f7673666928'}
-- {name: 'Words and Their Meanings across Languages', title: 'University Seminar for Bachelor’s students', department: 'Friedrich Schiller University, Department of English Studies, Jena, online', url: 'https://annikatjuka.notion.site/Syllabus-35ec90dab75f4770bc6ead65d9a871f2'}
-- {name: 'The Mental Lexicon from a Cross-Linguistic Perspective', title: 'University Seminar for Bachelor’s students', department: 'Friedrich Schiller University, Department of English Studies, Jena, online', url: 'https://annikatjuka.notion.site/Syllabus-812dc77904e849059d4639d484eecd88'}
+- {name: 'Sprachdiversität und Mehrsprachigkeit', title: 'Seminar for Bachelor’s students', department: 'University of Passau, Germany', url: 'https://annikatjuka.notion.site/Syllabus-f96f7f25227a47eca5f52df44e51ca74?pvs=74'}
+- {name: 'Sprachwissenschaftliche Fragestellungen und Methoden', title: 'Introductory Course for Bachelor’s students', department: 'Freie Universität Berlin, Germany', url: 'https://annikatjuka.notion.site/Syllabus-ed5e07e4e1524639b6c06d9b95af2992'}
+- {name: 'Same same but different - Semantic relations in language and thought', title: 'Seminar for Bachelor’s students', department: 'Friedrich Schiller University, Department of English Studies, Jena, online', url: 'https://annikatjuka.notion.site/Syllabus-ce3997d2d32343e89e7e0f7673666928'}
+- {name: 'Words and their meanings across languages', title: 'Seminar for Bachelor’s students', department: 'Friedrich Schiller University, Department of English Studies, Jena, online', url: 'https://annikatjuka.notion.site/Syllabus-35ec90dab75f4770bc6ead65d9a871f2'}
+- {name: 'The mental lexicon from a cross-linguistic perspective', title: 'Seminar for Bachelor’s students', department: 'Friedrich Schiller University, Department of English Studies, Jena, online', url: 'https://annikatjuka.notion.site/Syllabus-812dc77904e849059d4639d484eecd88'}
 
 
 outreach:
