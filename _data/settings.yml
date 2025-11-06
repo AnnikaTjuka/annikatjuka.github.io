@@ -16,15 +16,9 @@ projects:
 
 
 teaching:
-- {name: 'Intro to Open Science', title: 'Guest Lecture for Master’s and PhD students', department: 'Bridging Minds: Interdisciplinary Approaches in Anthropology, Evolution and Culture',  url: 'assets/slides/teaching/open-science-2025.pdf'}
-- {name: 'The Evolution of Language', title: 'Teaching Material for High-School students', department: 'OpenEvo - Educational Innovation Research for Understanding Humans',  url: 'https://openevo.eva.mpg.de/teachingbase/the-evolution-of-language/'}
-- {name: 'Body Part Vocabularies across Languages', title: 'Guest Lecture for Bachelor’s students', department: 'Seminar on Psychology of Language at Wellesley College, USA, online', url: 'assets/slides/teaching/guest-lecture-Wellesey-2024.pdf'}
-- {name: 'Cognitive Science From the Perspective of Linguistic Diversity', title: 'Guest Lecture for PhD students', department: 'International Max Planck Research School Core Seminar Week, Leipzig, Germany', url: 'assets/slides/teaching/IMPRS-lecture-2024.pdf'}
 - {name: 'Sprachdiversität und Mehrsprachigkeit', title: 'University Seminar for Bachelor’s students', department: 'University of Passau, Germany', url: 'https://annikatjuka.notion.site/Syllabus-f96f7f25227a47eca5f52df44e51ca74?pvs=74'}
 - {name: 'Sprachwissenschaftliche Fragestellungen und Methoden', title: 'University Introductory Course for Bachelor’s students', department: 'Freie Universität Berlin, Germany', url: 'https://annikatjuka.notion.site/Syllabus-ed5e07e4e1524639b6c06d9b95af2992'}
-- {name: 'Computer-Assisted Approaches to Lexical Typology', title: 'Workshop for Master’s and PhD students', department: 'Semantic Shifts Summer School, Fréjus, France', url: 'assets/slides/teaching/SemShifts-SummerSchool-Lectures-2022.pdf'}
 - {name: 'Same Same But Different - Semantic Relations in Language and Thought', title: 'Seminar for Bachelor’s students', department: 'Friedrich Schiller University, Department of English Studies, Jena, online', url: 'https://annikatjuka.notion.site/Syllabus-ce3997d2d32343e89e7e0f7673666928'}
-- {name: 'Bayesian Phylogenetic Linguistics', title: 'Lecture for Master’s and PhD students', department: 'SHH Summer School - A doorway to human history, Max Planck Institute for the Science of Human History, Jena, online', url: 'https://github.com/MPI-SHH-SummerSchool/dlce-material/blob/main/Bayesian%20Phylogenetic%20Linguistics/slides-BayesianPhylogeneticLinguistics.pdf'}
 - {name: 'Words and Their Meanings across Languages', title: 'University Seminar for Bachelor’s students', department: 'Friedrich Schiller University, Department of English Studies, Jena, online', url: 'https://annikatjuka.notion.site/Syllabus-35ec90dab75f4770bc6ead65d9a871f2'}
 - {name: 'The Mental Lexicon from a Cross-Linguistic Perspective', title: 'University Seminar for Bachelor’s students', department: 'Friedrich Schiller University, Department of English Studies, Jena, online', url: 'https://annikatjuka.notion.site/Syllabus-812dc77904e849059d4639d484eecd88'}
 
