@@ -12,10 +12,11 @@ projects:
 - {name: 'Concepticon Database (Editor)', url: 'https://concepticon.clld.org/'}
 - {name: 'Computer-Assisted Language Comparison (Affiliate)', url: 'https://calclab.org/'}
 - {name: 'Focus Alternatives in the Human Mind - Retrieval, Representation and Recall (former Research Associate)', url: 'https://www.projekte.hu-berlin.de/en/fahmrrr/index.html'}
-- {name: 'MelaTAMP (former Student Assisant)', url: 'https://www.projekte.hu-berlin.de/en/melatamp/project%20description'}
+- {name: 'MelaTAMP (former Student Assistant)', url: 'https://www.projekte.hu-berlin.de/en/melatamp/project%20description'}
 
 
 teaching:
+- {name: 'Word representation in humans and machines', title: 'Seminar for Bachelor’s students', department: 'Leipzig University, Institute of British Studies, Leipzig, Germany', url: ''}
 - {name: 'Sprachdiversität und Mehrsprachigkeit', title: 'Seminar for Bachelor’s students', department: 'University of Passau, Chair for Multilingual Computational Linguistics, Passau, Germany', url: 'https://annikatjuka.notion.site/Syllabus-f96f7f25227a47eca5f52df44e51ca74?pvs=74'}
 - {name: 'Sprachwissenschaftliche Fragestellungen und Methoden', title: 'Introductory Course for Bachelor’s students', department: 'Freie Universität Berlin, Institute of German and Dutch Languages and Literatures, Berlin, Germany', url: 'https://annikatjuka.notion.site/Syllabus-ed5e07e4e1524639b6c06d9b95af2992'}
 - {name: 'Same same but different - Semantic relations in language and thought', title: 'Seminar for Bachelor’s students', department: 'Friedrich Schiller University, Department of English Studies, Jena, Germany', url: 'https://annikatjuka.notion.site/Syllabus-ce3997d2d32343e89e7e0f7673666928'}
